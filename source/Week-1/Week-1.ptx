@@ -63,6 +63,9 @@
 
         <subsection xml:id="course-norms">
             <title>Course Norms</title>
+            <p>
+                Let's talk about the expectations and norms for this class.
+            </p>
             <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
                 <figure>
                     <caption>Source: Edutopia</caption>
@@ -70,8 +73,6 @@
                 </figure>
 
                 <p>
-                    Let's talk about the expectations and norms for this class.
-                    
                     First and foremost, everyone should feel welcome and included in this class.  Each of us comes into this class with different 
                     experiences, identities, ideas, and social positions.  You can expect of me to foster an environment in which you can reach 
                     your academic goals.  I will expect of you, in-turn, to participate in that learning environment and contribute positively to 
@@ -133,7 +134,7 @@
 
             <figure xml:id="figure-3">
                 <caption>Source: The Greyhound</caption>
-                <image source="pics/AI.jpg"/>
+                <image source="pics/AI.jpg" width="90%"/>
             </figure>
 
             <p>
@@ -174,8 +175,7 @@
                     There are some things we'll definitely touch on, but you may have some particular questions about personal finance that 
                     you are hoping to explore in this course.  I'd like to include some of your questions, if possible.  So, your first activity 
                     for the course will be to come up with three questions regarding personal finance that you would like to see covered in 
-                    this course.  I'm not promising to answer everything.  (I won't tell you what stocks to buy.)  But please ask about things 
-                    you are genuinely interested in.  
+                    this course.  I'm not promising to answer everything.  
                 </p>
 
                 <figure>
@@ -183,6 +183,11 @@
                     <image source="pics/FinancialLit.jpg" />
                 </figure>
             </sidebyside>
+
+             <p>
+                (I won't tell you what stocks to buy.)  But please ask about things 
+                you are genuinely interested in.  
+            </p>
         </subsection>
 
         <subsection xml:id="subsec-smll-group-conv-why-learn">
