@@ -169,7 +169,7 @@
         <title>Money and You</title>
         <subsection xml:id="act-want-to-learn">
             <title>Activity: What do you want to learn?</title>
-            <sidebyside widths="50% 40%" valign="middle">
+            <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
                     Let's actually get started with personal finance.  Here is the thing.  Personal finance courses can be pretty ubiquitous.  
                     There are some things we'll definitely touch on, but you may have some particular questions about personal finance that 
@@ -185,7 +185,7 @@
 
              <p>
                 to come up with three questions regarding personal finance that you would like to see covered in 
-                    this course.  I'm not promising to answer everything.  (I won't tell you what stocks to buy.)  But please ask about things 
+                this course.  I'm not promising to answer everything.  (I won't tell you what stocks to buy.)  But please ask about things 
                 you are genuinely interested in.  
             </p>
         </subsection>
