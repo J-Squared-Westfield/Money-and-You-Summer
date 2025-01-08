@@ -40,7 +40,8 @@
             </p>
             <figure xml:id="figure-1">
                 <caption>Source:</caption>
-                <image source="ext/pics/GetRich2.png" width="50%"/>
+                <image source="ext/pics/GetRich2.png" width="20%">
+                </image>
             </figure>
         </subsection>
     </section>
