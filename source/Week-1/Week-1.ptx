@@ -45,9 +45,17 @@
                 explore what finance experts do with their own money and why.  We will explore general strategies for saving.  We will not make any 
                 speculations or bets on particular investment opportunities.
             </p>
-            <figure xml:id="figure-1-1">
-                <caption>Figure 1</caption>
-                <image source="pics/GetRich2.jpeg" width="20%"/>
+            
+            <p>
+                Cards on the table, I am a professor of mathematics.  However, this course is not a mathematics course.  Of course, there will be 
+                numbers since money is a quantitative object.  You will not need to memorize complex formulas.  You will need to be able to 
+                understand some arithmetic and how to apply arithmetic in the context of some applied problems, but you will have access to pretty 
+                much all computational tools you would like.
+            </p>
+
+            <figure xml:id="figure-2">
+                <caption>Source: Imgur</caption>
+                <image source="pics/GetRich.jpeg"/>
             </figure>
         </subsection>
     </section>
