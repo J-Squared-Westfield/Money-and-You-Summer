@@ -38,9 +38,9 @@
                 explore what finance experts do with their own money and why.  We will explore general strategies for saving.  We will not make any 
                 speculations or bets on particular investment opportunities.
             </p>
-            <figure>
+            <figure xml:id="figure-1">
                 <caption>Source:</caption>
-                <image source="ext/pics/GetRich2.png"/>
+                <image source="ext/pics/GetRich2.png" width="50%"/>
             </figure>
         </subsection>
     </section>
