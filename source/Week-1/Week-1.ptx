@@ -26,7 +26,7 @@
 
         <subsection xml:id="section1-1" xmlns:xi="http://www.w3.org/2001/XInclude">
             <title>What this course is not</title>
-            <sidebyside widths="50% 40%" valign="middle">
+            <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 
 
                 <p>
@@ -63,10 +63,10 @@
 
         <subsection xml:id="course-norms">
             <title>Course Norms</title>
-            <sidebyside widths="40% 50%" valign="middle">
+            <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
                 <figure>
                     <caption>Source: Edutopia</caption>
-                    <image source="pics/Norms.png" />
+                    <image source="pics/Norms.jpeg" />
                 </figure>
 
                 <p>
@@ -81,7 +81,7 @@
 
             <p>
                 
-                <ol>
+                <ul>
                     <li>
                         <p>
                             Everyone is allowed to exist as themselves.  Harassing, dismissive, violent, disrespectful, or discriminatory 
@@ -120,7 +120,7 @@
                             Let's do it.  Let's talk about AI.  No college course is about you turning some pieces of paper that say the right 
                             thing for college credit.  It is about learning what you need to succeed in your career, becoming an educated and 
                             compassionate citizen, and learning how to formulate your own ideas and communicate them effectively.  I am not 
-                            opposed to you using AI <em>>appropriately</em>.  Here is the general rule for this course: <em>>AI should not be 
+                            opposed to you using AI <em>appropriately</em>.  Here is the general rule for this course: <em>AI should not be 
                             used to generate ideas.</em>  Use it to correct your grammar.  Use it to delve deeper into a topic you want to know 
                             more about.  Do not ask AI to write out a solution or submission for any assignment.  This includes ``just using it to 
                             check an answer.''  Your submitted assignments should be a representation of how you connect with the material.  
@@ -128,7 +128,7 @@
                             questions about appropriate AI use, please let me know. 
                         </p>
                     </li>
-                </ol>
+                </ul>
             </p>
 
             <figure xml:id="figure-3">
@@ -137,7 +137,7 @@
             </figure>
 
             <p>
-                <ol>
+                <ul>
                     <li>
                         <p>
                             I understand that life happens.  Sometimes, unexpected things require us to focus on other things.  I will keep this 
@@ -159,7 +159,7 @@
                             your own mind.  Don't withdraw from challenge.  Don't hide from life.
                         </p>
                     </li>
-                </ol>
+                </ul>
             </p>
         </subsection>
     </section>
