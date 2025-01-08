@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="week-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="week-1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Week 1: Introduction, Money Psychology, and Setting Financial Goals</title>
 
-    <subsection xml:id="welcome" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <section xml:id="welcome" xmlns:xi="http://www.w3.org/2001/XInclude">
         <title>Welcome to Money and You!</title>
         <p> Welcome to Money and You!
 
@@ -24,7 +24,7 @@
             risk and reward, and consider why long-term financial goals can be difficult without the proper mindset.
         </p>
 
-        <subsubsection xml:id=secion1-1>
+        <subsection xml:id="section1-1">
             <title>What this course is not</title>
             <p>
                 This course is not a "how to get rich quickly" lesson.  It is more of a ``how to accumulate wealth slowly" course.  Let's just get 
@@ -38,5 +38,6 @@
                 explore what finance experts do with their own money and why.  We will explore general strategies for saving.  We will not make any 
                 speculations or bets on particular investment opportunities.
             </p>
-        </subsubsection>
-</section>
+        </subsection>
+    </section>
+</chapter>
