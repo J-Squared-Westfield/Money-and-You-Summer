@@ -26,17 +26,19 @@
 
         <subsection xml:id="section1-1" xmlns:xi="http://www.w3.org/2001/XInclude">
             <title>What this course is not</title>
-            <sidebyside widths="40% 50%" valign="middle">
-                <figure>
-                    <caption>Source: Medium</caption>
-                    <image source="pics/GetRich2.png" />
-                </figure>
+            <sidebyside widths="50% 40%" valign="middle">
+                
 
                 <p>
                     This course is not a ``how to get rich quickly" lesson.  It is more of a ``how to accumulate wealth slowly" course.  Let's just get 
                     this out of the way now.  If there were a proven track to move into the upper class, it wouldn't be some secret that is easily 
                     divulged in a self-help book or class.  The course is about setting and achieving <em>realistic and manageable</em> financial goals.
                 </p>
+
+                <figure>
+                    <caption>Source: Medium</caption>
+                    <image source="pics/GetRich2.png" />
+                </figure>
             </sidebyside>
 
             <p>  
@@ -57,6 +59,140 @@
                 <caption>Source: Imgur</caption>
                 <image source="pics/GetRich.jpeg"/>
             </figure>
+        </subsection>
+
+        <subsection xml:id="course-norms">
+            <title>Course Norms</title>
+            <sidebyside widths="40% 50%" valign="middle">
+                <figure>
+                    <caption>Source: Edutopia</caption>
+                    <image source="pics/Norms.png" />
+                </figure>
+
+                <p>
+                    Let's talk about the expectations and norms for this class.
+                    
+                    First and foremost, everyone should feel welcome and included in this class.  Each of us comes into this class with different 
+                    experiences, identities, ideas, and social positions.  You can expect of me to foster an environment in which you can reach 
+                    your academic goals.  I will expect of you, in-turn, to participate in that learning environment and contribute positively to 
+                    other's learning.  Contributing positively to the learning environment means the following expectations (among others):
+                </p>
+            </sidebyside>
+
+            <p>
+                
+                <ol>
+                    <li>
+                        <p>
+                            Everyone is allowed to exist as themselves.  Harassing, dismissive, violent, disrespectful, or discriminatory 
+                            rhetoric/behavior is not allowed.  You are allowed to be who you are.  Give that same freedom to others.  It is ok to 
+                            disagree.  It is not ok make someone else feel less valuable.  I reserve the right to request students who engage in 
+                            such behavior be removed from the course.  If you feel that something I have said during class does not support your 
+                            right to be yourself, please let me know.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            I will often ask you to talk or work in small groups.  You should contribute to your groups in meaningful ways.  If 
+                            you would prefer to work on a task individually, please feel comfortable to let me know.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            During class, you may think and write in whichever language you choose.  However, please be aware that there are very 
+                            few languages that I can read fluently.  So, please try to write submitted work in English (or something that I can 
+                            read).  Also note that talking in small groups will require you to communicate effectively with each other.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Class attendance and participation is important for this course.  Please come to our classroom before the time begins 
+                            and plan to stay until the end of the period.  You are welcome to leave the class for short periods of time as 
+                            necessary.  However, arriving to class extremely late or disappearing for long periods of time will be considered as 
+                            an absence.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Let's do it.  Let's talk about AI.  No college course is about you turning some pieces of paper that say the right 
+                            thing for college credit.  It is about learning what you need to succeed in your career, becoming an educated and 
+                            compassionate citizen, and learning how to formulate your own ideas and communicate them effectively.  I am not 
+                            opposed to you using AI <em>>appropriately</em>.  Here is the general rule for this course: <em>>AI should not be 
+                            used to generate ideas.</em>  Use it to correct your grammar.  Use it to delve deeper into a topic you want to know 
+                            more about.  Do not ask AI to write out a solution or submission for any assignment.  This includes ``just using it to 
+                            check an answer.''  Your submitted assignments should be a representation of how you connect with the material.  
+                            Using AI inappropriately will be considered a violation of the University's Academic Honesty Policy.  If you have any 
+                            questions about appropriate AI use, please let me know. 
+                        </p>
+                    </li>
+                </ol>
+            </p>
+
+            <figure xml:id="figure-3">
+                <caption>Source: The Greyhound</caption>
+                <image source="pics/AI.jpg"/>
+            </figure>
+
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            I understand that life happens.  Sometimes, unexpected things require us to focus on other things.  I will keep this 
+                            in mind regarding attendance assignment submission.  However, I will expect honest, timely, and open communication.  
+                            If you need to miss a class to attend a major event, let me know ahead of time so we can work something out.  Poor 
+                            communication or ghosting the course are harder things to be flexible about.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Feel safe but avoid safetyism.  Safetyism is an obsession with eliminating or avoiding threats (even imaginary ones) 
+                            to such an extent that you are unwilling to make reasonable trade-offs or accommodations necessitated by practical 
+                            or moral concerns.  It is the belief that it is unhealthy to experience negative emotions.  In order to learn, you 
+                            need to struggle a bit.  No one is a master of everything.  It's ok to feel confused.  It's ok to be disappointed.  
+                            It's ok think about things that are a bit uncomfortable.  A big part of this course will be reflecting on how you 
+                            relate to money.  I'll tell you now, you're going to have a lot of negative emotions regarding finances over your 
+                            life.  This course will help you prepare for those emotions, but you need to be willing to really think and explore 
+                            your own mind.  Don't withdraw from challenge.  Don't hide from life.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="money-and-you">
+        <title>Money and You</title>
+        <subsection xml:id="act-want-to-learn">
+            <title>Activity: What do you want to learn?</title>
+            <sidebyside widths="50% 40%" valign="middle">
+                <p>
+                    Let's actually get started with personal finance.  Here is the thing.  Personal finance courses can be pretty ubiquitous.  
+                    There are some things we'll definitely touch on, but you may have some particular questions about personal finance that 
+                    you are hoping to explore in this course.  I'd like to include some of your questions, if possible.  So, your first activity 
+                    for the course will be to come up with three questions regarding personal finance that you would like to see covered in 
+                    this course.  I'm not promising to answer everything.  (I won't tell you what stocks to buy.)  But please ask about things 
+                    you are genuinely interested in.  
+                </p>
+
+                <figure>
+                    <caption>Source: Vecteezy</caption>
+                    <image source="pics/FinancialLit.jpg" />
+                </figure>
+            </sidebyside>
+        </subsection>
+
+        <subsection xml:id="subsec-smll-group-conv-why-learn">
+            <title>Small-group conversation: Why do you want to learn financial literacy?</title>
+            <p>
+                I'm assuming you chose to enroll in this course for a reason.  Yes, you earn college credit and tick off one of the 
+                ``Wellness'' courses.  But really, why are you here?  Why did you choose this course and why are you interested in personal finance?  
+                If you do not want to learn personal finance and are simply ``stuck'' here, why do you not want to learn personal finance?  Talk with 
+                a few people close to you.  
+            </p>
         </subsection>
     </section>
 </chapter>
