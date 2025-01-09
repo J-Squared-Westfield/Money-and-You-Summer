@@ -2167,12 +2167,16 @@
                 out of those cycles.
             </p>
         </subsection>
+    </section>
 
-        <subsection xml:id="subsec-homework-1">
-            <title>Homework for Week 1</title>
-            <exercise>
-                T
-            </exercise>
-        </subsection>
+    <section xml:id="subsec-homework-1">
+        <title>Homework for Week 1</title>
+        <exercise>
+            T
+        </exercise>
+
+        <exercise>
+            Y
+        </exercise>
     </section>
 </chapter>
