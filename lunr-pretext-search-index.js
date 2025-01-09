@@ -82,6 +82,15 @@ var ptx_lunr_docs = [
   "body": " Source: Vecteezy   "
 },
 {
+  "id": "subsec-personality-quiz-6",
+  "level": "2",
+  "url": "money-and-you.html#subsec-personality-quiz-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Make sure to record your answers for each question. In the following table, your response to each question will give you a ``point'' in a ``money personality type.'' Add up your points in each type. Notice that some answers give points in multiple personality types. The one or two with the most points may indicate that you gravitate toward that money personality. "
+},
+{
   "id": "subsec-personality-quiz-7",
   "level": "2",
   "url": "money-and-you.html#subsec-personality-quiz-7",
