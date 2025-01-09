@@ -1850,7 +1850,7 @@
             </sidebyside>
 
             <p>
-                Do you notice that ``sale'' tags \textit{always} tell you the price 
+                Do you notice that ``sale'' tags <em>always</em> tell you the price 
                 before the sale.  It's to trigger your anchoring bias.  There is a lot to discuss regarding manipulation and anchoring, 
                 but that will come in a later week.  For now, be aware that this bias exists.  When making decisions on what to buy, 
                 do not concentrate on what was.  Concentrate on what is.  It doesn't matter that the pack of Oreos is usually 
