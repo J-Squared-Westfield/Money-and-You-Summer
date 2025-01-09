@@ -392,52 +392,6 @@
 
                     <li>
                         <p>
-                            ``I would be happier if I had more money.''
-                        </p>
-
-                        <p>
-                            <ol>
-                                <li>
-                                    <p>
-                                        Strongly disagree
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-                                        Somewhat disagree
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-                                        Disagree a bit
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-                                        Agree a bit
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-                                        Somewhat agree
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-                                        Strongly agree
-                                    </p>
-                                </li>
-                            </ol>
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
                             ``You should never lend money to a friend/family member.''
                         </p>
 
