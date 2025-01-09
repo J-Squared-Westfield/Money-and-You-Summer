@@ -394,25 +394,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Homework for Week 1",
-  "body": " Homework for Week 1  Be sure the following activities are turned in (if you have not already submitted them):   "
+  "body": " Homework for Week 1     Be sure the following activities are turned in (if you have not already submitted them):     What do you want to learn activity?    Think About Your Biases    Preliminary Financial Goals    Setting STAR Financial Goals       Recognizing biases. Consider the following scenarios. For each, determine which of the biases we've discuss are most affecting the situation. Be sure to explain each of your answers in a sentence or two.     A couple is looking to renovate their kitchen and are soliciting bids from various contractors. After receiving all the bids, one person in the couple says, ``I know this contractor is willing to do it for $5,000 less, but he was wearing a hat with ________________________on it. I won't pay anyone who supports that.''    A couple is arguing over whether to keep paying for an expensive storage unit rental. One person in the couple argues that they haven't taken anything out of storage for years and should just sell anything of value in the unit. The other person argues, ``I can't just sell that stuff. Take my record player. I bought that in high school. It's a vintage. Nobody has the money to pay what its worth.''    Grenda Byesalot walks into a Walmart to pick up some groceries. While walking past the clothes section, she notices a huge ``Rollback\" sign indicating that graphic t shirts are now $4 cheaper than they usually are. Grenda reasons that it would be silly not to buy a shirt now because they'll just be more expensive later if she waits.    Gerard is watching one of his favorite Tik-Tok-ers open a package they just received from a sponsor. After seeing how excited the influencer got and all the likes and hearts flying across the screen, he decided to check out the product for himself.       We targeted three learning objectives this week: life-long learning, metacognitive reflection, and social-emotional skills. For each of the learning goals, write a few sentences as to how this week's material has helped you progress toward meeting those learning objectives. The three learning goal descriptions are as follows:     Life-long learning: Students practice skills and attitudes central to lifelong learning; including a growth mindset that encompasses self-reflection, flexibility, intellectual curiosity, and considers broad perspectives and diversity of thought.    Metacognitive reflection: Students reflect on their own wellbeing in the context of the course topic and develop metacognitive reflection abilities that work to promote transfer of wellness behaviors and skills. (``Metacognitive'' means thinking about your own though processes.)    Social-emotional skills: Students identify personal social, emotional, and cognitive skills to be practiced and developed; including self-awareness, self-management, social awareness, responsible decision making, relationship skills, and communication skills.        "
 },
 {
-  "id": "subsec-homework-1-2",
-  "level": "2",
-  "url": "subsec-homework-1.html#subsec-homework-1-2",
-  "type": "Checkpoint",
-  "number": "1.5.1",
-  "title": "",
-  "body": "Be sure the following activities are turned in (if you have not already submitted them): "
+  "id": "sec-need-a-budget",
+  "level": "1",
+  "url": "sec-need-a-budget.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Do You Need a Budget?",
+  "body": " Do You Need a Budget?  Yes. Yes you do.    Source: iStock    Every part of our capitalist society is devoted to trying to get your to spend your money. Our society makes it really easy for you to buy products or services with little to no thought. One of the biggest reasons people go into debt or are unable to ever retire is because they overspend their paychecks.   And it's really easy to overspend. Don't have enough in your bank account for that manicure? Credit card. Need a flashier car? Payment plan. Need a bit of spending cash for the holidays? Cash advance. (These are not advice for these scenarios. Please don't do them. They're just examples of how easier it is the spend money you don't have.) A budget can be a tool that can help teach you discipline and fiscal responsibility. A budget is essentially the backbone or core of financial well-being. It is the foundation upon which other financial skills will be built.  A budget will help track where your money goes. Setting a budget for the first time can be quite eye-opening. Most people find that they spend far more on certain things than they think. A budget will help you set and achieve STAR goals. By putting goals into your budget, you are better set for reaching them. A budget can help payoff your debts or help prevent falling into debt. Debt is expensive, and it generally isn't good to fall into unmanageable debt.  Now, I'll tell you the truth. I do not currently set a budget for myself. I used to, but after getting an intuitive sense of how much I can spend and save each paycheck, I can confidently go through each month without overspending and managing to have an emergency fund for unplanned expenses. This is not because I'm wealthy. I'm the lowest paid associate professor in the Massachusetts state college system. This is because I set a strict budget for myself that I followed until it became habit. When people say they can live comfortably, this scenario is usually what they mean. For most, it doesn't happen overnight. It takes time.  "
 },
 {
-  "id": "subsec-homework-1-3",
+  "id": "sec-need-a-budget-3-1",
   "level": "2",
-  "url": "subsec-homework-1.html#subsec-homework-1-3",
-  "type": "Checkpoint",
-  "number": "1.5.2",
+  "url": "sec-need-a-budget.html#sec-need-a-budget-3-1",
+  "type": "Figure",
+  "number": "2.1.1",
   "title": "",
-  "body": ""
+  "body": " Source: iStock   "
+},
+{
+  "id": "sec-budget-rules",
+  "level": "1",
+  "url": "sec-budget-rules.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Budgeting Rules",
+  "body": " Budgeting Rules  In this section, we'll explore a few popular budgeting rules. There are general strategies for planning to spend your paychecks. Not all rules will fit everyone's situation, so it can take some trial-and-error to find one that works for you.   The 50-30-20 Rule   "
 },
 {
   "id": "backmatter-2",
