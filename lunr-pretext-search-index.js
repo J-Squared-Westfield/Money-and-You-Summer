@@ -394,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Homework for Week 1",
-  "body": " Homework for Week 1    "
+  "body": " Homework for Week 1  Be sure the following activities are turned in (if you have not already submitted them):   "
 },
 {
   "id": "subsec-homework-1-2",
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Checkpoint",
   "number": "1.5.1",
   "title": "",
-  "body": ""
+  "body": "Be sure the following activities are turned in (if you have not already submitted them): "
 },
 {
   "id": "subsec-homework-1-3",
