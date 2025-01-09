@@ -1183,419 +1183,632 @@
             </p>
             
             <table>
-  <title>Table for tallying points in each money personality type</title>
-  <tabular halign="center" top="medium">
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Question Number
-      </cell>
-      <cell right="medium">
-        Money Worshipper
-      </cell>
-      <cell right="medium">
-        Money Avoider
-      </cell>
-      <cell right="medium">
-        Money Saver
-      </cell>
-      <cell right="medium">
-        Money Spender
-      </cell>
-      <cell right="medium">
-        Money Indifferent
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 1
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-        A,B
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 2
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 3
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 4
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 5
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-        A,B
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 6
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        C, D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 7
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        B, C, D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 8
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 9
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 10
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 11
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 12
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 13
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A,B
-      </cell>
-      <cell right="medium">
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 14
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        D,E
-      </cell>
-      <cell right="medium">
-        C
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 15
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        D, E
-      </cell>
-      <cell right="medium">
-        D, E, F
-      </cell>
-      <cell right="medium">
-        C
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 16
-      </cell>
-      <cell right="medium">
-        E,F
-      </cell>
-      <cell right="medium">
-        A,B
-      </cell>
-      <cell right="medium">
-        E
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 17
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-      </cell>
-      <cell right="medium">
-        C, D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 18
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        C, D
-      </cell>
-      <cell right="medium">
-        B, C
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 19
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        A, B
-      </cell>
-      <cell right="medium">
-        C,D
-      </cell>
-    </row>
-    <row bottom="medium">
-      <cell left="medium" right="medium">
-        Q. 20
-      </cell>
-      <cell right="medium">
-        F
-      </cell>
-      <cell right="medium">
-        A
-      </cell>
-      <cell right="medium">
-        B
-      </cell>
-      <cell right="medium">
-        E, F
-      </cell>
-      <cell right="medium">
-        C, D
-      </cell>
-    </row>
-  </tabular>
-</table>
+                <title>Table for tallying points in each money personality type</title>
+                <tabular halign="center" top="medium">
+                    <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Question Number
+                        </cell>
+                        <cell right="medium">
+                            Money Worshipper
+                        </cell>
+                        <cell right="medium">
+                            Money Avoider
+                        </cell>
+                        <cell right="medium">
+                            Money Saver
+                        </cell>
+                        <cell right="medium">
+                            Money Spender
+                        </cell>
+                        <cell right="medium">
+                            Money Indifferent
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 1
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                            A,B
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 2
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 3
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 4
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 5
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                            A,B
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 6
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            C, D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 7
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            B, C, D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 8
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 9
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 10
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 11
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 12
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 13
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A,B
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 14
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            D,E
+                        </cell>
+                        <cell right="medium">
+                            C
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 15
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            D, E
+                        </cell>
+                        <cell right="medium">
+                            D, E, F
+                        </cell>
+                        <cell right="medium">
+                            C
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 16
+                        </cell>
+                        <cell right="medium">
+                            E,F
+                        </cell>
+                        <cell right="medium">
+                            A,B
+                        </cell>
+                        <cell right="medium">
+                            E
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 17
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                        </cell>
+                        <cell right="medium">
+                            C, D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 18
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            C, D
+                        </cell>
+                        <cell right="medium">
+                            B, C
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 19
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            A, B
+                        </cell>
+                        <cell right="medium">
+                            C,D
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Q. 20
+                        </cell>
+                        <cell right="medium">
+                            F
+                        </cell>
+                        <cell right="medium">
+                            A
+                        </cell>
+                        <cell right="medium">
+                            B
+                        </cell>
+                        <cell right="medium">
+                            E, F
+                        </cell>
+                        <cell right="medium">
+                            C, D
+                        </cell>
+                    </row>
+                </tabular>
+            </table>
+
+            <p>
+                Below is a description, more or less, of the money personality types.
+            </p>
+
+            <p>
+                <term>Money Worshipper.</term>
+                A money worshipper often equates wealth with success or status.  They tend not to be shy or anxious regarding finances.  
+                They believe that money is an important part of their connection to society.  A money worshipper can be either a saver or a 
+                spender, but is usually a spender.  Positive traits of a money worshipper is that they may have the motivation to work harder 
+                to accumulate wealth and may be more charitable.  Possible pitfalls of a money worshipper include over-spending, amassing 
+                debt, having an unhealthy money fixation, and relationship stresses.  Being too much of a money worshipper may mean a belief 
+                that accumulating wealth and status supersedes morality or ethics.
+            </p>
+
+            <p>
+                <term>Money Avoider.</term>
+                A money avoider tries to avoid thinking or talking about financial issues.  The topic of money can make them feel anxious.  
+                Sometimes, a money avoider equates wealth with lower morals.  The potential benefits of being a money avoider can include 
+                making ethical decisions without the influence of money.  Unfortunately, avoidance has many pitfalls including a 
+                reluctance to budget or plan financially.  They may tend to over-rely on others for getting basic needs.  A money avoider 
+                may also experience relationship stresses regarding finances.
+            </p>
+
+            <p>
+                <term>Money Saver.</term>
+                A money saver is more future-oriented and prefers to accumulate money to prepare for the future.  The benefits of 
+                being a saver include understanding the importance of being financially-prepared, a willingness to budget, and being 
+                prudent.  The potential pitfalls of being a money saver include becoming a miser or overly-cynical of spending.  They 
+                may over-stress on finances and refuse to engage in practical spending.
+            </p>
+
+            <p>
+                <term>Money Spender.</term>
+                A money spender is more present-oriented and tends to use the money they have rather than save it for later.  
+                The benefits of being a spender include being willing to engage in more self-care and being more open to a variety of 
+                events or experiences that cost money.  Pitfalls include over-spending, lacking discipline to adhere to a budget, and 
+                relationship stresses.
+            </p>
+
+            <p>
+                <term>Money Indifferent.</term>
+                Someone who is money indifferent does not feel excited or anxious about money.  People who are money indifferent 
+                generally are either wealthy enough to never have to worry about money, or they have adopted an ``out of sight - out of mind'' 
+                mentality.  Not many people truly fit into this category.  Most people get either anxious or excited about money, 
+                but they may test into this category if they do not answer truthfully about certain scenarios.  Those truly indifferent to 
+                money may have an easier time navigating relationships as money is less important to them.  However, they may also avoid 
+                necessary financial planning.
+            </p>
+
+            <figure xml:id="">
+                <caption>Source:LinkedIn</caption>
+                <image source="pics/MoneyPersonality2.jpg" width = "90%">
+                </image>
+            </figure>
+
+            <p>
+                There are also som ``hybrid'' personalities.'
+            </p>
+
+            <p>
+                <term>Money Status.</term>
+                A person who is both a money worshipper and money spender tend to focus on accumulating outward-facing symbols of 
+                wealth.  They may prioritize buying an expensive car rather than investing their money.  They may work very diligently 
+                to accumulate wealth.  However, they may take on too much risk and may make dangerous social comparisons.
+            </p>
+
+            <p>
+                <term>Money Vigilant.</term>
+                A person who is both a money avoider and money saver may be money vigilant.  Someone who is money vigilant can be 
+                anxious or guarded around topics of personal finance.  Benefits include a willingness to save and budget, not overspending 
+                on luxury items, and overall prudence.  Pitfalls can be becoming a miser or over-stressing about finances.
+            </p>
+
+            <p>
+                <term>Money Monk.</term>
+                A person who is both a money avoider and money spender may be a money monk.  Someone who is a money monk can feel 
+                guilty when they have money.  They do not like talking about money, but they are willing to work for it.  They tend to 
+                spend much of their money on others.  Benefits can include less stress in personal relationships and having a charitable 
+                spirit.  Pitfalls include overspending and being unwilling to save for the future.
+            </p>
+
+            <p>
+                <term>Money Hoarder.</term>
+                A person who is both a money worshipper and money saver may be a money hoarder.  A money hoarder appreciates wealth and 
+                equates it to status.  However, they do not outwardly display wealth to others.  The benefits of being a money hoarder is a 
+                willingness to budget and save for the future.  Pitfalls can include refusing to spend on things important for their health 
+                and having trouble navigating relationships.
+            </p>
+
+            <p>
+                As an example, here are my results: (1,F); (2,A); (3,B); (4,E); (5,E); (6,B); (7,B); (8,E); (9,E); (10,B); (11,B); (12,F); 
+                (13,F); (14,D); (15,A); (16,B); (17, B); (18, F); (19, E); (20,E).  
+            </p>
+
+            <p>
+                So, my point allocation would be: Money Worshipper - 1 point.  Money Avoider - 7 points.  Money Saver - 7 Points.  
+                Money Spender - 5 Points.  Money Indifferent - 2 Points.  
+            </p>
+
+            <p>
+                My dominant personality types seem to be a Money Avoider and a Money Saver.  I could then label myself as being 
+                ``money vigilant.''
+            </p>
+        </subsection>
+
+        <subsection xml:id="debrief-money-pers">
+            <title>Debrief</title>
+            <p>
+                What should you take away from this activity?  As you explore personal finance and start planning for your present and 
+                future, you need to work with yourself.  Working against yourself will make financial planning difficult and stressful.  
+                For example, if you are a money spender and do not accept that part of your personality, saving and budgeting will be 
+                much harder for you.  You may find yourself asking, ``why can't I stop buying X?''.  If you can identify your relationship 
+                to money, it will help you assess what you already do well and what you need to work on.
+            </p>
+
+            <p>
+                You cannot change the entire world's connection to money.  You cannot change someone else's relationship to money.  
+                You can only work on yourself.  By understanding how you think about and use money, you can become more mindful of all 
+                the emotions that money can bring and be more prepared for them.  You want to make sound, prudent decisions about money 
+                that will work toward your personal financial goals.  You need to truly know yourself to make these decisions.  
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Money-Psychology">
+        <title>Money Psychology</title>
+        <p>
+            At the end of the day, financial well-being is large a product of the decisions we make with our money.  Knowing all 
+            about the world of finance the consequences of decisions is not enough to maintain financial health.  You must also know why 
+            you make the decisions you do.  Having an understanding of yourself will help you keep on making sound financial decisions and 
+            avoid poor ones.
+        </p>
+
+        <subsection xml:id="subsec-Money-Personality">
+            <title>Money Personality</title>
+            <p>
+                You have seen a glimpse of money personality and have thought about your own.  Your money personality shapes your 
+                beliefs and values regarding your finances (and even the whole financial world).  These beliefs and values directly 
+                affect how you think about money.  For example, suppose you have \$10,000 saved into an account.  A person who is a 
+                saver will likely value security over spending and would be more inclined to continue saving or investing that money.  
+                A money worshipper may value financial status and be more inclined to spend the money on something like a down payment for a 
+                fancy car.  A money spending may value exciting experiences and see that money as an international vacation.
+            </p>
+
+            <p>
+                The point is that it helps to know yourself around money.  Suppose you have that \$10,000 and \textit{know} you shouldn't 
+                spend it, but you find yourself unable to stop thinking about all you could buy with it.  Realizing that your money 
+                personality may drive you more toward spending can allow you to be more mindful of your feelings.  Realize that your 
+                feelings are not wrong.  Feel your feelings.  But go with what you know is the best option for you.  With practice, this 
+                becomes easier and easier.
+            </p>
+        </subsection>
+        
+        <subsection xml:id="subsec-Money-Biases">
+            <title>Money Biases</title>
+            <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
+                <p>
+                    Everyone is unique, right?  Well, some aspects of money psychology are so common that there are names for them.  
+                    In fact, many advertisements and salespeople utilize some of these aspects to manipulate you into spending your money.  
+                    We'll discuss these tactics when we explore scams and manipulation.
+                </p>
+
+                <figure>
+                    <caption>Source: Vecteezy</caption>
+                    <image source="pics/Bias.png" />
+                </figure>
+            </sidebyside>
+
+            <p>
+                Everyone is unique, right?  Well, some aspects of money psychology are so common that there are names for them.  
+                In fact, many advertisements and salespeople utilize some of these aspects to manipulate you into spending your money.  
+                We'll discuss these tactics when we explore scams and manipulation.
+            </p>
+
+            <p>
+                Generally speaking, a <em>bias</em> is a thought, opinion, practice, etc.\ that is so imbedded in your brain that it 
+                affects your behavior without you realizing it.  A bias is not as simple as ``I like X better than Y.''  They are subtle, 
+                but powerful.  Most people are unaware of their biases until those biases are confronted.  Even then, many people choose 
+                not to accept their own biases.  We will go through some of the most common financial biases.
+            </p>
+
+            <p>
+                <term>Society Bias.</term>
+                Have you ever thought about needing the latest model of a phone, even though yours still works fine?  Is it the extra 
+                26 minutes of battery life?  Is it the extra 0.4MP resolution on the camera?  No.  It's about status.  Cellular phones and 
+                smartphones have been symbols of status since their creation.  (Seriously, look at who bought the first cellular phones.)  
+                Status symbols can drive many of us to make purchases that stretch our budgets.  Many people buy the largest homes their 
+                budgets can possibly afford when a smaller one would be just as functional.  Many people dine at expensive restaurant 
+                mostly for the opportunity to post a photo of their meal to social media.  Similarly, some people buy the latest smartphones 
+                so that they can have the largest number available.
+            </p>
+
+            <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
+                <p>
+                    <term>Endowment Effect</term>
+                    The endowment effect is less about buying and more about selling.  Have you ever run a garage sale (or ``tag sale'' for 
+                    you New Englanders) or tried to sell a car of phone?  That feeling you get when you are offered a price less than what 
+                    you feel is owed is the endowment affect.  An interesting commonality in human psychology is that once we own an item we 
+                    feel as though it is worth more.  Imagine this scenario.  You buy a car that has a value of $25,000.  However, 
+                    the second you sign the paperwork and own the car, the car's value drops to \$20,000 because the car now has a 
+                    ``previous owner'' and has depreciated.  How does that make you feel?  Are you feeling, ``Oh, that totally makes sense 
+                    that my car is worth less"?  Or are you feeling, ``That's bull.  If I haven't driven the car, it's still worth what I 
+                    paid for it"?  Probably the latter.  The thing with the endowment effect is that it can cause people to hold onto 
+                    items that they really want to sell.  Rather than earning some cash on an item you want to sell, you get no money and 
+                    need to keep owning your item.  
+                </p>
+
+                <figure>
+                    <caption>Source: Vecteezy</caption>
+                    <image source="pics/Bias.png" />
+                </figure>
+            </sidebyside>
         </subsection>
     </section>
 </chapter>
