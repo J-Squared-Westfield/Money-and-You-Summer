@@ -1818,7 +1818,7 @@
                 </p>
 
                 <figure>
-                    <caption>Source: The Decision Lab</caption>
+                    <caption>Source: https://cognitivebias.io/bias/loss-aversion</caption>
                     <image source="pics/Loss.png" />
                 </figure>
             </sidebyside>
@@ -1844,7 +1844,7 @@
                 </p>
 
                 <figure>
-                    <caption>Source: The Decision Lab</caption>
+                    <caption>Source: https://thedecisionlab.com/biases/anchoring-bias</caption>
                     <image source="pics/Anchor.jpeg" />
                 </figure>
             </sidebyside>
@@ -1881,7 +1881,7 @@
 
             <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
                 <figure>
-                    <caption>Source: Quality Edge</caption>
+                    <caption>Source: https://qualityedge.com/articles/ confirmation-bias/</caption>
                     <image source="pics/Confirmation.jpg" />
                 </figure>
 
