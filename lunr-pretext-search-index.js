@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Money Psychology",
-  "body": " Money Psychology  At the end of the day, financial well-being is large a product of the decisions we make with our money. Knowing all about the world of finance the consequences of decisions is not enough to maintain financial health. You must also know why you make the decisions you do. Having an understanding of yourself will help you keep on making sound financial decisions and avoid poor ones.   Money Personality  You have seen a glimpse of money personality and have thought about your own. Your money personality shapes your beliefs and values regarding your finances (and even the whole financial world). These beliefs and values directly affect how you think about money. For example, suppose you have \\$10,000 saved into an account. A person who is a saver will likely value security over spending and would be more inclined to continue saving or investing that money. A money worshipper may value financial status and be more inclined to spend the money on something like a down payment for a fancy car. A money spending may value exciting experiences and see that money as an international vacation.  The point is that it helps to know yourself around money. Suppose you have that \\$10,000 and \\textit{know} you shouldn't spend it, but you find yourself unable to stop thinking about all you could buy with it. Realizing that your money personality may drive you more toward spending can allow you to be more mindful of your feelings. Realize that your feelings are not wrong. Feel your feelings. But go with what you know is the best option for you. With practice, this becomes easier and easier.    Money Biases   Everyone is unique, right? Well, some aspects of money psychology are so common that there are names for them. In fact, many advertisements and salespeople utilize some of these aspects to manipulate you into spending your money. We'll discuss these tactics when we explore scams and manipulation.   Source: Vecteezy     Generally speaking, a bias is a thought, opinion, practice, etc.\\ that is so imbedded in your brain that it affects your behavior without you realizing it. A bias is not as simple as ``I like X better than Y.'' They are subtle, but powerful. Most people are unaware of their biases until those biases are confronted. Even then, many people choose not to accept their own biases. We will go through some of the most common financial biases.   Society Bias. Have you ever thought about needing the latest model of a phone, even though yours still works fine? Is it the extra 26 minutes of battery life? Is it the extra 0.4MP resolution on the camera? No. It's about status. Cellular phones and smartphones have been symbols of status since their creation. (Seriously, look at who bought the first cellular phones.) Status symbols can drive many of us to make purchases that stretch our budgets. Many people buy the largest homes their budgets can possibly afford when a smaller one would be just as functional. Many people dine at expensive restaurant mostly for the opportunity to post a photo of their meal to social media. Similarly, some people buy the latest smartphones so that they can have the largest number available.    Endowment Effect The endowment effect is less about buying and more about selling. Have you ever run a garage sale (or ``tag sale'' for you New Englanders) or tried to sell a car of phone? That feeling you get when you are offered a price less than what you feel is owed is the endowment affect. An interesting commonality in human psychology is that once we own an item we feel as though it is worth more. Imagine this scenario. You buy a car that has a value of $25,000. However, the second you sign the paperwork and own the car, the car's value drops to \\$20,000 because the car now has a ``previous owner'' and has depreciated. How does that make you feel? Are you feeling, ``Oh, that totally makes sense that my car is worth less\"? Or are you feeling, ``That's bull. If I haven't driven the car, it's still worth what I paid for it\"? Probably the latter. The thing with the endowment effect is that it can cause people to hold onto items that they really want to sell. Rather than earning some cash on an item you want to sell, you get no money and need to keep owning your item.   Source: Vecteezy      "
+  "body": " Money Psychology  At the end of the day, financial well-being is large a product of the decisions we make with our money. Knowing all about the world of finance the consequences of decisions is not enough to maintain financial health. You must also know why you make the decisions you do. Having an understanding of yourself will help you keep on making sound financial decisions and avoid poor ones.   Money Personality  You have seen a glimpse of money personality and have thought about your own. Your money personality shapes your beliefs and values regarding your finances (and even the whole financial world). These beliefs and values directly affect how you think about money. For example, suppose you have \\$10,000 saved into an account. A person who is a saver will likely value security over spending and would be more inclined to continue saving or investing that money. A money worshipper may value financial status and be more inclined to spend the money on something like a down payment for a fancy car. A money spending may value exciting experiences and see that money as an international vacation.  The point is that it helps to know yourself around money. Suppose you have that \\$10,000 and \\textit{know} you shouldn't spend it, but you find yourself unable to stop thinking about all you could buy with it. Realizing that your money personality may drive you more toward spending can allow you to be more mindful of your feelings. Realize that your feelings are not wrong. Feel your feelings. But go with what you know is the best option for you. With practice, this becomes easier and easier.    Money Biases   Everyone is unique, right? Well, some aspects of money psychology are so common that there are names for them. In fact, many advertisements and salespeople utilize some of these aspects to manipulate you into spending your money. We'll discuss these tactics when we explore scams and manipulation.   Source: Vecteezy     Generally speaking, a bias is a thought, opinion, practice, etc.\\ that is so imbedded in your brain that it affects your behavior without you realizing it. A bias is not as simple as ``I like X better than Y.'' They are subtle, but powerful. Most people are unaware of their biases until those biases are confronted. Even then, many people choose not to accept their own biases. We will go through some of the most common financial biases.   Society Bias. Have you ever thought about needing the latest model of a phone, even though yours still works fine? Is it the extra 26 minutes of battery life? Is it the extra 0.4MP resolution on the camera? No. It's about status. Cellular phones and smartphones have been symbols of status since their creation. (Seriously, look at who bought the first cellular phones.) Status symbols can drive many of us to make purchases that stretch our budgets. Many people buy the largest homes their budgets can possibly afford when a smaller one would be just as functional. Many people dine at expensive restaurant mostly for the opportunity to post a photo of their meal to social media. Similarly, some people buy the latest smartphones so that they can have the largest number available.    Endowment Effect. The endowment effect is less about buying and more about selling. Have you ever run a garage sale (or ``tag sale'' for you New Englanders) or tried to sell a car of phone? That feeling you get when you are offered a price less than what you feel is owed is the endowment affect. An interesting commonality in human psychology is that once we own an item we feel as though it is worth more.   Source: Customer Camp     Imagine this scenario. You buy a car that has a value of $25,000. However, the second you sign the paperwork and own the car, the car's value drops to \\$20,000 because the car now has a ``previous owner'' and has depreciated. How does that make you feel? Are you feeling, ``Oh, that totally makes sense that my car is worth less\"? Or are you feeling, ``That's bull. If I haven't driven the car, it's still worth what I paid for it\"? Probably the latter. The thing with the endowment effect is that it can cause people to hold onto items that they really want to sell. Rather than earning some cash on an item you want to sell, you get no money and need to keep owning your item.    Loss Aversion. One of the workers behind the endowment affect is loss aversion, but loss aversion is a mental bias all its own. In general, people prefer to avoid losing money rather than making gains. Don't believe me? Think about this scenario. You can play a game. You have a 75% chance of winning it. If you win, you double your life savings. If you lose, you lose all your life savings. Do you play the game?   Source: The Decision Lab     From a mathematical standpoint, the answer is clearly ``yes!\" However, most people will not take that bet because of loss aversion. Loss aversion has the potential to make you miss out on financial opportunities and investment gains. Now, a 25\\% chance of losing your life savings is a bit extreme, but loss aversion can affect much ``smaller'' financial decisions. Here's a common example with stocks. When investors see a good gain in a day, they are happy but not shocked. However, when a loss of a similar magnitude happens, the feeling of that loss hits much harder. Many investors will then pull their money out of investments when they see a sudden loss. However, selling a stock when it hits a low is generally not a good idea. (On the other hand, some stocks will continue to decline, and investors may choose not to sell due to loss aversion.)    Anchoring Bias. Here is a huge one that is the foundation of a lot of advertising schemes. (We'll dig in more later as to how.) Anchoring bias is now closely tied to the idea of a ``sale'' or ``deal.'' Seeing a product being offered for a price less than it was originally can make us want to buy that product, regardless of whether it worth that much.   Source: The Decision Lab     Do you notice that ``sale'' tags \\textit{always} tell you the price before the sale. It's to trigger your anchoring bias. There is a lot to discuss regarding manipulation and anchoring, but that will come in a later week. For now, be aware that this bias exists. When making decisions on what to buy, do not concentrate on what was. Concentrate on what is. It doesn't matter that the pack of Oreos is usually $4 and is $3 today. Were you going to buy Oreos anyway? Is $3 the price you're willing to pay?   Present Bias. It is usually easier to concentrate on what you're feeling now compared to what you may feel in the future. Present bias is the concept of living in the present. Living in the present is great for mindfulness, but it can be detrimental to making future plans. Living too much in the present can cause overspending on things you want now rather than saving for the future. Of course, it isn't good to live totally in the future and become a miser. Working with your present bias takes practice and hard work. Your brain is hard-wired to want what you want now. Delaying gratification for a much stronger sense of happiness takes conscious effort. Try to get into the habit of asking what you're giving up by spending money now. By buying the latest model phone now instead of skipping a generation, what financial goals or milestones are you delaying? By ordering that doughnut at Dunkin', what nutritional goals are you giving up? You do not need to sacrifice everything that makes you happy, but you need to have an eye toward the future. Your future self will thank you.   Confirmation Bias. Have you ever scoured the Internet looking for opinions to help you make an important decision? Often, people find a scenario in which most of the information tells them not to make a certain choice, but they only really accept the small bit of information that supports making that choice. This is confirmation bias at work.    Source: Quality Edge    Here's an example (not really financial). I am currently debating whether to get surgery on my spine to help with neurological pain. I've been debating this surgery for three years. When I have particularly bad flare-ups, I look for people's opinions and experiences with the surgeries. I find my self much more likely to read stories of successes rather than warnings or bad experiences.   This is likely because that main pain has made me unconsciously decided to get the surgery, and I am looking for confirmation of that opinion. Confirmation bias pops up constantly when making financial decisions. If you find yourself looking at information and only clicking on certain articles, posts, or sites, there is likely confirmation bias at work. It is important to remain objective as you make important decisions and accept all credible information as credible.  Just as a point of reference. Confirmation bias exists everywhere. It is one of the cornerstones of racism, conspiracy theories, homophobia, tribalism, etc. It is a really, really strong bias that every person on this earth has. Being more aware of it can help you make decisions that are actually in your own interest rather than making poor decisions and mentally-manipulating what you see to confirm that poor decision.   Affinity Bias. Related to confirmation bias is affinity bias. Affinity bias can be thought of as brand loyalty that can cause some inefficient financial decisions. For example, many adults ignore cheaper store-brand items in grocery stores (or even refuse to try shopping at a place like Aldi's); they instead only purchase items from brands they recognize. Sometimes there may be sound reasons for this restriction, but often the differences are minimal. For example, many store brand items are actually manufactured in the same factory as name-brand ones. The only difference is packaging.  Affinity bias doesn't have to be objectively bad. Many people make conscious efforts to support or not support certain businesses or products. For example, many people refuse to shop at Walmart, despite it being cheaper, because they do not support the low wages paid to employees or the forced closures of small businesses. What is important is for you to be aware of affinity bias and make conscious choices that fit with your preferences and financial goals.    Herd Mentality. Very much related to social bias is herd mentality. You have likely heard of it before. It's the thing everyone says people different from them follow and is what hipsters claim to be immune to. We are all under the effect of herd mentality. It's easy to see when other people are following a herd, particularly when we don't like that particular herd. It is much harder seeing when you are following a herd.   Source: TecoSoluciones     The consequences of herd mentality in the financial world (and beyond) are many. Herd mentality can cause you to buy something you really don't need or even convince you that you do need an item. It can cause investors to buy stocks that have been on the rise right before a ``bubble burst.'' In the modern world, the two most prevalent sources of herd mentality are in rating systems and influencers. Did you most recipe ratings online are fake? Did you know most Amazon reviews on a product are not for the actual product you're interested in? Yet they're important factors in determining our behavior. Speaking as someone who grew up before social media, I cannot tell you how bonkers I find the idea of watching an influencer. Yet followers beget more followers, which is the very concept of herd mentality.    Activity: Think About Your Biases  Pick three of the biases above that you have experienced in some way. (If you think you haven't been influenced by these biases before, think harder.) For each bias, briefly describe a time when that bias affected your thinking or behavior. Briefly reflect on how being mindful of those biased could lead (or have led) to better decisions.    Debrief  One thing to notice is that think about weaknesses in the way we think is difficult. That's because of the biggest bias of all - self-bias. We trust our own thoughts more than ones that conflict with them. That's ok; it's part of being human. However, like it or not, biases affect your behavior. Some may be more prone to certain biased than others, but bias is part of the human condition. From a financial standpoint, learning to recognize your own biases can help you make more informed and beneficial decisions about your money.   "
 },
 {
   "id": "subsec-Money-Biases-2-2",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Endowment Effect "
+  "body": "Endowment Effect. "
 },
 {
   "id": "subsec-Money-Biases-5-2",
@@ -232,7 +232,169 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "1.3.2",
   "title": "",
-  "body": " Source: Vecteezy   "
+  "body": " Source: Customer Camp   "
+},
+{
+  "id": "subsec-Money-Biases-7-1",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-7-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Loss Aversion. "
+},
+{
+  "id": "subsec-Money-Biases-7-2",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-7-2",
+  "type": "Figure",
+  "number": "1.3.3",
+  "title": "",
+  "body": " Source: The Decision Lab   "
+},
+{
+  "id": "subsec-Money-Biases-9-1",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-9-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Anchoring Bias. "
+},
+{
+  "id": "subsec-Money-Biases-9-2",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-9-2",
+  "type": "Figure",
+  "number": "1.3.4",
+  "title": "",
+  "body": " Source: The Decision Lab   "
+},
+{
+  "id": "subsec-Money-Biases-11",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Present Bias. "
+},
+{
+  "id": "subsec-Money-Biases-12",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Confirmation Bias. "
+},
+{
+  "id": "subsec-Money-Biases-13-1",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-13-1",
+  "type": "Figure",
+  "number": "1.3.5",
+  "title": "",
+  "body": " Source: Quality Edge   "
+},
+{
+  "id": "subsec-Money-Biases-16",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-16",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Affinity Bias. "
+},
+{
+  "id": "subsec-Money-Biases-18-1",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-18-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Herd Mentality. "
+},
+{
+  "id": "subsec-Money-Biases-18-2",
+  "level": "2",
+  "url": "sec-Money-Psychology.html#subsec-Money-Biases-18-2",
+  "type": "Figure",
+  "number": "1.3.6",
+  "title": "",
+  "body": " Source: TecoSoluciones   "
+},
+{
+  "id": "sec-goals",
+  "level": "1",
+  "url": "sec-goals.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Setting Financial Goals",
+  "body": " Setting Financial Goals   I'm willing to bet you have some financial goals already. Maybe you want to buy a house one day. Maybe you're already thinking about how to retire. Maybe you want to save up for the next Taylor Swift concert. If you have financial goals already, that's great. If not, that's okay too.   Source: Signature Bank of Georgia      Activity: Preliminary Financial Goals  Before we dive into setting good financial goals, I want you to physically write out at least two financial goals that you have. No restrictions.    STAR Financial Goals  Here is the thing about most financial goals. They usually fail. It's unfortunate, but true. The reason for failure usually isn't bad luck or an economic downturn. Most financial goals are doomed from the start. This is because most financial goals are vague and have no realistic plan behind them. Maybe a financial goal of yours is to be able to buy a house. It is a nice enough goal, but it is vague with no plan. When do you want to buy the house? How will you save up for it? Is your plan realistic?  Here is the thing about most financial goals. They usually fail. It's unfortunate, but true. The reason for failure usually isn't bad luck or an economic downturn. Most financial goals are doomed from the start. This is because most financial goals are vague and have no realistic plan behind them. Maybe a financial goal of yours is to be able to buy a house. It is a nice enough goal, but it is vague with no plan. When do yo want to buy the house? How will you save up for it? Is your plan realistic?   Specific. A financial goal can't be vague. It needs to be specific. Suppose you would like to buy a house? Depending on the size, location, and type of house you may want, the finances involved will vary wildly. You'll need a down payment, which can be (maybe possibly) as low as 3.5%, but preferably 20%, of the house's value. Maybe the kind of home you're interested in will be worth about $300,000 by the time you buy it, and you want a 15% down payment. Then your more specific goal is, ``I want save $45,000 to buy a home.'' This goal is specific.   Timed. Your financial goal should have timing to it. In how long will you achieve your goal? How often will you perform a necessary action to work toward that goal? If your goal is to save $45,000 for a down payment, then ask ``when will I have that $45,000?\" and ``how often will I put money aside for it?\" For example, you could say, ``I want to save $45,000 to buy a home in ten years by saving $400 each month.   Achievable. Your financial goal should be achievable. That is, it should possible given your current financial situation. Your goal should not bank on the hope that you will land a seven-figure job. Setting a goal of owning a private island is likely not achievable for anyone in this class without some huge inflow of resources. (Did reading that sentence trigger any emotions in you? Make note, if so.) You cannot simply say, ``Well, I'll get a job that pays millions.'' You need to be honest about your limitations. The key question is, ``What can you manage right now ?'' That isn't very likely or reasonable. On the other hand, buying a home is achievable. About two-thirds of Americans live in a home owned by the occupants. (Note that this is not saying that two-thirds of people or families own their homes!)  Consider the goal of saving $400 each month for a house down payment. The question is whether this goal is achievable or not, given the person's current financial situation. If not, the goal may need to be altered, or you may need to change your current financial situation.   Realistic. Similar to being achievable, financial goals need to be realistic. Being realistic includes be abstractly achievable, but it also includes making the saving process more tangible. What I mean is that, for example, saving \\$400 each month may be well within the realm of being possible or achievable. However, realistically, how will you do it? Perhaps, your goal could be, ``I want to save $45,000 for a down payment on a home in ten years by saving $200 from each of my biweekly paychecks.'' Depending on your situation, this may or may not be realistic. If not, can you change some numbers to make it realistic? Maybe the goal could be, ``I want to save $50,000 for a down payment on a house in fifteen years by saving $135 from my biweekly paychecks.''    Activity: Setting STAR Financial Goals  Now is your time to practice. Come up with two financial goals that are specific, timed, achievable, and realistic. They do not need to be lofty like buying a house, but they certainly can be.    Debrief  I want you to notice something about what you may be feeling after thinking about financial goals. If you started thinking about what you can realistically do to save money, you likely started feeling stressed. That is okay. In fact, setting financial goals is usually stressful. However, stress is not always bad. (Look up ``eustress.\") There are a couple reasons for this stress.   First, a financial goal means you can't have what you want now , and that's tough in today's modern society. Everything can be delivered to your door in 2 days. International trade allows for items to be manufactured at extremely low prices. Our society is built around getting what we want immediately.   Source: Signature Bank of Georgia     It's stressful to confront the very real fact that you can't always get what you want right away (or ever in some cases). (If you want some context for relatively-recent history of buying stuff, ask your parents or grandparents about ordering from the Sears catalog.) It is important that you learn to confront this stress. The more you practice accepting that some goals take time and effort to achieve, the better you will become at achieving them. It's not a simple thing to do, but it does get easier with practice.  Most financial goals require you to save. Honestly, saving money stinks. Saving money means you have less to spend, which means you need to make some sacrifices in regards to what you buy. For example, one long-term STAR goal I have is to save for my retirement by putting aside the maximum allowed contribution (currently $7,000 a year) into my IRA by depositing $270 from each of my bi-weekly paychecks. It's a good goal, but that goals means I have about \\$540 each month that I can't spend. Thinking about what I could do with an extra \\$7,000 each year is stressful. However, with the right mindset and some discipline, I accept that my financial goal takes priority over that extra spending money. Here is one tip. Do not think of saving as a sacrifice. If feasible, think of it as part of your regular budget - something that you need to do with each paycheck. Commit to it with a concrete plan and stick with it. It doesn't take long until saving is a habit.  Perhaps some of your began to actually worry about practically working toward your goals. This may be a sign that your goal isn't achievable or realistic. When a goal requires you to save, the goal should be one that is within your power to work toward. If your goal is too lofty or requires too much financial compromising, you won't be able to stick to it. Remember that it is always better to make slower, healthy progress than fast, unsustainable progress. Burnout is very real.  This debrief is not meant you to feel stress. It is to help you be mindful of any stress you may feel. Stressing over finances doesn't mean you're goals are bad, and it is okay to feel some stress over them. Work with that stress to formulate and follow STAR goals.    Example of a Goal Going Wrong  I'll give you an example of when I set a financial goal that wasn't a STAR goal and how it ultimately failed.  After I graduated from college and went to graduate school, I really started thinking about retirement. I knew that my IRA would be an important part of my retirement, and I knew that starting retirement savings early would pay massive dividends later on. So, I set the goal of putting aside the maximum allowed amount each year (then $5,000) into my IRA. That was my whole goal. My goal was specific - it was well-defined and gave a particular dollar amount. However, it was not timed, achievable, or realistic. It wasn't timed because Ididn't think about how often I would put money aside or how much. It wasn't achievable because I was only making $20,000 pre-tax. If I put $5,000 from my paychecks aside, I would have only had $10,000-$11,000 >a year for housing, food, clothing, utilities, etc. Housing and utilities alone were about $8,000 a year. (This was lower-middle class Indiana around 2008.) It wasn't realistic because I did not have a particular way to save money that I could actually stick to.  You might think, ``well, if he couldn't save $5,000 a year, he probably saved as much as he could.'' Nope.  To reach my goal, I would have needed to set aside $193 from each of my bi-weekly paychecks, which I simply couldn't do. My brain didn't go to, ``well, just save what you can.'' My brain went to, ``I can't meet this goal with this paycheck. So, I'll skip it and do it with the next one.\" Except I didn't. I didn't ever. I occasionally saved money in my IRA - $100 here, $150 there. By the end of my five years in graduate school, I don't think I saved more than $4,000. That's way less than the $25,000 I wanted to save. In hindsight, failing to meet my goals stressed me out. It was easier for me to basically mentally-abandon that goal.  What went wrong? My goal was simply impossible with my financial situation at the time. It wasn't a STAR goal. I set my sights too high. My goal should have been, ``I will save for retirement by depositing $100 from each of my paychecks for the next five years.'' That I could have managed. It wasn't my first choice of a goal, but it would have been a STAR goal. I could have gotten into a routine of saving that $100 from each check. That would have been $12,000-$13,000 saved by the time I graduated. It doesn't sound like much of a difference from $4,000 in the grand scheme of retiring, but believe me that it does make a huge difference. (We'll explore why in later weeks.)  What should you take from this? Yes, setting financial goals takes work. Yes, sticking to your goal paths takes even more work. But setting unreachable goals and failing to make any progress can be a nasty cycle. A good goal can break you out of those cycles.    Homework for Week 1    "
+},
+{
+  "id": "sec-goals-2-2",
+  "level": "2",
+  "url": "sec-goals.html#sec-goals-2-2",
+  "type": "Figure",
+  "number": "1.4.1",
+  "title": "",
+  "body": " Source: Signature Bank of Georgia   "
+},
+{
+  "id": "subsec--4",
+  "level": "2",
+  "url": "sec-goals.html#subsec--4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Specific. "
+},
+{
+  "id": "subsec--5",
+  "level": "2",
+  "url": "sec-goals.html#subsec--5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Timed. "
+},
+{
+  "id": "subsec--6",
+  "level": "2",
+  "url": "sec-goals.html#subsec--6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Achievable. "
+},
+{
+  "id": "subsec--8",
+  "level": "2",
+  "url": "sec-goals.html#subsec--8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Realistic. "
+},
+{
+  "id": "subsec-debrief-star-goals-3-2",
+  "level": "2",
+  "url": "sec-goals.html#subsec-debrief-star-goals-3-2",
+  "type": "Figure",
+  "number": "1.4.2",
+  "title": "",
+  "body": " Source: Signature Bank of Georgia   "
+},
+{
+  "id": "subsec-homework-1-2",
+  "level": "2",
+  "url": "sec-goals.html#subsec-homework-1-2",
+  "type": "Checkpoint",
+  "number": "1.4.3",
+  "title": "",
+  "body": ""
 },
 {
   "id": "backmatter-2",
