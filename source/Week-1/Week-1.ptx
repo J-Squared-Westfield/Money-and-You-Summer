@@ -1319,6 +1319,421 @@
                 Notice that some answers give points in multiple personality types.  The one or two with the most points may 
                 indicate that you gravitate toward that money personality.</b>
             </p>
+            
+            <table>
+  <title>Table for tallying points in each money personality type</title>
+  <tabular halign="center" top="medium">
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Question Number
+      </cell>
+      <cell right="medium">
+        Money Worshipper
+      </cell>
+      <cell right="medium">
+        Money Avoider
+      </cell>
+      <cell right="medium">
+        Money Saver
+      </cell>
+      <cell right="medium">
+        Money Spender
+      </cell>
+      <cell right="medium">
+        Money Indifferent
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 1
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+        A,B
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 2
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 3
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 4
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 5
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+        A,B
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 6
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        C, D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 7
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        B, C, D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 8
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 9
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 10
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 11
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 12
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 13
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A,B
+      </cell>
+      <cell right="medium">
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 14
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        D,E
+      </cell>
+      <cell right="medium">
+        C
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 15
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        D, E
+      </cell>
+      <cell right="medium">
+        D, E, F
+      </cell>
+      <cell right="medium">
+        C
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 16
+      </cell>
+      <cell right="medium">
+        E,F
+      </cell>
+      <cell right="medium">
+        A,B
+      </cell>
+      <cell right="medium">
+        E
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 17
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+      </cell>
+      <cell right="medium">
+        C, D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 18
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        C, D
+      </cell>
+      <cell right="medium">
+        B, C
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 19
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        A, B
+      </cell>
+      <cell right="medium">
+        C,D
+      </cell>
+    </row>
+    <row bottom="medium">
+      <cell left="medium" right="medium">
+        Q. 20
+      </cell>
+      <cell right="medium">
+        F
+      </cell>
+      <cell right="medium">
+        A
+      </cell>
+      <cell right="medium">
+        B
+      </cell>
+      <cell right="medium">
+        E, F
+      </cell>
+      <cell right="medium">
+        C, D
+      </cell>
+    </row>
+  </tabular>
+</table>
         </subsection>
     </section>
 </chapter>
