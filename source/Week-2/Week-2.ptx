@@ -16,7 +16,7 @@
         <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
             <figure>
                 <caption>Source: https://www.istockphoto.com/ photos/saving</caption>
-                <image source="pics/saving.jpg" />
+                <image source="pics/saving.jpg"/>
             </figure>
 
             <p>
@@ -62,8 +62,8 @@
             <title>The 50-30-20 Rule</title>
             <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
                 <p>
-                    Here is the rule.  Your <em>after-tax income</em> (``take-home pay'') should be allocated so that 50% is spent on ``needs,'' 
-                    30% is spent on ``wants,'' and 20% is saved.  That's it.  Let's break down these three categories.
+                    Here is the rule.  Your <em>after-tax income</em> (<q>take-home pay</q>) should be allocated so that 50% is spent on <q>needs,</q> 
+                    30% is spent on <q>wants,</q> and 20% is saved.  That's it.  Let's break down these three categories.
                 </p>
 
                 <figure>
@@ -75,7 +75,7 @@
             <p>
                 <term>Needs</term> - A <em>need</em> is a necessity that you cannot do without.  Housing, utilities, food, supplies, 
                 insurance, clothing, and transportation are examples of things considered necessities.  Other things can definitely be 
-                considered ``needs,'' based on your individual situation.  
+                considered <q>needs,</q> based on your individual situation.  
             </p>
 
             <p>
@@ -94,7 +94,7 @@
             <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
                     Sounds simple, right?  Here is one of the biggest barriers to the 50-30-20 rule.  Most people are reluctant to label 
-                    some desirable items as a ``want.''  Thinking to yourself, ``I couldn't live without coffee,'' doesn't make it a need.  
+                    some desirable items as a <q>want.</q>  Thinking to yourself, <q>I couldn't live without coffee,</q> doesn't make it a need.  
                     If you live where there is robust public transportation, owning a car may not be considered a need.  Pet supplies are 
                     tricky.  Is owning a pet a necessity?  Most people with pets are hesitant to say no.  What about Internet access?  It 
                     may be a necessity, but is the highest speed possible a necessity?  
@@ -118,19 +118,19 @@
                     <ul>
                         <li>
                             <p>
-                                ``I just need Taco Bell for my mental health.  It's my comfort food.''
+                                <q>I just need Taco Bell for my mental health.  It's my comfort food.</q>
                             </p>
                         </li>
 
                         <li>
                             <p>
-                                ``I couldn't survive without Door Dash.''
+                                <q>I couldn't survive without Door Dash.</q>
                             </p>
                         </li>
 
                         <li>
                             <p>
-                                ``We can't live anywhere that won't allow the `sweets.'"  (``Sweets'' are her cats.  For context, they've been 
+                                <q>We can't live anywhere that won't allow the <sq>sweets.</sq></q>  (<q>Sweets</q> are her cats.  For context, they've been 
                                 without housing for a year, and this was in response to an opportunity to get into an affordable place.)
                             </p>
                         </li>
