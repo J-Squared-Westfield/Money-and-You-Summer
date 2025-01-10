@@ -421,7 +421,61 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Budgeting Rules",
-  "body": " Budgeting Rules  In this section, we'll explore a few popular budgeting rules. There are general strategies for planning to spend your paychecks. Not all rules will fit everyone's situation, so it can take some trial-and-error to find one that works for you.   The 50-30-20 Rule   "
+  "body": " Budgeting Rules  In this section, we'll explore a few popular budgeting rules. There are general strategies for planning to spend your paychecks. Not all rules will fit everyone's situation, so it can take some trial-and-error to find one that works for you.   The 50-30-20 Rule   Here is the rule. Your >after-tax income (``take-home pay'') should be allocated so that 50% is spent on ``needs,'' 30% is spent on ``wants,'' and 20% is saved. That's it. Let's break down these three categories.   Source: https:\/\/www.infinitysolutions.com\/ blog\/do-you-have-trouble-budgeting-try-the-50-30-20-rule\/      Needs - A need is a necessity that you cannot do without. Housing, utilities, food, supplies, insurance, clothing, and transportation are examples of things considered necessities. Other things can definitely be considered ``needs,'' based on your individual situation.   Wants - A want is something that you would like to have but isn't strictly necessary for your survival. Eating out, entertainment, coffee, luxury items, and cosmetics are examples of things considered wants.   Savings - A savings item is simply an account in which you put money you do not spend that can be used for the future. Retirement accounts, savings accounts, and swear jars are all examples of things considered to be savings items.  Sounds simple, right? Here is one of the biggest barriers to the 50-30-20 rule. Most people are reluctant to label some desirable items as a ``want.'' Thinking to yourself, ``I couldn't live without coffee,'' doesn't make it a need. If you live where there is robust public transportation, owning a car may not be considered a need. Pet supplies are tricky. Is owning a pet a necessity? Most people with pets are hesitant to say no. What about Internet access? It may be a necessity, but is the highest speed possible a necessity?   Here is an important truth. If the thought of not having something makes you uncomfortable, that doesn't make the thing automatically a necessity.    Source: https:\/\/www.infinitysolutions.com\/ blog\/do-you-have-trouble-budgeting-try-the-50-30-20-rule\/     Here some examples of things I've heard from people in my life this particular week (at the time I wrote this section):      ``I just need Taco Bell for my mental health. It's my comfort food.''    ``I couldn't survive without Door Dash.''    ``We can't live anywhere that won't allow the `sweets.'\" (``Sweets'' are her cats. For context, they've been without housing for a year, and this was in response to an opportunity to get into an affordable place.)      Source: https:\/\/scc.sg\/e\/when-self-care-becomes-toxic\/       Activity: Classifying Spending  Let's practice categorizing things as needs, wants, or savings. For each item\/scenario, classify each as a need, a want, or savings. Pick only one. For each, explain your answer in one sentence.   "
+},
+{
+  "id": "subsec-50-30-20-2-2",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-2-2",
+  "type": "Figure",
+  "number": "2.2.1",
+  "title": "",
+  "body": " Source: https:\/\/www.infinitysolutions.com\/ blog\/do-you-have-trouble-budgeting-try-the-50-30-20-rule\/   "
+},
+{
+  "id": "subsec-50-30-20-3",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Needs "
+},
+{
+  "id": "subsec-50-30-20-4",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Wants "
+},
+{
+  "id": "subsec-50-30-20-5",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Savings "
+},
+{
+  "id": "subsec-50-30-20-7-2",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-7-2",
+  "type": "Figure",
+  "number": "2.2.2",
+  "title": "",
+  "body": " Source: https:\/\/www.infinitysolutions.com\/ blog\/do-you-have-trouble-budgeting-try-the-50-30-20-rule\/   "
+},
+{
+  "id": "subsec-50-30-20-9-2",
+  "level": "2",
+  "url": "sec-budget-rules.html#subsec-50-30-20-9-2",
+  "type": "Figure",
+  "number": "2.2.3",
+  "title": "",
+  "body": " Source: https:\/\/scc.sg\/e\/when-self-care-becomes-toxic\/   "
 },
 {
   "id": "backmatter-2",
