@@ -734,5 +734,428 @@
                 Utilities, groceries, and other consumable products are generally not negotiable.
             </p>
         </subsection>
+
+        <subsection xml:id="subsec-activity-help-budget">
+            <title>Activity: Helping Balance a Budget</title>
+            <p>
+                In preparation for this course, I’ve been scouring Reddit for questions and comments regarding budgeting.
+                Below are some common questions or comments from people.
+                For each, give some suggestions that could be of use to the person.
+            </p>
+
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            “How is it even possible to save money when half of it goes just to my rent?”
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            “Every time I try to budget, I can never get the numbers to add up.
+                            I always end up giving up on it.”
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            “How do you even not spend your whole paycheck? I mean, if I have the cash for Uber Eats, then how am I going to be cooking after work every night?”
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            “How am I supposed to budget when I have to predict how much I’m going to spend? How am I supposed to know whether I’m going to spend $200 or $1,000 on groceries next month?”
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            “So, some months I get lots of overtime at my job, but it’s really unpredictable.
+                            How can I make a solid budget taking into account my sporadic overtime?”
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-budgeting-tools">
+        <title>Budgeting Tools</title>
+        <p>
+            Budgeting doesn't have to be with just a notepad and a pencil.  There are some great resources to help create a clean and understandable budget.
+        </p>
+
+        <subsection xml:id="subsec-paper-tools">
+            <title>Paper Tools</title>
+            <p>
+                For many people, the act of physically writing something can make it more concrete and real.
+                If you are one of those people, doing your budget on paper may be the way to go.
+                At the end of this section, I’ve included a possible monthly budget worksheet that I’ve created.
+                It is one of many possible templates out there.
+                Feel free to print it out if you’d like.
+            </p>
+
+            <p>
+                A paper budget is fairly easy in concept.
+                In the respective areas, write down your usual expenses in a month.
+                Don’t include infrequent things like getting a tire repaired.
+                Of course, you can include a “miscellaneous” in either needs or wants (or both).
+                Ultimately, you need to make sure that your expenses, including savings, are no more than your total income for a month.
+                If they are higher, you immediately know that you need to examine your expenses and make some changes.
+                Once you’ve made sure you can afford your proposed month, you should make sure your budget falls in line with your savings goals.
+                Whether it be the 20%or something different, ask yourself if you’re putting enough away for what you want to achieve.
+                If not, you may need to make some changes to get your savings component higher.
+            </p>
+
+            <p>
+                The downside to a paper budget is that they are not very secure and it is harder to keep a record of them.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-spreadsheets">
+            <title>Spreadsheets</title>
+            <p>
+                As more people brought personal computers into their homes, budgeting on spreadsheets became very common.
+                Any spreadsheet program works.
+                There are even some programs available targeted specifically for budgeting, usually at a cost.
+                I’m using “program” here rather than “app” to include hard-drive bound applications and locally-saved files.
+                I understand that the term “program” is falling out of use.
+                I am partial to Excel as my program of choice, which you can download for free as a Westfield State student.
+            </p>
+
+            <p>
+                The nice thing about spreadsheets is that you can “program” them to automatically add-up totals, find percentages, or find differences (among other things).
+                You can also simply type in numbers and calculate what you need to by hand.
+                Ultimately, the process is the same as if you were working on paper.
+                One big benefit is that you can download a spreadsheet file of all your purchases in a month from your credit card account or withdrawals from your bank account and paste them right into your spreadsheet.
+                If you browse Reddit for a while, you’ll find most long-term budget users use spreadsheets over a fancy app.
+            </p>
+
+            <p>
+                The downside of spreadsheet programs is the learning curve to some of them.
+                You may need a working knowledge of your program of choice before you can really use them.
+            </p>
+
+            <p>
+                I have uploaded two files on Plato for you to look at.
+                One is a blank budget template that you free to use.
+                The other is a simple example what a budget could look like.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-apps">
+            <title>Apps</title>
+            <p>
+                The popularity of budgeting apps has been skyrocketing over the past number of years.
+                They can be as simple or complex as you like.
+                Some even connect to your bank, credit cards, and utilities accounts to automatically update values and make recommendations.
+                One benefit to an app is that for people who do not have the discipline to stick with a spreadsheet month-to-month, an app can make the process more inviting, colorful, and efficient.
+            </p>
+
+            <p>
+                Before progressing, a word of caution.
+                As with everything in our connected world, access to services usually comes with security issues.
+                Different apps collect different amounts of your private information.
+                Before downloading any app or connecting something to one of your accounts, do some research into what information is collected and how it is stored and used.
+                Only use a service in which you are comfortable with its information policies.
+                Below, I give a couple of examples of popular budgeting apps.
+                I don’t have a recommendation, and I do not make any claims to their information security policies.
+                This is all informational stuff.
+            </p>
+
+            <p>
+                Here is another word of warning, and a life lesson.
+                You’ll notice that most popular budgeting apps are not free, or they have very limited free versions that are barely useful.
+                You’ll also see a price tag well beyond what they’re worth.
+                (As in $10-$20 a month.) Here is why.
+                The target audience of these apps are people who either are new to personal finance or have a history of poor budgeting habits.
+                These companies are hoping to capitalize on this inexperience or lack of confidence.
+                You have to ask yourself if the polish and extra features of a paid app are worth $100-$200 a year for you.
+            </p>
+
+            <p>
+                -Goodbudget.
+                Goodbudget uses the envelope method of budgeting.
+                There is a “free” version that limits you to 10 “envelopes” (plus 10 miscellaneous envelopes) and does not connect to your bank.
+                The paid version is either $10 a month or $80 a year.
+                Essentially, you tell Goodbudget how much your paychecks are.
+                You then set up virtual “envelopes” to allocate money.
+                You can also tell it how much debt you have and how you are paying it off (like car loans or credit cards).
+                Goodbudget is more about planning for your next month than it is reflecting on your past expenses.
+                So, if you are looking for insight on why last month’s budget went awry, Goodbudget may not be the best option.
+                The app also has no way of telling when you overspend from an envelope.
+                If you budgeted $250 for groceries but spent $300, you’ll need to update that manually.
+                If you need some help planning and have the discipline to manually enter and keep track of your expenses, Goodbudget may work.
+            </p>
+
+            <p>
+                -YNAB.
+                (Used to be “You Need A Budget.” Not it’s “Why-Nab.”) YNAB might be the most polished, and expensive, app available.
+                It is $15 per month or $110 per year.
+                Much of your money goes toward the polish, but that is important for some people.
+                YNAB connects to most bank accounts.
+                If you use your debit card or direct pay for most expenses, YNAB can automatically determine what category each expense falls into.
+                YNAB uses the zero-balance budget method, which asks you to spend or save every dollar of income.
+                It also comes with a bunch of pretty graphs, if that sort of thing excites you.
+                College students can get a one-year “free” trial of YNAB.
+                (“Free” in that you still need to give it billing information that will automatically kick in unless you jump through the hoops to delete your account.) The big claim to YNAB are the educational resources.
+                It gives suggestions on how to allocate your money.
+                (A fancier version of the 50-30-20 rule.)
+            </p>
+
+            <p>
+                -PocketGuard.
+                First, PocketGuard costs $75 per year.
+                PocketGuard is a bit different.
+                It is designed more around lowering expenses first and then budgeting afterward.
+                It claims to help detect unnecessary subscriptions and will “negotiate” with certain companies for better rates.
+                (E.g., a better monthly rate for Internet.) It connects to most of your financial accounts including your bank, credit cards, loan providers, etc.
+                The budgeting aspect is fairly basic.
+                After your automatic monthly expenses are deducted, you build your budget manually around it.
+                It can auto-categorize expenses from your bank or credit card statements.
+                <alert>I do NOT recommend “trying” PocketGuard to see if it lowers your bills.
+                You will be charged $75 and locked into a subscription whether or not it actually does what it claims.</alert>
+            </p>
+
+            <p>
+                Again, <alert>please be careful with these apps</alert>.
+                Whether it be becoming locked into a paid subscription or giving access to your financial information, these apps exist for the companies’ benefit.
+                Your benefit is secondary to them.
+                Do research and make informed decisions.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-faq2">
+        <title>FAQ</title>
+        <ul>
+            <li>
+                <p>
+                    Does a budget like the 50-30-20 budget apply to students?
+                </p>
+
+                <p>
+                    A budget plan is simply a guide for how to manage money and are not concrete things.
+                    Numbers can be changed to adapt to certain situations.
+                    Some students choose to work just enough to pay for college expenses, and that’s ok.
+                    A budget is meant to help you gain and maintain financial stability.
+                    If you’re in a situation where you still have most of your expenses paid for by your parents, then the numbers involved may look different.
+                    Perhaps you could save more than 20%of money you earn?
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    Do I need to spend 50%of my money on needs?
+                </p>
+
+                <p>
+                    No.
+                    First, a budget is simply a tool for helping you achieve and maintain financial health.
+                    It is not a law of the world.
+                    Think of the 50-30-20 rule more as a guideline in which you should aim so that no more than 50%of your income goes to needs and no more than 30%goes to wants.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    How do taxes play a role in budgeting.
+                </p>
+
+                <p>
+                    For the majority of people in the US, taxes are taken out of your paycheck automatically.
+                    So, you do not need to budget for taxes.
+                    You base your budget on your after-tax or take-home amount.
+                    So, after your taxes have been removed, you build your budget around what you get post-taxes.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    Should I learn how to avoid taxes?
+                </p>
+
+                <p>
+                    No.
+                    That’s called “tax evasion.” Taxes pay for education, roads, law enforcement, parks, sanitation, etc.
+                    Taxes are necessary for maintaining the benefits of living in a country like the US.
+                    There are legitimate ways to reduce what you pay in taxes, which we’ll cover in a later week.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    How does insurance play a role in budgeting?
+                </p>
+
+                <p>
+                    For most types of insurance, you factor insurance into your budget as a need.
+                    The tricky one is medical insurance.
+                    If you get medical insurance through your employer, you likely pay a part of the premium (usually 25%) out of your paycheck automatically.
+                    You have a choice with this.
+                    If possible, you could think of that automatic insurance premium payment like a tax and use your post-tax, post-insurance pay for budgeting.
+                    However, you can also include the premium payment as a need.
+                    In that case, you would need to add what you pay in insurance premium to your after-tax pay amount and then build your budget, including medical insurance as a need.
+                    For example, if your after-tax pay is $2,000 each month and insurance is $200 each month (making your paychecks total $1,800), you could take $1,800 as your money used for budgeting, basing percentages off $1,800 and not including medical insurance in the budget.
+                    You could also take $2,000 as your pay (even though you only get paychecks totaling $1,800) and base percentages off that, but you need to make sure that the $200 is listed as a need in your budget.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    How do I stop my bank account from going negative?
+                </p>
+
+                <p>
+                    If you can, pretend that $0 isn’t a balance of $0.
+                    Make a mental note that some amount, say $100, is effectively $0.
+                    That is, if you see your account approaching $100, you tell yourself you are out of money and can no longer spend until you have more.
+                    The more you earn/spend as life goes on, you’ll want that minimum number to be higher.
+                    Note that this minimum amount is different than a rainy-day or emergency fund.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    How do I get rich by making a budget?
+                </p>
+
+                <p>
+                    A budget isn’t about accumulating wealth.
+                    It is about getting and maintaining financial health.
+                    The savings component of a budget will help with accumulating long-term savings or retirement, but it is not a way to get rich quick.
+                    However, sticking to a budget can help you get rich slow and steady, or at least help lift yourself out of poverty.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    There are some things I label as wants, but I can’t go a day without them.
+                    What should I do?
+                </p>
+
+                <p>
+                    If you find yourself in a situation where you need to cut back on wants but your brain is really driving you to keep buying a certain thing, you may be looking at an addiction.
+                    It may be worth talking with someone at the Counseling Center about getting some tips to cut back.
+                </p>
+            </li>
+        </ul>
+    </section>
+
+    <section xml:id="sec-hw2">
+        <title>Homework for Week 2</title>
+       <ol>
+            <li>
+                <p>
+                    Be sure the following activities are turned in (if you have not already submitted them):
+                </p>
+
+                <p>
+                    <ul>
+                        <li>
+                            <p>
+                                Classifying Spending
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Helping Balance a Budget
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </li>
+
+            <li>
+                    <p>
+                        Below is the current budget for Anita Budget.
+                        Her goal is to save at least 20%of her income.
+                        She is currently single, living in a 2-bedroom apartment, owns two cats.
+                        She has already asked her boss for a raise, and she hasn’t been able to find a better-paying job.
+                        First, <alert>correct any errors in categorization</alert> for Anita.
+                        Second, <alert>make recommendations for how she can get her budget under control and achieve her savings goals</alert>.
+                    </p>
+
+                    <p>
+                        <image source="pics/HW2_1.png">
+                        </image>
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Below is the current budget for Max Spender.
+                        He wants to enjoy more from life while also saving for retirement and education.
+                        So, he would like to spend no more than 50%on necessities.
+                        He is married with two children.
+                        He works full-time, and his husband works part-time as the primary care-giver.
+                        Max has already asked his boss for a raise, and he cannot change careers right now.
+                        <alert>Make recommendations for how Max can reach his budget goals.</alert>
+                    </p>
+
+                    <p>
+                        <image source="pics/HW2_2.png">
+                        </image>
+                    </p>
+                </li>
+
+                <li>
+                        <p>
+                            For this exercise, you will make your own monthly budget.
+                            First, <alert>list out all our expenses and savings and classify them as needs, wants, and savings</alert>.
+                            If there are any items you want to keep personal and don’t want me to see, just list it as “personal expense,” but still give the actual monthly amount that personal item costs.
+                            Second, <alert>create your budget using whatever budget plan and technique you’d like, except for an app.</alert> (You may still use an app to budget, but in terms of submitting your budget for this assignment, an app would be a bit tedious.)
+                        </p>
+
+                        <p>
+                            You have two options.
+                            If you have a job, either full-time or part-time, and have some of your own expenses that you pay for, you can use your actual paychecks and expenses to create your budget.
+                            If you do not currently work, you may create a hypothetical budget using income and expenses you might expect shortly after graduation.
+                            (If you do this hypothetical budget, research how much the starting pay is for a job you could see yourself doing just after graduation.
+                            Don’t use “average pay.” Also research realistic expenses in terms of housing, food, etc.
+                            For your pay, take how much is reported for a starting pay and multiply by 0.7.
+                            This will give you an approximate after-tax amount.)
+                        </p>
+                </li>
+
+                <li>
+                        <p>
+                            We targeted four learning objectives this week: life-long learning, metacognitive reflection, accessing welling tools, and social-emotional skills.
+                            For each of the learning goals, write a few sentences as to how this week’s material has helped you progress toward meeting those learning objectives.
+                            The four learning goal descriptions are as follows:
+                        </p>
+
+                        <p>
+                            <ul>
+                                <li>
+                                    <p>
+                                        Lifelong Learning: Students practice skills and attitudes central to lifelong learning; including a growth mindset that encompasses self-reflection, flexibility, intellectual curiosity, and considers broad perspectives and diversity of thought.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Metacognitive Reflection and Application: Students reflect on their own wellbeing in the context of the course topic and develop metacognitive reflection abilities that work to promote transfer of wellness behaviors and skills.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Accessing Wellness Tools: Students develop tools for improving their physical, social, and/or mental/emotional health and overall college experience.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Social Emotional Skills: Students identify personal social, emotional, and cognitive skills to be practiced and developed; including self-awareness, self-management, social awareness, responsible decision making, relationship skills, and communication skills.
+                                    </p>
+                                </li>
+                            </ul>
+                        </p>
+                </li>
+            </ol>
     </section>
 </chapter>
