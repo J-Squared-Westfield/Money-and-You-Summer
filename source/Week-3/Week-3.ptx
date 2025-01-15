@@ -2,5 +2,83 @@
 
 <chapter xml:id="week-3" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Week 3: Credit and Credit Cards</title>
-    
+    <section xml:id="sec-introduction-to-credit">
+        <title>An Introduction to Credit</title>
+        <p>
+            Let’s look at a few very realistic scenarios.
+        </p>
+
+        <p>
+            Alex and Alexa are in the market for their first home.
+            A clean, updated home in a nice neighborhood has just gone on the market for $300,000.
+            They have saved for a 20%downpayment plus closing costs.
+            So, they need to borrow $240,000.
+            Banks are currently advertising 5.8%30-year fixed rates.
+            This would make the basic mortgage cost $1,408 per month.
+            With taxes and insurance, their monthly mortgage payment is $2,074.
+            This amount would just fit into their possible housing budget.
+            When they apply for the loan, they are told that their credit is not great and that the interest rate is going to be 7.2%.
+            This change in interest rate raises the basic loan payment to $1,629, a $221 difference.
+            Alex and Alexa could move a little around in their budget, but not $221.
+            They decide to leave off on buying a home for a few more years.
+        </p>
+
+        <p>
+            Jordan was laid off from work for a number of months during a recession, but they have have just accepted a new job in Boston.
+            They don’t have a car and need to live somewhere with decent public transportation options to downtown.
+            They have been putting in applications for several apartments, but they are rejected every time.
+            They are told that tenants with better credit ratings are the ones chosen to rent the places.
+            During their unemployed time, Jordan had to miss a number of bill payments, but they are starting to catch up.
+            No landlord is willing to accept their explanation of their situation and choose to just “go with the numbers.” Jordan has to now choose between not taking her new job or living in a place in which the daily commute is hours long.
+        </p>
+
+        <p>
+            The two scenarios above are not particularly wild or extreme.
+            In fact, they are very common.
+            Having poor credit can cost you in terms of money, time, and stress.
+            The importance of credit has become so mainstream that an entire industry has been built around it.
+        </p>
+
+        <p>
+            When you hear the term “credit” in the context of personal finance, it refers to a measurement on how trustworthy you are with regards to paying your bills and paying back loans you take out.
+            Giving someone a loan is a risky thing.
+            If someone is unable to pay what they owe you, it can be a very time-consuming endeavor to recuperate even part of the money you are owed.
+            If you are a landlord, it can take 6 to 18 months to evict someone who stops paying rent.
+            So, landlords tend to only rent to those who have shown they can and will pay their bills.
+            Some insurance companies even demand more in monthly premiums to someone with more risky bill-payment history.
+            Some employers may check your credit as well as a gauge of how “responsible” you are.
+            So, it is paramount to your financial health to build and maintain “good credit.”
+        </p>
+
+        <subsection xml:id="subsec-measure-credit">
+            <title>How Credit is Measured</title>
+            <p>
+                There are two measurements of your credit.
+                The first measurement is your <alert>credit report</alert>.
+                In actuality, you have a number of credit reports.
+                Each “reporting bureaus” has their own report.
+                The three biggest reporting bureaus are TransUnion, Equifax, and Experian.
+                These credit reports give a snapshot of your current and recent experiences in loan and bill payments.
+                When you apply for a loan or some other thing that requires a “hard inquiry” into your credit, lenders will look at this credit report to make a decision.
+                A credit report will list things like, how much you still owe on your house/car, what your current monthly payments on loans are, credit card 
+                balances, credit card limits, bankruptcies, financial lawsuits, previous credit inquiries, and which monthly payments you have made on time.
+            </p>
+
+            <p>
+                The second option of credit measurement is a <alert>credit score</alert>.
+                A credit score is simply a single number that summarizes your credit.
+                The larger the score, the better.
+                Each reporting bureau can use its own method and scale for credit scores.
+                There used to be more difference in possible ranges for credit scores, but most models now put all credit scores between 350 and 850.
+                The point of a credit score is to give a somewhat-universal measurement of credit that shouldn’t open any more doors to biases in decisions regarding loans.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-build-credit">
+        <title>Building Good Credit</title>
+        <p>
+            Let's dive into building credit.
+        </p>
+    </section>
 </chapter>
