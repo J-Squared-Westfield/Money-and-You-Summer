@@ -355,7 +355,7 @@
             <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
                 <figure>
                     <caption>Source: https://www.consumerfinance.gov/ about-us/blog/budgeting-how-to-create-a-budget-and-stick-with-it/</caption>
-                    <image source="envelope.png"/>
+                    <image source="pics/envelope.png"/>
                 </figure>
 
                 <p>
@@ -403,7 +403,7 @@
                 </p>
                 <figure>
                     <caption>Source: https://www.bill.com/ learning/zero-based-budgeting</caption>
-                    <image source="zero.jpg"/>
+                    <image source="pics/zero.jpg"/>
                 </figure>
             </sidebyside>
 
