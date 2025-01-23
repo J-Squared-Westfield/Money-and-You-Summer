@@ -397,17 +397,6 @@
             <title>The Zero-Based Budget</title>
             <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
-                    One of the most classic budgeting methods is the envelope system.
-                    On social media, this is now often called “cash stuffing.” Traditionally, the envelope system requires you to take your entire paycheck in physical cash and allocate that cash into different envelopes for different spending activities.
-                    You could have a “rent” envelope, a “student loan” envelope, a “groceries” envelope, a “Dunkin”’ envelope, a “savings” envelope, etc.
-                </p>
-                <figure>
-                    <caption>Source: https://www.bill.com/ learning/zero-based-budgeting</caption>
-                    <image source="pics/zero.jpeg"/>
-                </figure>
-            </sidebyside>
-
-                <p>
                     The zero-based budget is a modern update on the envelope system.
                     Under this system, when you get a paycheck, you meticulous give a purpose to every single dollar.
                     So, you do not have just a “savings” category.
@@ -415,6 +404,12 @@
                     $50 goes into my retire savings.
                     $20 goes into my fund for a vacation.” Beyond paying for your necessities, there are no requirements on how much goes where.
                 </p>
+
+                <figure>
+                    <caption>Source: https://www.bill.com/ learning/zero-based-budgeting</caption>
+                    <image source="pics/zero.jpeg"/>
+                </figure>
+            </sidebyside>
 
             <p>
                 The benefit of the zero-based budget is for you to meticulously track your spending.  No dollar goes unaccounted.  
