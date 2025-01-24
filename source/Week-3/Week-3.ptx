@@ -47,16 +47,24 @@
             The importance of credit has become so mainstream that an entire industry has been built around it.
         </p>
 
-        <p>
-            When you hear the term “credit” in the context of personal finance, it refers to a measurement on how trustworthy you are with regards to paying your bills and paying back loans you take out.
-            Giving someone a loan is a risky thing.
-            If someone is unable to pay what they owe you, it can be a very time-consuming endeavor to recuperate even part of the money you are owed.
-            If you are a landlord, it can take 6 to 18 months to evict someone who stops paying rent.
-            So, landlords tend to only rent to those who have shown they can and will pay their bills.
-            Some insurance companies even demand more in monthly premiums to someone with more risky bill-payment history.
-            Some employers may check your credit as well as a gauge of how “responsible” you are.
-            So, it is paramount to your financial health to build and maintain “good credit.”
-        </p>
+        <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
+                <figure>
+                    <caption>Source: https://hfco.com/news-insights/pas-child-and-dependent-care-enhancement-tax-credit-expanded-for-2023/</caption>
+                    <image source="pics/credit.png"/>
+                </figure>
+
+                <p>
+                    When you hear the term “credit” in the context of personal finance, it refers to a measurement on how trustworthy you are with regards to paying your bills and paying back loans you take out.
+                    Giving someone a loan is a risky thing.
+                    If someone is unable to pay what they owe you, it can be a very time-consuming endeavor to recuperate even part of the money you are owed.
+                    If you are a landlord, it can take 6 to 18 months to evict someone who stops paying rent.
+                    So, landlords tend to only rent to those who have shown they can and will pay their bills.
+                    Some insurance companies even demand more in monthly premiums to someone with more risky bill-payment history.
+                    Some employers may check your credit as well as a gauge of how “responsible” you are.
+                    So, it is paramount to your financial health to build and maintain “good credit.”
+                </p>
+        </sidebyside>
+        
 
         <subsection xml:id="subsec-measure-credit">
             <title>How Credit is Measured</title>
