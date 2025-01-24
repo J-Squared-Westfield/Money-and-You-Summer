@@ -68,17 +68,24 @@
 
         <subsection xml:id="subsec-measure-credit">
             <title>How Credit is Measured</title>
-            <p>
-                There are two measurements of your credit.
-                The first measurement is your <alert>credit report</alert>.
-                In actuality, you have a number of credit reports.
-                Each “reporting bureaus” has their own report.
-                The three biggest reporting bureaus are TransUnion, Equifax, and Experian.
-                These credit reports give a snapshot of your current and recent experiences in loan and bill payments.
-                When you apply for a loan or some other thing that requires a “hard inquiry” into your credit, lenders will look at this credit report to make a decision.
-                A credit report will list things like, how much you still owe on your house/car, what your current monthly payments on loans are, credit card 
-                balances, credit card limits, bankruptcies, financial lawsuits, previous credit inquiries, and which monthly payments you have made on time.
-            </p>
+            <sidebyside>
+                <p>
+                    There are two measurements of your credit.
+                    The first measurement is your <alert>credit report</alert>.
+                    In actuality, you have a number of credit reports.
+                    Each “reporting bureaus” has their own report.
+                    The three biggest reporting bureaus are TransUnion, Equifax, and Experian.
+                    These credit reports give a snapshot of your current and recent experiences in loan and bill payments.
+                    When you apply for a loan or some other thing that requires a “hard inquiry” into your credit, lenders will look at this credit report to make a decision.
+                    A credit report will list things like, how much you still owe on your house/car, what your current monthly payments on loans are, credit card 
+                    balances, credit card limits, bankruptcies, financial lawsuits, previous credit inquiries, and which monthly payments you have made on time.
+                </p>
+
+                <figure>
+                    <caption>Source: https://www.nfcc.org/blog/the-range-of-poor-to-excellent-credit-scores-and-what-it-means-for-your-finances/</caption>
+                    <image source="pics/score.jpg"/>
+                </figure>
+            </sidebyside>
 
             <p>
                 The second option of credit measurement is a <alert>credit score</alert>.
