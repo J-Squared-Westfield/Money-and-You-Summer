@@ -8,7 +8,7 @@
             Let’s look at a few very realistic scenarios.
         </p>
 
-        <sidebyside widths="65% 30%" margins="0% 0%" valign="middle">
+        <sidebyside widths="55% 40%" margins="0% 0%" valign="middle">
                 <p>
                     Alex and Alexa are in the market for their first home.
                     A clean, updated home in a nice neighborhood has just gone on the market for $300,000.
@@ -47,7 +47,7 @@
             The importance of credit has become so mainstream that an entire industry has been built around it.
         </p>
 
-        <sidebyside widths="40% 50%" margins="0% 0%" valign="middle">
+        <sidebyside widths="40% 55%" margins="0% 0%" valign="middle">
                 <figure>
                     <caption>Source: https://hfco.com/news-insights/pas-child-and-dependent-care-enhancement-tax-credit-expanded-for-2023/</caption>
                     <image source="pics/credit.jpg"/>
@@ -68,7 +68,7 @@
 
         <subsection xml:id="subsec-measure-credit">
             <title>How Credit is Measured</title>
-            <sidebyside>
+            <sidebyside widths="55% 40%" margins="0% 0%" valign="middle">
                 <p>
                     There are two measurements of your credit.
                     The first measurement is your <alert>credit report</alert>.
