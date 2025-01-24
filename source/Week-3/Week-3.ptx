@@ -8,20 +8,28 @@
             Let’s look at a few very realistic scenarios.
         </p>
 
-        <p>
-            Alex and Alexa are in the market for their first home.
-            A clean, updated home in a nice neighborhood has just gone on the market for $300,000.
-            They have saved for a 20%downpayment plus closing costs.
-            So, they need to borrow $240,000.
-            Banks are currently advertising 5.8%30-year fixed rates.
-            This would make the basic mortgage cost $1,408 per month.
-            With taxes and insurance, their monthly mortgage payment is $2,074.
-            This amount would just fit into their possible housing budget.
-            When they apply for the loan, they are told that their credit is not great and that the interest rate is going to be 7.2%.
-            This change in interest rate raises the basic loan payment to $1,629, a $221 difference.
-            Alex and Alexa could move a little around in their budget, but not $221.
-            They decide to leave off on buying a home for a few more years.
-        </p>
+        <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
+                <p>
+                    Alex and Alexa are in the market for their first home.
+                    A clean, updated home in a nice neighborhood has just gone on the market for $300,000.
+                    They have saved for a 20%downpayment plus closing costs.
+                    So, they need to borrow $240,000.
+                    Banks are currently advertising 5.8%30-year fixed rates.
+                    This would make the basic mortgage cost $1,408 per month.
+                    With taxes and insurance, their monthly mortgage payment is $2,074.
+                    This amount would just fit into their possible housing budget.
+                    When they apply for the loan, they are told that their credit is not great and that the interest rate is going to be 7.2%.
+                    This change in interest rate raises the basic loan payment to $1,629, a $221 difference.
+                    Alex and Alexa could move a little around in their budget, but not $221.
+                    They decide to leave off on buying a home for a few more years.
+                </p>
+
+                <figure>
+                    <caption>Source: https://www.moneysmartguides.com/web-stories/how-to-say-no-family-financial-requests</caption>
+                    <image source="pics/credit.png"/>
+                </figure>
+        </sidebyside>
+        
 
         <p>
             Jordan was laid off from work for a number of months during a recession, but they have have just accepted a new job in Boston.
