@@ -798,9 +798,9 @@
                 <li>
                     <p>
                         You need to pick up some cat food at the store.  The shop has a few options for your cat's favorite brand.  
-                        A single can costs \$2.09.  
-                        A package of six cans normally costs \$11.59, but is on sale for \$9.99.  
-                        A package of twelve cans costs \$21.99.  How much will \textbf{you} pay per can and why?
+                        A single can costs $2.09.  
+                        A package of six cans normally costs $11.59, but is on sale for $9.99.  
+                        A package of twelve cans costs $21.99.  How much will <em>>you</em> pay per can and why?
                     </p>
                 </li>
 
@@ -809,7 +809,7 @@
                         You and your significant other have returned home from long days at work.  Neither of you wants to cook.  
                         Your significant other is adamant that the two of you go out for dinner and drinks to relax.  
                         You are concerned about your food budget for the month and realize that the cost of going out for food and drinks will 
-                        likely be about \$100-\$120, which the two of your can't really afford right now.  
+                        likely be about $100-$120, which the two of your can't really afford right now.  
                         How would you handle the situation?
                     </p>
                 </li>
