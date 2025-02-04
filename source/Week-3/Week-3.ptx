@@ -400,411 +400,90 @@
                 <tabular halign="center" top="medium">
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Question Number
+                        Product
                     </cell>
                     <cell right="medium">
-                        Money Worshipper
+                        Costco
                     </cell>
                     <cell right="medium">
-                        Money Avoider
-                    </cell>
-                    <cell right="medium">
-                        Money Saver
-                    </cell>
-                    <cell right="medium">
-                        Money Spender
-                    </cell>
-                    <cell right="medium">
-                        Money Indifferent
+                        S  S
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 1
+                        Limes
                     </cell>
                     <cell right="medium">
-                        E,F
+                        <dollar />0.137/oz
                     </cell>
                     <cell right="medium">
-                        A,B
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        C,D
+                        <dollar />0.21/oz
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 2
+                        Cheerios
                     </cell>
                     <cell right="medium">
-                        E,F
+                        <dollar />0.21/oz
                     </cell>
                     <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                        C,D
+                        <dollar />0.36/oz.
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 3
+                        Milk Gallon
                     </cell>
                     <cell right="medium">
-                        F
+                        <dollar />3.29/Gal
                     </cell>
                     <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        C,D
+                        <dollar />4.29/Gal
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 4
+                        Cage-free Eggs
                     </cell>
                     <cell right="medium">
-                        F
+                        <dollar />3.45/doz
                     </cell>
                     <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        C,D
+                        <dollar />7.49/doz*
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 5
+                        Chicken breasts
                     </cell>
                     <cell right="medium">
-                        A, B
+                        <dollar />2.99/lb
                     </cell>
                     <cell right="medium">
-                        F
-                    </cell>
-                    <cell right="medium">
-                        E,F
-                    </cell>
-                    <cell right="medium">
-                        A,B
-                    </cell>
-                    <cell right="medium">
-                        C,D
+                        <dollar />2.79/lb**
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 6
+                        New York Steak
                     </cell>
                     <cell right="medium">
-                        F
+                        <dollar />13.99/lb
                     </cell>
                     <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        C, D
+                        <dollar />16.49/lb
                     </cell>
                     </row>
                     <row bottom="medium">
                     <cell left="medium" right="medium">
-                        Q. 7
+                        Similac Baby Formula
                     </cell>
                     <cell right="medium">
-                        F
+                        <dollar />1.40/oz
                     </cell>
                     <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        B, C, D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 8
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 9
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        F
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 10
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        E,F
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 11
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 12
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 13
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A,B
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 14
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        E,F
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        D,E
-                    </cell>
-                    <cell right="medium">
-                        C
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 15
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        D, E
-                    </cell>
-                    <cell right="medium">
-                        D, E, F
-                    </cell>
-                    <cell right="medium">
-                        C
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 16
-                    </cell>
-                    <cell right="medium">
-                        E,F
-                    </cell>
-                    <cell right="medium">
-                        A,B
-                    </cell>
-                    <cell right="medium">
-                        E
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 17
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                    </cell>
-                    <cell right="medium">
-                        C, D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 18
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        C, D
-                    </cell>
-                    <cell right="medium">
-                        B, C
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 19
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        A, B
-                    </cell>
-                    <cell right="medium">
-                        C,D
-                    </cell>
-                    </row>
-                    <row bottom="medium">
-                    <cell left="medium" right="medium">
-                        Q. 20
-                    </cell>
-                    <cell right="medium">
-                        F
-                    </cell>
-                    <cell right="medium">
-                        A
-                    </cell>
-                    <cell right="medium">
-                        B
-                    </cell>
-                    <cell right="medium">
-                        E, F
-                    </cell>
-                    <cell right="medium">
-                        C, D
+                        <dollar />1.77/oz
                     </cell>
                     </row>
                 </tabular>
