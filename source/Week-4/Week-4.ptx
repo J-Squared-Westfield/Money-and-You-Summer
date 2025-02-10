@@ -369,6 +369,15 @@
                 Have a fund to help you make it through until you can find employment again.
             </p>
         </subsection>
+
+        <subsection xml:id="subsec-Start-Credit">
+            <title>Start Building Your Credit</title>
+            <p>
+                Now that we’ve discussed how to start building credit, it’s time for you to make a plan.
+                In a paragraph, explain what you would like to do to start building credit.
+                If you are already building credit, explain how you are doing so and what you are doing to maintain your credit.
+            </p>
+        </subsection>
     </section>
 
     <section xml:id="sec-Credit-Cards">
@@ -518,6 +527,15 @@
             </p>
         </subsection>
 
+        <subsection xml:id="subsec-Cards-and-Interest">
+            <title>Activity: </title>
+            <p>
+                While eating dinner with your significant other’s family, your SO’s father mentions that he’s never owned a credit card.
+                He explains that because of the high interest rates on credit cards, it’s always cheaper to pay everything by cash and check.
+                <alert>Is he correct? Explain your answer in a few sentences.</alert>
+            </p>
+        </subsection>
+
         <subsection xml:id="subsec-Credit-Card-Benefits">
             <title>Credit Card Benefits</title>
             <p>
@@ -592,8 +610,9 @@
                 Requesting a credit limit increase usually requires approval and will consider factors like current credit balance, purchase history, and income.
             </p>
         </subsection>
+    </section>
 
-        <subsection xml:id="subsec-Using-Card-Responsibly">
+    <section xml:id="subsec-Using-Card-Responsibly">
             <title>Using a Credit Card Responsibly</title>
             <p>
                 If you are getting excited about a credit card, this section is to help bring you down to reality.
@@ -653,7 +672,7 @@
             <p>
                 Manny’s situation is far from unusual or contrived. 
             </p>
-        </subsection>
+        
 
         <subsection xml:id="subsec-credit-debt-unusual">
             <title>Activity: Is Credit Card Debt Unusual?</title>
@@ -710,6 +729,11 @@
                         </li>
                     </ol>
                 </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Debrief-debt-act">
+            <title>Debrief</title>
+            
         </subsection>
 
         <subsection xml:id="subsec-Helping-Manny">
