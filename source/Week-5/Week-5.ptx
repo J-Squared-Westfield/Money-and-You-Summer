@@ -522,5 +522,240 @@
                 Don’t.)
             </p>
         </subsection>
+
+        <subsection xml:id="subsec-Examples">
+            <title>Examples</title>
+
+            <p>
+                <alert>-Pay-day Loans</alert>
+            </p>
+            <p>
+                Consider the example above in which someone needs cash now to pay rent to avoid eviction but pay-day isn’t for a while.
+                Pay-day lenders capitalize on this exact kind of scenario.
+                When you take out a pay-day loan, you borrow a bit less than the amount in one of your paychecks and promise to give your next paycheck or two to the lender.
+                For example, if your paychecks are usually about $1,000, you might borrow $900 from the pay-day lender with the promise to give your $1,000 paycheck to them when you get it in a couple weeks.
+                These loans are advertised as very short-term loans and can be approved for people with bad credit.
+            </p>
+
+            <p>
+                What makes pay-day loans predatory is their ridiculously-high APR’s.
+                The average APR for a pay-day loan is about 400%.
+                Some even get into the thousands.
+                Just as a point of reference, mortgage rates are currently around 6-8% and car loans are around 4-9%
+            </p>
+
+            <p>
+                The true devilry with pay-day loans is in their advertised short term.
+                Even with a 400% interest rate, if you only borrow for a week, it isn’t <em>that</em> much, is it? I mean, what is <m>50 or</m>100 for the security of getting the cash you need right now? The issue is that many people who take out these loans do so because they’re in dire financial trouble.
+                A pay-day loan won’t fix that.
+                Pay-day lenders actually count on you being unable to pay back your loan on time.
+                First, they’ll be able to charge you a fee for being late.
+                More importantly, you will be in debt to them with that really high interest rate.
+            </p>
+
+            <p>
+                Suppose your bi-weekly paychecks are $1,000 each.
+                You need money now for food or rent.
+                So, you take out a pay-day loan with an APR of 400%.
+                Then they’ll give you about $860-$870 now, and you’ll owe your $1,000 paycheck in two weeks.
+                Suppose that two weeks comes.
+                You’ve spent that $870 because it’s less than your usual $1,000.
+                When your paycheck comes, you simply can’t give the full $1,000 to the lender.
+                Say you only give back $500.
+                The lender charges you a $100 fee for being late.
+                You now owe the lender <m>1,000 - 500 + 100 = \$600</m> at that 400% interest rate.
+                With that interest rate, you will owe an extra 15%-16% every two-week period.
+                So, two weeks later, when your next check comes, that $600 you owed is now just short of $700.
+                At your next paycheck, it will be $800.
+                At the next, over $900.
+                This scenario is in no way farfetched; it’s very common and is exactly how a pay-day lender wants to operate.
+                In fact, <alert>over 80% of pay-day loans go beyond their original pay-back date, just like in the scenario above</alert>.
+            </p>
+
+            <p>
+                The best way to deal with pay-day loans is to never take one out for any reason.
+                Of course, that recommendation comes from a great place of privilege.
+                Threats of homelessness or being unable to feed your child puts extreme pressures on you.
+                Nevertheless, always try to avoid pay-day loans.
+                Plead with your landlord for a few more weeks to pay rent.
+                Visit the local food bank to feed your family until the next pay day.
+                Ask someone you know if you can do some chores in exchange for some cash.
+                It may seem embarrassing, but falling under the thumb of a pay-day lender would be far worse.
+            </p>
+
+            <p>
+                -<alert>Sub-prime Mortgages</alert>
+            </p>
+
+            <p>
+                Let’s consider a very different example.
+                Most American’s dream of owning a home; most of us need to borrow money to pay for one.
+                Taking out a mortgage requires that you can make the needed payments for as long as 30 years.
+                If you do not make enough money, have too much current debt, or won’t likely be employed for 30 years, you may not be approved for a mortgage.
+                A <alert>sub-prime mortgage</alert> or a <alert>non-qualified mortgage</alert> is mortgage given by a bank to someone who has a high risk of being able to pay back the loan.
+            </p>
+
+            <p>
+                People are not told that they are taking out a sub-prime mortgage.
+                This is because sub-prime mortgages are simply mortgages with no difference.
+                The thing is that, because of the higher risk of non-payment, the interest rates on sub-prime mortgages are higher.
+                Currently, prime mortgages rates for 30-year loans are around 6%.
+                Sub-prime mortgages are around 10%-12%.
+                A 12%rate may not seem that high, especially compared to the pay-loan case above.
+                However, consider the following scenario: Suppose you find a home that you love that will require you to borrow $250,000.
+                If you take out a 30-year loan, here will be your monthly payments for a few interest rates:
+            </p>
+
+            <p>
+                <table>
+                    <tabular halign="center" top="medium">
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Loan Type
+                        </cell>
+                        <cell right="medium">
+                            APR
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Mortgage
+                        </cell>
+                        <cell right="medium">
+                            5.5<percent /> - 8<percent />
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Car
+                        </cell>
+                        <cell right="medium">
+                            4.1<percent />-21.9<percent />
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Payday
+                        </cell>
+                        <cell right="medium">
+                            400<percent />-1,000<percent />
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Home Equity
+                        </cell>
+                        <cell right="medium">
+                            6.5<percent /> - 14.8<percent />
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Credit Card
+                        </cell>
+                        <cell right="medium">
+                            6<percent /> - 36<percent />
+                        </cell>
+                        </row>
+                        <row bottom="medium">
+                        <cell left="medium" right="medium">
+                            Title Loan
+                        </cell>
+                        <cell right="medium">
+                            100<percent /> - 500<percent />
+                        </cell>
+                        </row>
+                    </tabular>
+                </table>
+            </p>
+
+            <p>
+                -<alert>Title Loans</alert>
+            </p>
+
+            <p>
+                A <alert>title loan</alert> is somewhat like a home-equity loan in that you take out a loan with your car as collateral.
+                That is, if you cannot make payments on the title loan, the lender can take ownership of your car.
+                Similar to pay-day loans, what makes title loans predatory is their high interest rates; title loans often come with interest rates of around 200%-300%.
+                Again, these loans are targeted to people with poor credit in dire financial situations.
+            </p>
+
+            <p>
+                Most commonly, people who become trapped in title loans end up taking out other loans to make the payments on their title loans out of fear of losing their cars.
+                About 20%-25%of people who take out title loans ultimately have their cars taken.
+            </p>
+
+            <p>
+                <alert>-Rent-a-Bank Schemes</alert>
+            </p>
+
+            <p>
+                You may have heard that some states have laws governing what interest rates lenders can charge.
+                For example, in Massachusetts, even pay-day loans are capped at 26%APR.
+                However, pay-day lenders can still charge triple-digit APR’s.
+                They can do so from a scheme that popped up in the 1990’s.
+                A <alert>rent-a-bank</alert> scheme is one in which a lender wanting to charge really high interest rates offers the loan through a national bank.
+                Because national banks operate in most states, the state laws have a provision making them immune to the interest rate caps.
+                This practice is very common for retailers who offer “buy now, pay later’’ items.
+                For example, a furniture store may let you take a $600 couch home now in exchange for you taking out a $600 at a really high interest rate.
+                However, you don’t take the loan out with the furniture store; it is through a bank.
+                The furniture store makes a deal with the bank to operate this high-interest loan in exchange for some of the interest profit.
+                The store would not be able to do this without the bank because of state laws, but the bank is immune to those laws.
+            </p>
+
+            <p>
+                In 2025, rent-a-bank schemes are mostly online, given the ease to launder money.
+                In general, try to avoid taking out loans through retailers.
+                Even if they are not doing the rent-a-bank scheme, interest rates will be much higher anyway.
+            </p>
+
+        </subsection>
+
+        <subsection xml:id="subsec-How-to-Detect">
+            <title>How to Detect a Predatory Loan</title>
+            <p>
+                There are a number of common things to be aware of that may signal that something is a predatory loan.
+            </p>
+
+            <p>
+                -Really high interest rates.
+                Most predatory loans have much higher interest rates than the current going rates.
+                It is always good to quickly research what average interest rates are for whatever kind of loan you’re considering.
+                If the rate you’re offered is much higher than average, you should probably stay away.
+            </p>
+
+            <p>
+                -Advertisements targeting vulnerable populations.
+                If a financial offer seems to be for a traditionally-targeted population, it may very well be predatory.
+                Common vulnerable populations include people in poverty, people with bad credit, the elderly, teens and young adults, people of color, and immigrants.
+                If a financial product seems to be directed (either directly or subliminally) at one or more of these populations, there may be predatory tactics involved.
+            </p>
+
+            <p>
+                -High fees.
+                Predatory loans often come with a long list of high fees.
+                Some common loans do have fees, which is simply part of the market, but predatory loans will have higher-than-average amounts or mysterious fees.
+                (I once visited a car seller that had a “9-11 fee of $75 and a “manager’s fee of $250 hidden in the contract.) Make sure to research what current, reasonable fees are for loans, make sure to read about fees in a contract, and ask what fees are part of a loan.
+            </p>
+
+            <p>
+                -Aggressive sales tactics.
+                Retailers that offer high-interest loans are often more aggressive with sales tactics.
+                Salespeople, in general, can be aggressive due to commissions, but it can be worse in predatory places.
+                In particular, you may be pressured to sign something.
+                If you at all feel pressured to sign a contract, leave and take some time to research and think.
+                As an example, my mother once was looking for a car.
+                She found one she liked and talked about financials while her trade-in was being inspected.
+                She didn’t like the high-interest offer and wanted to walk out, but they refused to give her her car back, threatening her with a lawsuit.
+                She immediately called the police, which got the car salesman to give her car back.
+            </p>
+
+            <p>
+                -Low credit borrowing.
+                In connection to targeting vulnerable populations, predatory lenders often do not show signs of caring whether you can repay or not.
+                When you take out a mortgage or car loan, your ability to repay the loan will be scrutinized.
+                If a lender promises you a loan “when others have said no,’’ that is a huge red flag.
+            </p>
+        </subsection>
     </section>
 </chapter>
