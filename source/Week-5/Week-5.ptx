@@ -117,7 +117,7 @@
                 For simplicity, let’s assume that loan payments are made once a year.
                 Suppose you have a loan balance of $10,000.
                 If your APR is 6%, then the amount of interest you need to pay at the end of the year is <m>10,000 \times 0.06 = \$600</m>.
-                Now, if your APR was 15%instead, then the amount of interest you need to pay at the end of the year is <m>10,000\times 0.15 = \$1,500</m>.
+                Now, if your APR was 15% instead, then the amount of interest you need to pay at the end of the year is <m>10,000\times 0.15 = \$1,500</m>.
                 As you can see, when you take out a loan, you generally want the lowest APR possible.
             </p>
 
@@ -188,6 +188,338 @@
                         </row>
                     </tabular>
                 </table>
+            </p>
+
+            <p>
+                You’ll notice vastly different rates for different types of loans.
+                As we’ll explore later, there are reasons behind these differences.
+            </p>
+
+            <p>
+                Your credit is also a major determinant of your APR.
+                Because interest payments are compensation for the risk of lending you money and your credit is a measurement of how likely you are to pay back money, it makes sense that those with higher credit would need to pay less in interest (lower APR).
+                Those with lower credit would need higher APR’s.
+            </p>
+
+            <p>
+                Other factors of APR’s include the length or term of your loan and whether there is any collateral.
+            </p>
+
+            <p>
+                There is one little fib I made about APR.
+                Technically, APR doesn’t count just interest.
+                It also includes fees on the loan.
+                You may see loans rates advertised with two percentages: the “rate” and the APR.
+                The loan rate is what is used to calculate just interest.
+                The APR is used to calculate interest and fees combined.
+                Effectively, the APR can be used to calculate your actual loan payments.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-How-Interest-Compounds">
+        <title>How Interest Compounds</title>
+        <p>
+            Just as a trigger warning, there will be some math in this section.
+            You do not need to worry about formulas are the direct calculations.
+            What you need to take away is <em>the power of compound interest.</em>
+        </p>
+
+        <subsection xml:id="subsec-Compounding">
+            <title>Compounding</title>
+            <p>
+                Most loans have what is called <alert>compound interest</alert>.
+                Rather than defining it, let’s look at an example.
+                Suppose you take out a loan of $10,000 with an APR of 12%.
+                After a year, the amount of interest owed is <m>10,000 \times 0.12 = \$1,200</m>.
+                Now, suppose you don’t make any payments.
+                Then the balance of your loan becomes <m>10,000 + 1,200 = \$11,200</m>.
+                When interest “compounds,” we mean that further interest owe is calculated not just on the principal, but previous interest amounts.
+                So, after the second year, the amount of interest accumulated would be <m>11,200\times 0.12 = \$1,344</m>.
+                Notice that this is quite a bit higher than the first year’s interest.
+                Again, if you don’t make a payment, the balance would become <m>11,200 + 1,344 = \$12,544</m>.
+                The third year’s interest would be <m>12,544\times 0.12 = \$1,505.28</m>.
+                It just keeps going and going.
+            </p>
+
+            <p>
+                What is vital to understand is that, because interest compounds, it can be very easy for loan balances to get out of control.
+                The higher the APR, the easier it is to fall into unmanageable debt.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Conversion-Periods">
+            <title>Conversion Periods and Effective APR</title>
+            <p>
+                Unfortunately, APR is not quite as simple as we’ve been using it.
+                This is because of what is called “conversion periods” or “compounding periods.” In our prior calculations, we have been imagining that interest payments are calculated at the end of each year.
+                In reality, most interest payment amounts are calculated each month or each day.
+            </p>
+
+            <p>
+                Here is how it works.
+                Suppose that you take out a car loan for $20,000 that offers a 12% APR that is “compounded monthly.” Since there are 12 months in a years, the amount of interest charged in a month is <m>\frac{12\%}{12}= 1\%</m>.
+                So, after one month, you owe <m>20,000 \times 0.01 = \$200</m> in interest.
+                If you don’t make a payment, your balance is $20,200.
+                Your next interest amount owed after the next month is then <m>20,200 \times 0.01 = \$202</m>.
+                If you made no payments for a year, you would actually have total interest accumulated as $2,536.
+                Notice that this is not 12% of $20,000.
+                It is actually 12.68% of $20,000.
+                This 12.68% rate is sometimes called the “effective APR.”
+            </p>
+
+            <p>
+                If in the example above, interest were compounded every day, the total interest owed at the end of one year would be $2,550, which is even more.
+                It is about 12.74% of the $20,000.
+            </p>
+
+            <p>
+                What to take away from this is that not all APR’s are equal.
+                A 5% APR that is compounded monthly accumulates less interest than a 5%APR compounded daily.
+                It is something to keep in mind.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-Why-APR-Matters">
+            <title>Activity: Why APR Matters</title>
+            <p>
+                For this activity, you will look at how APR and loan length can affect how much you actually pay on loans.
+                You will look at two common loan types.
+                First, open up this calculator: <url href="https://www.calculator.net/payment-calculator.html">https://www.calculator.net/payment-calculator.html</url>
+            </p>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Suppose you would like to borrow $250,000 to purchase a home, which is a very reasonable amount.
+                            <ol>
+                                <li>
+                                    <p>
+                                        Suppose you have a 15-year term.
+                                        Currently, possible APR’s for a 15-year mortgage are about 6.1%to 8.0%.
+                                        For each of the following APR’s: 6.1%, 7.2%and 8.0%, use the calculator to find what your monthly payments will be and the total interest paid over the life of the loan.
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Suppose you have a 30-year term.
+                                        Currently, possible APR’s for a 30-year mortgage are about 6.9%to 9.5%.
+                                        For each of the following APR’s: 6.9%, 8.1%, and 9.5%, use the calculator to find what your monthly payments will be and the total interest paid over the life of the loan.
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Suppose you would like to borrow $20,000 to purchase a car, which is a very reasonable amount.
+                        </p>
+
+                        <p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        Suppose you have a 5-year term.
+                                        Current APR’s for a 5-year auto loan are about 4.8%to 6.8%.
+                                        Using each of 4.8%and 6.8%, use the calculator to find what your monthly payments will be and the total interest paid over the life of the loan.
+                                    </p>
+
+                                    <p>
+                                        Suppose you have a 7-year term.
+                                        Current APR’s for a 5-year auto loan are about 5.8%to 7.8%.
+                                        Using each of 4.8%and 6.8%, use the calculator to find what your monthly payments will be and the total interest paid over the life of the loan.
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Report all your findings in a table.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            In your own words, summarize your observations.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-get-a-loan">
+        <title>How to Get a Loan</title>
+        <p>
+            Ultimately, to get a loan, you need to apply for one.  
+            There are a number of factors that will determine if you will be approved for a loan and the loan terms.
+        </p>
+        <subsection xml:id="subsec-Credit-loans">
+            <title>Credit</title>
+            <p>
+                The better credit you have, the more likely you are to be approved for a loan and the better terms you’ll get on a loan.  
+                Recall that your credit rating is determined by the following:
+            </p>
+
+            <p>
+                -Payment history.  Lenders want to see a long history of your bill payments being made on time.
+            </p>
+            <p>
+               -Current loan balances.  Lenders prefer to see that you have not borrowed too much money and like to see smaller loan balances. 
+            </p>
+            <p>
+                -Credit age.  Lenders like to see a lot of history with lines of credit.  The longer you have been managing money well, the better.
+            </p>
+            <p>
+                -Credit mix.  Lenders like to see a diverse history of finances.  A broader range of types of loans and bills in your recent history, the better.
+            </p>
+            <p>
+                -Credit inquiries.  Frequently applying for loans is a red flag to lenders.  Try to only apply for lines of credit only when you need it.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Debt-to-Income-Ratio">
+            <title>Debt-to-Income Ratio</title>
+            <p>
+                Lenders want to make sure that you’ll be able to pay back any loan you take out.
+                The biggest factor in being able to pay back a loan is simply being able to afford the loan payments in your budget.
+                One way lenders measure this ability is to look at your <alert>debt-to-income ratio</alert>.
+                Your debt-to-income ratio (DTI) is calculated as the total amount you pay on your debts each month divided by your monthly <alert>gross</alert> income (before taxes).
+            </p>
+
+            <p>
+                Note that your DTI is based on your gross (before taxes) income.
+                This can be confusing, considering that most personal budgets are based on take-home (after taxes) income.
+                For example, if your gross monthly income is <m>4,000, taxes are</m>1,000, and you pay $1,500 on debts each month.
+                Then you have <m>3,000 for your monthly budget, and your DTI is</m>1,5004,000 = 0.375<m>or 37.5  A rough rule of thumb is that lenders prefer to see a debt-to-income ratio under 36\%, \textbf{including the loan for which you are applying}.
+                For example, suppose your gross monthly pay is \$2,000 and that you already pay</m>300 on student loans and <m>320 on a car loan each month.
+                Then your current DTI is</m>300+3202,000 = 0.31$ or 31%.
+                Suppose you want a credit card.
+                The credit card company will look at how much debt you can handle.
+                If a “safe’’ DTI is 36%(which is $720 our of your gross $2,000), the company may deem you only being able to handle $100 per month in additional debt.
+                While the credit card bank may not reject your credit card application in this scenario, it is unlikely that they’ll give you a high credit limit.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Employment-History">
+            <title>Employment History</title>
+            <p>
+                For some loans, particularly long-term loans like car loan and mortgages, it is not just your current income that matters but your employment history.
+                Jobs can come and go; lenders know this.
+                Suppose you just landed a great, high-paying job a week ago that will allow you to afford a new car and a house.
+                Lenders are unlikely to approve of these loans for a while.
+                The reason is that one of the biggest reasons people lose their jobs is that they simply don’t work out.
+                Maybe your new job turns out to be toxic for you.
+                Maybe they don’t find your work satisfactory or you don’t survive a probationary period.
+                Maybe the position itself was unstable.
+                In general, people who have been in a position for a while are more likely to stay employed.
+                So, lenders want to see stability in your employment history.
+                Even after landing a great new job, you may have to wait a few months before taking out a loan.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Other-Factors">
+            <title>Other Factors</title>
+            <p>
+                As discussed earlier, collateral can act as a way to reduce the risk of lending you money.
+                For some loans, you can put up something as collateral to make the bank more comfortable with loaning you money.
+                For some loans, collateral is part of the loan.
+                Your house is collateral for a mortgage.
+                Your car is collateral for a car loan.
+                Your house is collateral for a home-equity loan.
+            </p>
+
+            <p>
+                The purpose of the loan will also play a factor.
+                For some kinds of loans, the purpose is clear: mortgages, car loans, student loans, etc.
+                For others, you may need to describe the purpose of the loan, and the bank will take that into consideration.
+                Purposes for which the bank could more reliably get their money back in case of emergencies will be seen more favorably.
+                For example, applying for a home equity loan to upgrade your kitchen is seen as less risky; your house will be used as collateral, and the lent money for the kitchen will increase its value.
+                On the other hand, borrowing money to buy a bunch of crypto currency would be seen as incredibly risk since the bank wouldn’t be able to recover much of its money if the crypto you buy tanks.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-why-Rejected">
+            <title>Activity: Why Did They Get Rejected?</title>
+            <p>
+                For each scenario, someone is rejected on a loan application.
+                Determine the most likely reason why.
+            </p>
+
+            <p>
+                
+                <ol>
+                    <li>
+                        <p>
+                            Carla and her husband have a combined gross income of $120,000 per year.
+                            They have a mortgage that requires monthly payments of $2,000 per month.
+                            They have some credit card debt that requires payments of about $500 per month.
+                            They have no other debt.
+                            Carla just finished becoming a registered nurse and recently started her first job at a hospital.
+                            Neither her nor her husband have ever missed a bill payment.
+                            They are looking to start their family and want to get an SUV that will allow them to transport kids around.
+                            They are applying for a car loan that will require monthly payments of $350.
+                            Their application was rejected.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Juan is a lawyer who has a gross income of $150,000 per year.
+                            He has been at his firm for three years.
+                            He has a mortgage that requires monthly payments of $3,500.
+                            He has no other debt.
+                            He is a huge skateboard fan.
+                            He decides he wants to build a huge skate park in his backyard.
+                            To fund it, John wants to take out a home-equity loan.
+                            The park will cost $25,000, and his home has over $100,000 in equity.
+                            The loan would add $500 per month in monthly debt payments.
+                            His home-equity loan application was rejected.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            George makes a gross income of about $80,000.
+                            He has been with his work for five years.
+                            He has student loan debt that costs $400.
+                            He has a car loan that costs $300 per month.
+                            He has some credit card debt that requires about $200 per month.
+                            George is looking to buy his first home.
+                            The cheapest homes on the market would require monthly mortgage payments of $2,200.
+                            George is having trouble finding a bank who will give him a loan.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Predatory-Lending">
+        <title>Predatory-Lending</title>
+        <p>
+            There are some people out there that don’t miss a chance to take advantage of someone in a rough position.
+            In the world of loans, some people try to sweep people in <alert>predatory loans</alert>.
+            Predatory loans are loans made to people with little regard to their financial health.
+            Most predatory loans come with extremely high APR’s and can quickly trap people in a cycle of debt.
+        </p>
+
+        <subsection xml:id="subsec-Targets">
+            <title>Targets</title>
+            <p>
+                Most predatory lenders target one of two kinds of people.
+                The first are people in a tough financial position.
+                For example, if someone comes back to their apartment from work to find an eviction notice for nonpayment of rent, but their next paycheck won’t come for a while, that person may be desperate enough to take out a high-interest loan to pay that late rate.
+                Pay-day lenders, among others, target people in tough financial positions like this.
+                The second targets are people with lower financial literacy and knowledge of loans.
+                In particular, lenders may try to target people with higher present bias than others, advertising quick access to large amounts of cash while hiding the high APR in the background.
+                This lending tactic is extremely common, and even the biggest banks look for these targets.
+                (If you have a credit card, I guarantee that the company occasionally tries to advertise cash-advance loans to you.
+                Don’t.)
             </p>
         </subsection>
     </section>
