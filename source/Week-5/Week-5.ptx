@@ -395,9 +395,9 @@
                 Note that your DTI is based on your gross (before taxes) income.
                 This can be confusing, considering that most personal budgets are based on take-home (after taxes) income.
                 For example, if your gross monthly income is $4,000, taxes are $1,000, and you pay $1,500 on debts each month.
-                Then you have $3,000 for your monthly budget, and your DTI is<m>1,5004,000 = 0.375</m> or 37.5%  A rough rule of thumb is that lenders prefer to see a debt-to-income ratio under 36%, <alert>>including the loan for which you are applying</alert>.
+                Then you have $3,000 for your monthly budget, and your DTI is<m>/frac{1,500}{4,000} = 0.375</m> or 37.5%  A rough rule of thumb is that lenders prefer to see a debt-to-income ratio under 36%, <alert>>including the loan for which you are applying</alert>.
                 For example, suppose your gross monthly pay is $2,000 and that you already pay $300 on student loans and $320 on a car loan each month.
-                Then your current DTI is<m>300+3202,000 = 0.31</m> or 31%.
+                Then your current DTI is<m>\frac{300+320}{2,000} = 0.31</m> or 31%.
                 Suppose you want a credit card.
                 The credit card company will look at how much debt you can handle.
 If a “safe’’ DTI is 36
@@ -691,7 +691,7 @@ If a “safe’’ DTI is 36
 
             <p>
                 You may have heard that some states have laws governing what interest rates lenders can charge.
-                For example, in Massachusetts, even pay-day loans are capped at 26%APR.
+                For example, in Massachusetts, even pay-day loans are capped at 26% APR.
                 However, pay-day lenders can still charge triple-digit APR’s.
                 They can do so from a scheme that popped up in the 1990’s.
                 A <alert>rent-a-bank</alert> scheme is one in which a lender wanting to charge really high interest rates offers the loan through a national bank.
@@ -1388,10 +1388,29 @@ If a “safe’’ DTI is 36
 
                 <li>
                     <p>
-                        Your friend wants to start building her credit.
-                        She has heard that owning a credit card is a good way to start building credit.
-                        However, she is concerned that she may not be able to control her spending impulses if she had a credit card.
-                        What are some ways in which you could advise your friend? Give at least three recommendations.
+                        For each of the following pairs, determine which option would most likely result in a lower (better) APR on a loan.  
+                    </p>
+
+                    <p>
+                        <ol>
+                            <li>
+                                <p>
+                                    Having a credit score of 520 vs. a credit score of 750.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Wanting a loan to buy a car vs. wanting a loan to pay for school tuition.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    A 5 year loan vs. a 20 year loan.
+                                </p>
+                            </li>
+                        </ol>
                     </p>
                 </li>
             </ol>
