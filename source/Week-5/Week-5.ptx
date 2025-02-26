@@ -394,13 +394,13 @@
             <p>
                 Note that your DTI is based on your gross (before taxes) income.
                 This can be confusing, considering that most personal budgets are based on take-home (after taxes) income.
-                For example, if your gross monthly income is <m>4,000, taxes are</m>1,000, and you pay $1,500 on debts each month.
-                Then you have <m>3,000 for your monthly budget, and your DTI is</m>1,5004,000 = 0.375<m>or 37.5  A rough rule of thumb is that lenders prefer to see a debt-to-income ratio under 36\%, \textbf{including the loan for which you are applying}.
-                For example, suppose your gross monthly pay is \$2,000 and that you already pay</m>300 on student loans and <m>320 on a car loan each month.
-                Then your current DTI is</m>300+3202,000 = 0.31$ or 31%.
+                For example, if your gross monthly income is $4,000, taxes are $1,000, and you pay $1,500 on debts each month.
+                Then you have $3,000 for your monthly budget, and your DTI is<m>1,5004,000 = 0.375</m> or 37.5%  A rough rule of thumb is that lenders prefer to see a debt-to-income ratio under 36%, <alert>>including the loan for which you are applying</alert>.
+                For example, suppose your gross monthly pay is $2,000 and that you already pay $300 on student loans and $320 on a car loan each month.
+                Then your current DTI is<m>300+3202,000 = 0.31</m> or 31%.
                 Suppose you want a credit card.
                 The credit card company will look at how much debt you can handle.
-                If a “safe’’ DTI is 36%(which is $720 our of your gross $2,000), the company may deem you only being able to handle $100 per month in additional debt.
+If a “safe’’ DTI is 36
                 While the credit card bank may not reject your credit card application in this scenario, it is unlikely that they’ll give you a high credit limit.
             </p>
         </subsection>
