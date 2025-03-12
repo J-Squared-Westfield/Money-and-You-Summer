@@ -432,8 +432,210 @@
         </subsection>
     </section>
 
-    <section xml:id="sec-Saving-for-Retirement">
-        <title>Saving for Retirement</title>
-        
+    <section xml:id="sec-Social-Security">
+        <title>Social Security</title>
+        <p>
+            We will begin with the most common, and most messy, way to save for retirement - the United States Social Security Program.  
+        </p>
+
+        <subsection xml:id="subsec-What-SS-Is">
+            <title>What Social Security Is</title>
+            <p>
+                We’ll first discuss what Social Security means to you practically for retirement.
+                Most jobs in the United States are “covered” by Social Security.
+                For covered jobs, there is a 12.4% tax on your earnings that funds the Social Security program.
+                However, by Federal law, half is paid by employers.
+                So, 6.2% of your earnings is taxed and is paid by you, and an equivalent amount is paid by your employer.
+                There is a maximum amount that is taxed (currently up to $176,100).
+            </p>
+
+            <p>
+                If you work for at least what is equivalent to ten years in a covered job, you are then eligible to receive payments once you reach a certain age.
+                These payments help fund living after you stop working.
+                What constitutes “ten years” is a little confusing now.
+                You need to earn 40 “credits,” and you can earn up to 4 credits per year.
+                To earn a credit, you must earn $1,810 in a covered job in a year.
+                If you make four times that ($7,240), you earn 4 credits that year.
+            </p>
+
+            <p>
+                The amount you get per month when you start to “collect” from Social Security depends on a number of factors.
+                It depends on how much you earned in your most recent years of employment (and thus paid in taxes), when you start to collect, how much your spouse’s benefits are, etc.
+                The biggest one people consider is the age to start collecting.
+                The earliest you can start collecting is age 62, but this is considered “early.” Hence, there is a reduction in your monthly payments (forever).
+                The “full” retirement age is now 67.
+                If you hold off on collecting past that, your payments will increase as a bonus to a maximum of age 70.
+            </p>
+
+            <p>
+                Most retired people in the US depend on Social Security in order to survive.
+                For most of you, it will be a system you are part of, pay into, and collect from.
+                Some people are “exempt” from the Social Security system.
+                People who work for state or municipal governments with public pension plans are usually not covered by social security.
+                For example, Massachusetts teachers and police officers do not pay Social Security tax nor do they receive benefits (unless they work a second job that is covered).
+            </p>
+
+            <p>
+                If you are wondering how much you’ll get from Social Security, it isn’t much.
+                The absolute maximum someone can get now (2025) is $5,108 per month.
+                That is only if they retire after age 70 and earned at least $176,100 over the past 10 years.
+                More realistically, the average Social Security payment last year was $1,900 per month.
+            </p>
+
+            <p>
+                Social Security is not just about supplying income to retired people, but that is the largest part of it by far.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-What-SS-Isnt">
+            <title>What Social Security Isn't</title>
+            <p>
+                Social Security is one of the most discussed topics for politicians, and there is a great deal of misunderstanding regarding the program.
+            </p>
+
+            <p>
+                One of the most common misunderstandings about it is that Social Security is not actually a retirement program.
+                It’s an <alert>insurance</alert> program.
+                In fact, it’s true name is “The Old-Age, Survivors, and Disability Insurance.” It is an insurance for people who live “too long.” The original foundation of the program interpreted living “too long” as living past when your body is able to do work.
+                Social Security was designed to help those who could not longer work <em>survive</em> a post-employment life.
+                It may be depressing to think of Social Security that way, but remember that it was created at a time when the majority of retired people lived in poverty.
+            </p>
+
+            <p>
+                Another misconception is that Social Security is meant to keep retired people in the lifestyles they’re accustomed to.
+                You may have noticed that the average Social Security payment of $1,900 is really low - not nearly enough to live a middle-class lifestyle.
+                Remember, Social Security is meant to help those who have outlived their employment lives <em>survive</em>, not be comfortable.
+                Realistically, paying only 6.2%of your income in taxes really isn’t enough to fund decades of post-work life.
+                So, <alert>Social Security is not enough to fund your retirement, and it was never intended to be.</alert>
+            </p>
+
+            <p>
+                One major misconception is how Social Security actually funds the payments it makes.
+                Many people believe that Social Security acts like a huge retirement account.
+                That is, you make payments into the system, and the Government invests that money so that it grows and is there for you when you retire.
+                This isn’t how Social Security works.
+                Social Security is a “pay-as-you-go” system.
+                That is, Social Security payments that are being made to day come directly from those paying the Social Security taxes now.
+                So, you are currently funding the payments for retired folk today.
+                When you start to collect from Social Security, your payments will be funded by those in the workforce.
+            </p>
+
+            <p>
+                One matter of constant debate is whether Social Security is a program someone is entitled to after working a certain number of years or whether it is a program to help someone live for a certain number of years past retirement.
+                When the program was created, these were essentially the same.
+                The retirement age of 62 was chosen as an approximate age when people could no longer work and an age that many did not even live to see.
+                Thanks to advanced in medicine and living standards, people are able to work longer and live well past that age.
+                However, the retirement age has only gone up to 67.
+                The debate on whether this retirement age is practical or just is constantly debated.
+                On one end, people who work until 67 have worked just as long and hard as those in previous generations.
+                However, those people are expected to live in post-work living way beyond previous generations.
+                It isn’t an easy debate to solve.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-SS-going-away">
+            <title>Is Social Security Going Away?</title>
+            
+            <p>
+                The short answer is I don’t know.
+            </p>
+
+            <p>
+                You may have heard about Social Security and solvency issues or “running out of money.” There is some truth to this.
+                Social Security isn’t exactly going to “run out” of money.
+                In 7-9 years, the number of retired individuals will be greater than what the workforce will be able to fund.
+                So, if Social Security does not receive more revenue, Social Security payments will need to be reduced.
+                There are a few stray politician who will say that Social Security needs to go away entirely (but keep the taxes).
+            </p>
+
+            <p>
+                One factor that complicates this is that Social Security was moved into the general Federal budget.
+                This was done at a time when Social Security was well funded and moving it into the general budget made it look like the full budget was balanced.
+                Being in the general budget makes some aspects of the revenue/cost streams of Social Security harder to analyze.
+            </p>
+
+            <p>
+                There are essentially two ways to make Social Security “solvent” or able to pay for itself - either increase revenues or decrease costs.
+            </p>
+
+            <p>
+                Decreasing costs would be simple, but very unpopular.
+                This can happen either by reducing payment amounts or raising the retirement age.
+                Current rand future retirees don’t want their payments decreasing, and those looking toward retirement don’t want to have to work for longer.
+            </p>
+
+            <p>
+                There are a number of ways revenues could increase for Social Security.
+            </p>
+
+            <ul>
+                <li>
+                    <p>
+                        The maximum taxable income could be raised.
+                        That is, those with very high incomes would pay more into Social Security (and get more in payments).
+                        This is uncommon with the wealthy as investing in markets is seen as a better use of their money over paying into Social Security.
+                        Since it’s unpopular with the wealthy, few politicians want to explore this option.
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        The tax percentage on wages could be increased.
+                        This has been done multiple times before.
+                        The original Social Security tax was 2%.
+                        It’s now 12.6%.
+                        Of course, tax increases are never popular.
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Raise the retirement age.
+                        While also reducing costs, raising the retirement age encourages people to work longer.
+                        However, most people do not want to have to work longer before retirement.
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Providing work visas to immigrant workers will increase the workforce.
+                        We have an aging workforce, meaning that there are too few young and middle-aged people working.
+                        Undocumented workers generally do not pay taxes as they are paid “under the table.” Including these workers into the main workforce would significantly boost revenues into Social Security.
+                        However, immigration is a big issue for many US citizens, and this option is very unpopular for some.
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Increasing taxes on the very wealthy would provide more funding.
+                        Since Social Security is in the general budget, it can be funded via any revenues.
+                        The taxes on the wealthy (and only the the very wealthy) have dropped by more than half in the past 40 years.
+                        Increasing that tax rate for the very wealthy even a small amount could re-fund Social Security.
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Transferring funding from another program/department could increase revenues.
+                        Those opposed to increased taxes on the wealthy usually support decreasing funding in other areas of the government.
+                        Of course, decreasing funding in other areas means those programs/benefits are less available.
+                    </p>
+                </li>
+            </ul>
+
+            <p>
+                The problem with funding Social Security is a difficult one.
+                Somebody needs to pay for it, and no one wants to.
+                The clock is ticking, and a decision is going to have to be made.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-what-to-do-with-SS">
+            <title>Activity: What to do with Social Security?</title>
+            <p>
+                This is your opportunity to think about what you think should be done about Social Security.
+                What do you think your be the best option for Social Security? How do you think its funding issues should be solved?
+            </p>
+        </subsection>
     </section>
 </chapter>
