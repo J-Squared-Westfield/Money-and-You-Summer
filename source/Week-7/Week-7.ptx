@@ -174,5 +174,266 @@
                 So, some people say that 7%of above are “good’’ rates of return.
             </p>
         </subsection>
+
+        <subsection xml:id="subsec-Rule-of-72">
+            <title>Rule of 72</title>
+            <p>
+                Because people don’t tend to like whipping out a calculator everytime they talk about investments, some people use the <alert>Rule of 72</alert> to think about how investments will grow under a certain rate of return.
+            </p>
+
+            <p>
+                The Rule of 72 allows someone to approximate how long it will take an investment to double with a given rate of return.
+                If <m>R\%</m> is your investment rate of return as a percent, then the approximate time for an investment to double can be calculated as <m>\frac{72}{R}</m> years.
+                For example, if your rate of return for an investment were 7.2%, then it would take approximately <m>\frac{72}{7.2}= 10</m> years for your money to double.
+            </p>
+
+            <p>
+                10 years may sound like a long time for money to double.
+                The thing is that returns <em>compound.</em> This means that if your money doubles after 7 years, that doubled amount doubles after the next 7 years.
+                That quadrupled amount doubles after the next 7 years.
+                And so on.
+            </p>
+
+            <p>
+                Consider the following example.
+            </p>
+
+            <p>
+                Suppose you inherit $10,000 from a relative today.
+                You want to invest the money in a mutual fund that earns a rate of return so that your money doubles every ten years.
+                How much would you have when you retire in 50 years?
+            </p>
+
+            <p>
+                In ten years, you would have $20,000.
+                After 20, that $20,000 doubles to $40,000.
+                After 30 years, that doubles to $80,000.
+                After 40 years, that doubles to $160,000.
+                After 50 years, that doubles to $320,000.
+            </p>
+
+            <p>
+                The Rule of 72 can help you compare rates of return in a different way.
+                For example, suppose you compare rates of return of 5%and 10%.
+                Using the Rule of 72, under a 5%rate of return, it would take <m>\frac{72}{5}= 14.4</m> years for your investments to double.
+                Under a 10%rate of return, it would take <m>\frac{72}{10}= 7.2</m> years for your investments to double.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Retirement">
+        <title>Retirement</title>
+        <subsection xml:id="subsec-Why-Retire">
+            <title>Why Retire?</title>
+            <p>
+                To retire from work means to fully or partially leave the workforce.
+                For most people, even those who love their jobs, there comes a point when your body can no longer handle the demands of a full-time job.
+                Whether it is to focus on family, take time for more life experiences, or simply to stop working a demanding job, most people want to retire from work.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Saving-retirement-Whys">
+            <title>Saving for Retirement - the Whys</title>
+            <p>
+                Imagine that you have been working the same job for 40 years and have been earning reliable paychecks of $6,000 per month to pay for your housing, taxes, food, utilities, etc.
+                Imagine that you decide to retire and that your paychecks stop immediately.
+                How do you pay for your expenses? How do you survive?
+            </p>
+
+            <p>
+                In the past, American culture used to center around homesteads in which multiple generations lived and worked.
+                Parents would raise children who would work on or near these homesteads.
+                When the children were grown and raising their own families, the parents could do less work around the homesteads as their bodies aged.
+                As industry progressed, families moved further apart, meaning elderly parents are much less likely to be supported by their adult children once they are unable to work.
+                From this, the concept of saving for retirement evolved.
+            </p>
+
+            <p>
+                We want to save for retirement so that we can afford a similar lifestyle to what we’re accustomed to while working.
+                Saving for retirement means having realistic ideas of what your costs will be when you reach retirement age.
+                Housing, medical care, food, taxes, entertainment, transportation, etc.
+                There is a great deal you need to plan for.
+                Unfortunately, not only do you lose your paychecks when you retire, many of your expenses increase.
+                As your body ages, it will need more expensive medical care.
+                As your house value increases, you’ll pay more in property taxes.
+                Of course, there’s also inflation, making everything cost more.
+            </p>
+
+            <p>
+                What I am getting at is that retirement has a big price tag.
+                This, combined with the power of how fast money can grow with investments, leads to the following mantra: “The best time to start saving for retirement is as soon as possible.”
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-When-to-start-saving-Retirement">
+            <title>Activity: When to Start Saving for Retirement</title>
+            <p>
+                First, open up this calculator: <url href="https://www.calculator.net/annuity-calculator.html">https://www.calculator.net/annuity-calculator.html</url>.
+                Now, consider the following scenario.
+                Suppose you are 20 years old.
+                You would like to retire when you turn 65 (45 years from now).
+                Suppose all you can save is $10 per week (or $40 per month).
+                Suppose that you can earn a typical 7%rate of return on your investments.
+                Use the calculator to determine how much you could save up if you started saving:
+            </p>
+
+            <ol>
+                <li>
+                    <p>
+                        Starting at age 40 (25 years of savings)
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Starting at age 30 (35 years of savings)
+                    </p>
+                </li>
+
+                <li>
+                    <p>
+                        Starting now (45 years of savings)
+                    </p>
+                </li>
+            </ol>
+
+            <p>
+                Set the “starting principal” and “annual addition” to 0.
+                Set the “monthly addition” to 40.
+                Set the option to “beginning of period” and set the rate to 7%.
+                Only change the “after” setting.
+            </p>
+
+            <p>
+                <alert>Record your findings. What do your findings say about when you should start saving?</alert>
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-How-Much-Do-I-Need-Retire">
+            <title>How Much Do I Need To Retire?</title>
+            <p>
+                How much do you need to retire? That is a really, really hard question to answer.
+                It highly depends on the lifestyle you want to live after retirement.
+                Do you want to travel the world in five-star hotels? Then you’ll need quite the hefty sum.
+                Do you want to live in a quiet one-room cabin in the woods? Then you’ll need much less.
+                It also depends on unknown factors such as how long you’ll live, whether or not you’ll develop costly medical conditions, how inflation works out over time, tax policies, and so on.
+            </p>
+
+            <p>
+                As a <em>really basic, overly-simplistic</em> rule of thumb, I would recommend that you want to have about 10-13 years worth of your highest year’s salary saved up.
+                This comes with a huge note.
+                You don’t know what you’ll earn in your highest-salary year as that is usually your last year you will work.
+                Here’s what you can do to help estimate how much you’ll want to have for retirement.
+                Look up the average salary for someone with your preferred career in the area you want to live.
+                For example, suppose you want to be a nurse in Boston; a rudimentary interest search says that the average salary for a nurse in Boston is about $100,000.
+                Now, adjust that figure for inflation how many years into the future you will retire.
+                Suppose that you will retire 40 years from now.
+                Then that $100,000 figure becomes <m>100,000\times (1.03)^{40}= \$326,204.</m> The number you get represents a very rough estimate of your salary when you reach retirement age.
+                Finally, to get how much you need for retirement, multiply that by a factor of 10, 11, 12, or 13.
+                So, on a low end, you’d want around <m>326,204 \times 10 = \$3,262,040</m> to retire.
+                On the high end, you’d want around <m>326,204 \times 13 = \$4,240, 649.13</m> to retire.
+            </p>
+
+            <p>
+                Please pay attention to the following:
+            </p>
+
+            <p>
+                <alert>If you are relatively young (teens, 20’s, 30’s), the process I outlined above is essentially useless!</alert>
+            </p>
+
+            <p>
+                It is useless because there is so much that is unpredictable.
+                However, it can be a valuable exercise if you want to consider the scale of how much you need to retire.
+                Yes, you will likely need to be a millionaire in order to retire.
+                Keep in mind that while these numbers are quite high, your salaries will increase over time as well.
+                It isn’t as daunting as it seems.
+            </p>
+
+            <p>
+                If you are starting to despair at some of these numbers, please move on to the next section for hope.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-Saving-Isnt-Scary">
+            <title>Activity: Saving for Retirement Isn't that Scary</title>
+            <p>
+                Head back to the annuity calculator: <url href="https://www.calculator.net/annuity-calculator.html">https://www.calculator.net/annuity-calculator.html</url>
+            </p>
+
+            <p>
+                Suppose you are 25 years old and would like to start saving for retirement.
+                Your job currently pays you $85,000 annually, which comes to $5,000 per month after taxes.
+                You follow the 50-30-20 budgeting plan and put 20%of your take-home pay ($1,000) into savings.
+                You put $750 into your retirement account each month and $250 into a general savings account.
+            </p>
+
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Using the annuity calculator and using $0 as starting principal, $0 as the annual addition, $750 as the monthly addition, and 7%as the annual growth rate, determine how much you’ll have saved in your retirement account in ten years (age 35).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            After ten years (age 35), you are making more money.
+                            You are able to put aside twice as much per month into your retirement account ($1,500 per month).
+                            Use your answer to part 1 as the starting principal amount.
+                            (The amount already saved up.) Determine how much you’ll have in your retirement account in another ten years (age 45).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            After another ten years (age 45), you are making more money.
+                            You can now put aside $2,250 per month into your retirement account.
+                            Use your answer from part 2 as the starting principal amount.
+                            Determine how much you’ll have in your retirement account in another ten years (age 55).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            After another ten years (age 55), you are making more money.
+                            You can now put aside $3,000 per month into your retirement account.
+                            Use your answer from part 3 as the starting principal amount.
+                            Determine how much you’ll have in your retirement account in another ten years (age 65).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            If your goal is to have $3,000,000 saved up for retirement, could you retire at age 65?
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Debrief-How-Realistic">
+            <title>Debrief: How Realistic is this Savings Plan?</title>
+            <p>
+                Do a bit of research online.
+                Look at average salaries for college graduates in Massachusetts.
+                Imagine sharing a house with a partner who makes a similar income.
+                Imagine sticking to a 50-30-20 plan.
+                Remember that your pay will increase over your lifetime due to inflation and pay raises.
+                If you consider all of these, the scenario above is quite realistic.
+                However, it hinges on starting early.
+            </p>
+
+            <p>
+                On top of this, you will likely have other opportunities to have retirement income on top of what you save (e.g.
+                Social Security, employer-sponsored plans, etc.) to supplement your retirement.
+                So, if you were intimidated by the large numbers in the previous section, remember that retirement is very much possible due to the power of rates of return (exponential growth) and starting early.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Saving-for-Retirement">
+        <title>Saving for Retirement</title>
+        
     </section>
 </chapter>
