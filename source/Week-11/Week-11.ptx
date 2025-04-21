@@ -873,7 +873,7 @@
                         </p>
 
                         <p>
-                            <image source="pics/AI-Img1.jpeg">
+                            <image source="pics/AI-Img1.jpeg" width="20%">
                             </image>
                         </p>
 
@@ -937,13 +937,13 @@
                         </p>
 
                         <p>
-                            <image source="pics/me1.jpeg">
+                            <image source="pics/me1.jpeg" width="20%">
                             </image>
 
-                            <image source="pics/me2.jpeg">
+                            <image source="pics/me2.jpeg" width="20%">
                             </image>
 
-                            <image source="pics/me3.jpg">
+                            <image source="pics/me3.jpg" width="20%">
                             </image>
                         </p>
 
