@@ -33,6 +33,8 @@
 
     <xi:include href="Week-10/Week-10.ptx"/>
 
+    <xi:include href="Week-11/Week-11.ptx"/>
+
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
