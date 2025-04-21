@@ -1000,6 +1000,27 @@
                             Chat with you soon.
                         </p>
                     </li>
+
+                    <li>
+                        <p>
+                            <image source="pics/chat1.jpg">
+                            </image>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <image source="pics/chat2.jpg">
+                            </image>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <image source="pics/chat3.jpg">
+                            </image>
+                        </p>
+                    </li>
                 </ol>
             </p>
         </subsection>
