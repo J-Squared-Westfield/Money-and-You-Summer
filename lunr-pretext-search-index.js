@@ -1114,7 +1114,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.3",
   "title": "Week 11 Homework",
-  "body": " Week 11 Homework     Please submit your work on the following activities:   Calculate the Investments ( )    When to Start Saving for Retirement ( )    Saving for Retirement Isn't that Scary ( )       In this week, we targeted one learning goal for the course - social-emotional skills. Write a few sentences as to how this week’s material has helped you progress toward meeting this learning objective. The learning goal objective is as follows:     Social-emotional skills: General Education Objective: Students identify personal social, emotional, and cognitive skills to be practiced and developed; including self-awareness, self-management, social awareness, responsible decision making, relationship skills, and communication skills.        "
+  "body": " Week 11 Homework     Please submit your work on the following activities:   Spot the Scammers ( )    Spot the Fake Dating Profiles ( )    Protecting Yourself from Identity Theft ( )       In this week, we targeted one learning goal for the course - social-emotional skills. Write a few sentences as to how this week’s material has helped you progress toward meeting this learning objective. The learning goal objective is as follows:     Social-emotional skills: General Education Objective: Students identify personal social, emotional, and cognitive skills to be practiced and developed; including self-awareness, self-management, social awareness, responsible decision making, relationship skills, and communication skills.        "
 },
 {
   "id": "backmatter-2",
