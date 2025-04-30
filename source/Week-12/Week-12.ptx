@@ -1,0 +1,93 @@
+<chapter xml:id="week-12" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Week 12: Taxes</title>
+    <section xml:id="sec-How-Taxes-Work">
+        <title>How Taxes Work</title>
+        <p>  
+            <alert>Taxes</alert> funds collected (levied) by governments from its citizens and other entities. 
+            Funds collected from taxation fund many aspects of our daily lives. Taxes pay for work of some employees like teachers and police officer. 
+            Taxes pay for the construction and maintenance of roads. Taxes pay for parks, schools, and other public grounds. 
+            Taxes pay for some social services like Social Security or disability. Taxes pay for research and education, making your study at Westfield possible. 
+            Taxes pay for goods and services that you interact with everyday, whether or not you currently pay any taxes.
+        </p>        
+        <subsection xml:id="subsec-kinds-of-taxes">
+            <title>Kinds of Taxes</title>
+            <p>
+                There are <alert>a lot</alert> of different kinds of taxes in the United States.
+                We’ll go over some of the most common.
+            </p>
+
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>Payroll Taxes</em> - These taxes fund Social Security and Medicare. These taxes are taken out of your paycheck automatically. Your employer and you split these taxes. If you work for yourself, you will need to pay these when you file your taxes. These programs provide retirement and health benefits (old-age insurance is more accurate) to the elderly and some health benefits to certain people. These taxes are levied by the Federal government.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Income Taxes</em> - Income taxes are taxes you pay on many of your earnings over a year. Your paychecks, investment returns, small-business earnings, and other sources of income are taxed. These taxes are taken out of your paycheck automatically. If work for yourself, you pay these taxes when you file your taxes. The Federal government levies income taxes. Some stats also levy income taxes (like Massachusetts).
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <alert>Property Taxes</alert> - If you own property, you will pay taxes on it. The amount you pay is based on the value of the property and the tax rate set by the local government. These taxes fund local goods and services like building schools, many aspects of public safety, construction of parks, etc. Local governments, like cities or counties levy property taxes.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <alert>Excise Taxes</alert> - These are taxes on particular goods. Some products, like alcohol, cigarettes, gas, etc. have excise taxes on them. These taxes sometimes have special purposes. (For example, gas excise taxes often fund road construction/repair.) These taxes are levied by the Federal, state, and local governments.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <alert>Sales Taxes</alert> - Many products you buy are subject to these taxes. Sales tax is a fixed proportion of the sale price of a purchased good or service that is paid to a state and/or government. Not all states have sales taxes. Many products are exempt from sales tax in some states. (For example, clothing and food from grocers are exempt from sales tax in Massachusetts.) Formally, the seller of an good or service pays the sales tax, but that cost is put on the buyer and charged to them at the time of the sale.
+                        </p>
+                    </li>
+                </ul>
+            </p>  
+
+            <p>
+                There are many other kinds of taxes in the US.
+                There are inheritance taxes (taxes on inherited wealth beyond $1M, paid to state and Federal governments); occupancy taxes (takes paid on short-term lodging, paid to local governments); corporate taxes (taxes paid by corporations on profits they earn, paid to Federal and state governments); and tariffs (taxes paid on goods being imported or exported, paid to the Federal government); among others.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Where-Do-Our-Taxes-Go">
+            <title>Where Do Our Taxes Go?</title>
+            <p>
+                It is important for you to understand what your tax dollars do and don’t do.
+                As you grow older and become more concerned with how your local, state, and Federal governments operate, you need to have a working knowledge of what your money actually does.
+            </p>
+
+            <p>
+                Here is a brief list of what kinds of governments do with your taxes.
+            </p>
+
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            Federal Government - Funds Social Security, Medicare, national defense, national parks, scientific research, Federal social programs, Federal government employees, environmental protection, grants to state governments.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            State Government - Education oversight (especially higher education), transportation, state social programs, state parks, public safety oversight.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Local Government - Public schools, libraries, local parks, police and fire departments, public works.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsection>
+    </section>
+</chapter>
