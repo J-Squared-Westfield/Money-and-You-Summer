@@ -328,7 +328,7 @@
 
             <p>
                 <table>
-                    <title>Table for tallying points in each money personality type</title>
+                    <title>Tax Brackets</title>
                     <tabular halign="center" top="medium">
                       <row bottom="medium">
                         <cell left="medium" right="medium">
@@ -441,5 +441,176 @@
                 The second bracket has a span of <m>47,150 - 11,600 = 35,550.</m> So, the total amount of tax owed is <m>(11,600 \times 0.1) + (35,550 \times 0.12) + (850 \times 0.22) = \$5,613</m>.
             </p>
         </subsection>
+    </section>
+
+    <section xml:id="sec-Tax-Forms">
+        <title>Tax Forms</title>
+        <p>
+            There are some tax forms that many of you have already seen, and most of you will see.  We’ll cover some of the most common.
+        </p>
+
+        <subsection xml:id="subsec-W4">
+            <title>W4</title>
+            <p>
+                The W4 form is a form you fill out for your employer when you are hired.
+                This form helps them and the IRS estimate how much you’ll owe in taxes for the year and how much to take from your paychecks.
+                In such a scenario, you don’t actually make payments to the government.
+                Instead, your employer pays the government and reduces the amount in your paycheck.
+            </p>
+
+            <p>
+                The W4 will take your personal information.
+                It will also ask for information that used to fall under “exemptions.” So, you will indicate whether you are married, how many dependents you have, etc.
+            </p>
+
+            <p>
+                There is one important box for married people or people with multiple jobs.
+                There will be a line asking if you would like to have additional money taken out of your check for taxes.
+                You may have the gut reaction of “hell no!” But hear me out.
+                Suppose you and your spouse each made $35,000.
+                When you fill out your W4, all they have to go on is your $35,000 salary.
+                So, they will tax you based on that amount (tax bracket).
+                However, with your spouse’s and our incomes combined, you bring in $70,000 together, which puts you into the next tax bracket.
+                However, if both of you paid taxes individually under the assumption that you would be taxed at the lower bracket rate, you would be in for a huge rude awakening when you went to file your taxes at the end of the year.
+                You would almost certainly owe a lot more than you were expecting.
+                A similar thing can happen if you work multiple jobs.
+                If you are married or have multiple jobs, it may be best for you to request extra money be taken out with each check.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-I9">
+            <title>I9</title>
+            <p>
+                An I9 is simply a form your employer uses to verify that you’re able to work legally in the US.
+                You’ll need to provide proof of citizenship, legal residency, and/or work eligibility to your employer when they fill it out.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-W2">
+            <title>W2</title>
+            <p>
+                If you work for an employer, you will get a W2.
+                They are generally sent out each January.
+                Your W2 is your summary sheet that you will use to file your taxes.
+                It contains how much you earned in gross pay, how much you paid in taxes, how much you contributed to retirement accounts, 
+                how much you paid in health insurance premiums through your work, and a few other items. 
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-W9">
+            <title>W9</title>
+            <p>
+                Subcontracting is becoming more and more common.
+                You are a subcontractor if you perform work for someone, but you are not their employee.
+                (Think of Uber drivers in most states.) Since they are not your employer, you do not fill out a W4 when you’re hired.
+                However, they still must report how much they paid you (and thus your income) to the government.
+                So, you fill out a W9, which gives them your personal identifying information for taxation purposes.
+            </p>
+        </subsection>
+        
+        <subsection xml:id="subsec-1099">
+            <title>1099</title>
+            <p>
+                If you get income from anywhere else, you can report it via a 1099 form.
+                If you have interest income, money you made from selling homemade soap, or $100 you found in the gutter, you can report it on a 1099.
+            </p>
+
+            <p>
+                If you are asking yourself why you would self-report income that no one seems to know about that will only be taxed, keep in mind that it isn’t really that hard for the IRS to sniff out discrepancies.
+                The last thing you want is to be audited.
+                You’ll have to pay fines and late fees.
+                If you purposely avoid disclosing a larger amount of income, you could go to jail for tax evasion.
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-1098">
+            <title>1098</title>
+            <p>
+                A 1098 form can help reduce the amount of taxes you owe.
+                If you pay interest on student loans or a mortgage, you can reduce your taxable income via this form.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Filing-Taxes-and-the-1040-Form">
+        <title>Filing Taxes and the 1040 Form</title>
+        <p>
+            We left out what might be the most important tax form - the 1040 form.
+        </p>    
+
+        <subsection xml:id="subsec-The-1040-Form">
+            <title>The 1040 Form</title>
+            <p>
+                By April 15th of every year, you must submit your 1040 form and any owed taxes to the IRS.
+                Your 1040 form is essentially a worksheet that you use to determine how much you owe in taxes for the year and how much more you still need to pay (or how much you are owed).
+                If you are wondering why the IRS doesn’t do it for you, the reason is that there is no way for the IRS to know what deductible expenses you had over the year.
+                For example, they’ll have no way of knowing if you had $1,000 in gambling losses.
+            </p>
+
+            <p>
+                On the surface, filling out a 1040 is not particularly difficult.
+                You enter the information from your W2, perform the required addition/subtraction, and compare what you paid in taxes over the year to what you actually need to pay.
+            </p>
+
+            <p>
+                The issue is that taxes can get really complicated for some.
+                If you qualify for a credit, you’ll need to fill out the corresponding form.
+                If you want to itemize deductions rather than take the standard deduction, you’ll need to fill out a form in which you do so.
+                If you own a small business in which your personal and business taxes are intertwined, there is a lot that goes into figuring out your tax burden.
+                There’s a reason tax accountants exist.
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Homework-Week-12">
+        <title>Week 12 Homework</title>
+        <p>
+            <ol>
+                <li>
+                    <p>
+                        Please submit your work on the following activities:
+                        <ul>
+                            <li>
+                                <p>
+                                    Spot the Scammers (<xref ref="subsec-Do-Proportional-Taxes-Exist"/>)
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Spot the Fake Dating Profiles (<xref ref="subsec-Activity-Determine-How-Much-You-Owe"/>)
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+
+
+                <li>
+                    <p>
+                        In this week, we targeted two learning goals for the course - accessing wellness tools and social-emotional skills.  Write a few sentences as to how this week’s material has helped you progress toward meeting these learning goals. The learning goal objective is as follows:
+                    </p>  
+
+                    <p>
+                        <ul>
+                            <li>
+                                <p>
+                                    Accessing wellness tools: Students develop tools for improving their physical, social,
+                                    and/or mental/emotional health and overall college experience.
+                                </p>
+                            </li>
+
+                            <li>
+                                <p>
+                                    Social-emotional skills: General Education Objective: Students identify personal social, emotional, 
+                                    and cognitive skills to be practiced and developed; including self-awareness, self-management, social awareness, 
+                                    responsible decision making, relationship skills, and communication skills.
+                                </p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+            </ol>
+        </p>
     </section>
 </chapter>
