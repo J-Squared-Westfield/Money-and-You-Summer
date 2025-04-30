@@ -89,5 +89,357 @@
                 </ul>
             </p>
         </subsection>
+
+        <subsection xml:id="subsec-How-Much-Pay-Taxes">
+            <title>How Much Do I Have to Pay in Taxes?</title>
+            <p>
+                If you’re really rich, nothing.
+            </p>
+
+            <p>
+                But for most of us, the answer isn’t very simple.
+                The answer depends on how much money you make, how you make your money, and what you spend your money on.
+                There are even ways to reduce how much you pay in taxes.
+            </p>
+
+            <p>
+                Many taxes can be broken into one of three categories.
+            </p>
+
+            <p>
+                A <alert>proportional</alert> or <alert>flat</alert> tax is one that is based on a set percentage of some value.
+                Most textbooks refer to sales tax as a proportional tax because a percentage is set in each state/locality.
+                If something costs $100 and the sales tax rate is 6%, then everyone who buys the item pays $6 in sales tax without exception.
+                In a similar vein, property taxes are also considered a proportional tax.
+            </p>
+
+            <p>
+                A <alert>progressive</alert> tax is one in which the tax rate changes based on income or value so that a larger tax rate is applied to those with more income or things with more value.
+                Income taxes at the Federal level are progressive.
+                Those who make very little money have a low tax rate.
+                Those who make a whole lot have a higher tax rate.
+            </p>
+
+            <p>
+                There can be <alert>regressive</alert> taxes.
+                These would be the opposite of progressive taxes in that those with less income or things with lower value have a higher tax rate.
+            </p>
+
+            <p>
+                Many taxes are hard to classify in this regressive, proportional, progressive classification.
+                Take payroll taxes, for example (Social Security and Medicare).
+                It is proportional, kind of.
+                For people who make less than $176,000, 6.2%of their income is taxed via payroll taxes.
+                However, if you make more than $176,000, the remaining income isn’t taxed.
+                Take someone who made $50,000 last year.
+                6.2%of their paycheck is taxed as payroll tax.
+                Take someone who made $500,000 last year.
+                Because only the first $176,000 is taxable via these payroll taxes, they pay only $10,912 in payroll taxes (or about 2.2%).
+                So, are payroll taxes proportional or regressive?
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Do-Proportional-Taxes-Exist">
+            <title>Do Proportional Taxes Exist?</title>
+            <p>
+                Some people claim that most taxes in the US are regressive.
+                Take sales tax, for example.
+                Suppose two people buy a television for $1,000.
+                Suppose the first has a salary of $100,000 and the other has a salary of $200,000.
+                Suppose the sales tax rate is 6%.
+                The first would pay $60, or 0.06%of their salary on sales tax for that TV.
+                The second would also pay $60, or 0.03%of their salary on sales tax for that TV.
+                So, some people conclude that sales tax is actually regressive.
+            </p>
+
+            <p>
+                <alert>What do you think? Are taxes like sales taxes proportional or regressive?</alert>
+            </p>
+
+            <p>
+                <alert>Explain your answer with a few sentences</alert>
+            </p>
+        </subsection>
+    </section>
+
+    <section xml:id="sec-Income-Tax-Filing">
+        <title>Income Tax Filing</title>
+        <p>
+            If you earn income in a year, you’ll likely need to pay taxes on your income.
+            When working for an employer, you’ll have taxes taken out of your paychecks.
+            However, the amount taken out is an estimate of your actual tax <alert>burden</alert>.
+            The exact amount you owe may not be clear until the end of the year.
+            Very rarely do you pay the exact amount you need through your paycheck deductions.
+            Most people overpay or underpay a bit.
+            Through <alert>filing</alert>, you determine how much you should pay (or should have paid) in taxes.
+            If you underpaid, you will owe the government more.
+            If you overpaid, you are due a refund on the amount overpaid.
+        </p>
+
+        <subsection xml:id="subsec-Terminology">
+            <title>Terminology</title>
+            <p>
+                There is a great deal of terminology you should know when talking about taxes.
+            </p>
+
+            <p>
+                <ul>
+                    <li>
+                        <p>
+                            <em>Gross Income</em> - Your gross income is the total amount of money you’ve made from all sources. Wages, tips, gifts, money you found on the street, interest, capital gains. Everything.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Adjusted Gross Income</em> - In terms of taxes, your adjusted gross income, or AGI, is more important. From the government’s point of view, some of the money you earned isn’t really your income. Some expenses have certain tax privileges that reduce your income in the eyes of the IRS, which is a good thing. Your AGI is calculated as your gross income minus these special expenses. Some of these expenses are listed below:
+                        </p>
+
+                        <p>
+                            <ul>
+                                <li>
+                                    <p>
+                                        Contributions to your traditional IRA
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Interest paid on student loans
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Educator expenses like books and equipment
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Health savings account contributions
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Alimony paid
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Penalties paid on early withdrawals of savings (like withdrawing from a CD early)
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <p>
+                                        Certain self-employment expenses
+                                    </p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Taxable Income</em> - Beyond your adjusted gross income, you can reduce your tax burden even more through exemptions and deductions. Your taxable income is the amount of your income that is actually taxed. It is calculated as your AGI minus the allowed amounts from exemptions and deductions.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Tax Bracket</em> - Income tax is a progressive tax, meaning the more money you make, the higher your tax rate. The rate is not linear. There are a number of different ranges of income, and each has a corresponding tax rate. The income range your taxable income fall into is your tax bracket.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Exemptions</em> - Formally, we no longer use the term “exemptions’’ in Federal income taxation; the terms were eliminated in 2018. However, the idea remains. When the term was used, an exemption was an acknowledgement that it costs more to support a family of five than it is to support a family of two. Having to provide for children or other people reduces your tax burden by lowering your taxable income. Today, you provide the same information, such as whether you are married, how many kids you support, etc., which still affects your tax burden. However, the “exemption’’ term is no longer used.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Deduction</em> - A deduction is an expense that lowers your taxable income. Some expenses that are difficult for the IRS to predict have been deemed to be worthy of some tax benefits. There are a great number of things that qualify as deductions. Things like some medical expenses, charitable donations, interest paid on your mortgage, amounts paid in state or local taxes, traditional 401(k)/403(b) contributions, gambling losses, and many more. The list also includes those that determine your AGI.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Standard Deduction</em> - The IRS can’t really track all legitimate deductible expenses for every citizen. So, there is the “standard deduction.’’ The standard deduction is an option for tax payers in which they can claim that they have spent an “average’’ amount of money on deductible expenses. For 2024, the standard deduction was $14,600 for a single person (or married and filing separately) and $29,200 for a married couple. Claiming the standard deduction reduces your taxable income from your AGI by that amount. It is simple and easy. It works well for people who do not want to track their deductible expenses or for families who don’t actually have that much in deductible expenses. If you take the standard deduction, you cannot claim any other deductions. So, for people who have a lot of deductible expenses, they should not take the standard deductible.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Itemized Deduction</em> - For people who do not take the standard deduction, they will need to list out all of their deductible expenses. When they do this, these are called “itemized deductions.’’ While a bit of a pain, this process is well worth it for people with large incomes or a large amount of deductible expenses.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Tax Credit</em> - A tax credit works similar to a deduction. However, a credit reduces how much you owe in taxes dollar-for-dollar. The difference may sound subtle, but it is hugely important. Suppose you have a gross income of $100,000 and that your tax rate on the amount was 25%flat. Suppose you had a $20,000, making your taxable income $80,000. Then you’d pay 25%of that in taxes, or $20,000. Now suppose instead you had a tax credit of the same amount of the deduction: $20,000. You would be taxed on the full $100,000 and would owe $25,000 in taxes. However, your tax credit of $20,000 would go against that tax owed. So, you’d only have to pay $5,000 in taxes. Tax credits are pretty awesome. There are a number of things that earn you tax credits. Some higher-education expenses, having children of certain ages, adopting a child, having lower incomes, self-employment tax write-offs, energy-efficiency credits, and many more are available.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Dependent</em> - A dependent is someone you support financially. The most common example is children or stepchildren (up through age 19 or 24 for full-time students). However, there can be other dependents in the form of elderly parents, siblings, disabled family members, etc. The number of dependents you have affects your tax burden.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            <em>Refund</em> - If you overpay in taxes over the year, the IRS owes you the amount you overpaid. A tax refund is this amount you overpaid and are owed by the IRS. If you owe on taxes from a previous year, any refund will automatically be used to pay those backtaxes.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Tax-Brackets-and-Rates">
+            <title>Tax Brackets and Rates</title>
+            <p>
+                The function of tax brackets is a little weird, but it is designed to be more fair.
+                When I said that those who make more pay a higher tax rate, I was partially lying.
+                Let’s take the two lowest tax brackets as examples.
+                For 2024, the lowest tax bracket applies to those with taxable incomes between $0 and $11,600, which has a tax rate of 10%.
+                The second lowest applies to those with taxable incomes between $11,601 and $47,150, which has a tax rate of 12%.
+                Let’s take two people, one with taxable income of $10,000 and one with taxable income of $20,000.
+                The idea is that it would be unfair for the one who has higher taxable income to pay a higher rate on the same amount than the one with the lower taxable income.
+            </p>
+
+            <p>
+                Here is the compromise.
+                The first person pays the 10%on their taxable income, which would work out to be $1,000.
+                The second person also pays only 10%on their taxable income for the <alert>first</alert> $11,600.
+                The remaining $8,400 of their $20,000 taxable income would be taxed at the higher 12%rate.
+                So, they’d owe <m>11,600 \times 0.1 + 8,400 \times 0.12 = \$2,168.</m>
+            </p>
+        </subsection>
+
+        <subsection xml:id="subsec-Activity-Determine-How-Much-You-Owe">
+            <title>Activity: Determine How Much You Owe</title>
+            <p>
+                Below are the tax brackets and tax rates for incomes in 2024.
+            </p>
+
+            <p>
+                <table>
+                    <title>Table for tallying points in each money personality type</title>
+                    <tabular halign="center" top="medium">
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          Tax rate
+                        </cell>
+                        <cell right="medium">
+                          Taxable income range
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          10<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />0 to <dollar />11,600
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          12<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />11,601 to <dollar />47,150
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          22<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />47,151 to <dollar />100,525
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          24<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />100,526 to <dollar />191,950
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          32<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />191,951 to <dollar />243,725
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          35<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />243,726 to <dollar />609,350
+                        </cell>
+                      </row>
+                      <row bottom="medium">
+                        <cell left="medium" right="medium">
+                          37<percent />
+                        </cell>
+                        <cell right="medium">
+                          <dollar />609,351 and up
+                        </cell>
+                      </row>
+                    </tabular>
+                  </table>
+            </p>
+
+            <p>
+                For each of the following taxable incomes, determine the total amount of tax your would owe.
+                The first is done for you.
+            </p>
+
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            $48,000
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            $74,500
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            $205,111
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            $240,017
+                        </p>
+                    </li>
+                </ol>
+            </p>
+
+            <p>
+                1 - $48,000 lies in the third bracket.
+                So, they would pay 10%on the first $11,600.
+                They would pay $12 on the amounts from $11,601 to $47,150.
+                They would pay 22%on the remaining $850.
+                (850 was calculated from <m>48,000 - 47,150</m>.) The key here is that you apply the tax rate to the amount within each tax bracket.
+                The first bracket has a span of <m>11,600 - 0 = 11,600</m>.
+                The second bracket has a span of <m>47,150 - 11,600 = 35,550.</m> So, the total amount of tax owed is <m>(11,600 \times 0.1) + (35,550 \times 0.12) + (850 \times 0.22) = \$5,613</m>.
+            </p>
+        </subsection>
     </section>
 </chapter>
