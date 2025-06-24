@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="week-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Week 1: Introduction, Money Psychology, and Setting Financial Goals</title>
+  <title>Unit 1: Introduction, Money Psychology, and Setting Financial Goals</title>
 
     <section xml:id="welcome" xmlns:xi="http://www.w3.org/2001/XInclude">
         <title>Welcome to Money and You!</title>
@@ -88,31 +88,8 @@
                             Everyone is allowed to exist as themselves.  Harassing, dismissive, violent, disrespectful, or discriminatory 
                             rhetoric/behavior is not allowed.  You are allowed to be who you are.  Give that same freedom to others.  It is ok to 
                             disagree.  It is not ok make someone else feel less valuable.  I reserve the right to request students who engage in 
-                            such behavior be removed from the course.  If you feel that something I have said during class does not support your 
+                            such behavior be removed from the course.  If you feel that something I have said in our class space does not support your 
                             right to be yourself, please let me know.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            I will often ask you to talk or work in small groups.  You should contribute to your groups in meaningful ways.  If 
-                            you would prefer to work on a task individually, please feel comfortable to let me know.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            During class, you may think and write in whichever language you choose.  However, please be aware that there are very 
-                            few languages that I can read fluently.  So, please try to write submitted work in English (or something that I can 
-                            read).  Also note that talking in small groups will require you to communicate effectively with each other.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            Class attendance and participation is important for this course.  Please come to our classroom before the time begins 
-                            and plan to stay until the end of the period.  You are welcome to leave the class for short periods of time as 
-                            necessary.  However, arriving to class extremely late or disappearing for long periods of time will be considered as 
-                            an absence.
                         </p>
                     </li>
 
@@ -123,7 +100,7 @@
                             compassionate citizen, and learning how to formulate your own ideas and communicate them effectively.  I am not 
                             opposed to you using AI <em>appropriately</em>.  Here is the general rule for this course: <em>AI should not be 
                             used to generate ideas.</em>  Use it to correct your grammar.  Use it to delve deeper into a topic you want to know 
-                            more about.  Do not ask AI to write out a solution or submission for any assignment.  This includes <q>just using it to 
+                            more about.  Do NOT ask AI to write out a solution or submission for any assignment.  This includes <q>just using it to 
                             check an answer.</q>  Your submitted assignments should be a representation of how you connect with the material.  
                             Using AI inappropriately will be considered a violation of the University's Academic Honesty Policy.  If you have any 
                             questions about appropriate AI use, please let me know. 
@@ -143,7 +120,7 @@
                         <p>
                             I understand that life happens.  Sometimes, unexpected things require us to focus on other things.  I will keep this 
                             in mind regarding attendance and assignment submission.  However, I will expect honest, timely, and open communication.  
-                            If you need to miss a class to attend a major event, let me know ahead of time so we can work something out.  Poor 
+                            If a major event happens that may affect your ability to complete an assessment on time, let me know ahead of time so we can work something out.  Poor 
                             communication or ghosting the course are harder things to be flexible about.
                         </p>
                     </li>
@@ -190,31 +167,6 @@
             </p>
         </subsection>
 
-        <subsection xml:id="subsec-smll-group-conv-why-learn">
-            <title>Small-group conversation: Why do you want to learn financial literacy?</title>
-            <p>
-                I'm assuming you chose to enroll in this course for a reason.  Yes, you earn college credit and tick off one of the 
-                <q>Wellness</q> courses.  But really, why are you here?  Why did you choose this course and why are you interested in personal finance?  
-                If you do not want to learn personal finance and are simply <q>stuck</q> here, why do you not want to learn personal finance?  Talk with 
-                a few people close to you.  
-            </p>
-        </subsection>
-
-        <subsection xml:id="subsec-debrief-1">
-            <title>Debrief</title>
-            <p>
-                What I hope we can see is that <em>why</em> personal finance is needed or interesting differs from person to person.  It 
-                depends on who we are.  People who are very future oriented may want to know about how to best prepare for the future.  
-                People who are spenders may want to see some techniques for making a paycheck stretch further.  People may have heard that 
-                certain concepts are important but don't know much about them.  There are many more potential reasons to be interested in 
-                personal finance.  They're all valid.
-            </p>
-
-            <p>
-                Notice that this means that there is no singular, concrete goal for this course.  We all will appreciate different topics.  
-                What is important is that you understand why <em>you</em> are interested in personal finance, and your reason is a good one.
-            </p>
-        </subsection>
 
         <subsection xml:id="subsec-personality-quiz">
             <title>Activity: Money personality quiz</title>
@@ -1762,23 +1714,23 @@
                 </figure>
             </sidebyside>
 
-            <p>
-                Generally speaking, a <em>bias</em> is a thought, opinion, practice, etc. that is so imbedded in your brain that it 
-                affects your behavior without you realizing it.  A bias is not as simple as <q>I like X better than Y.</q>  They are subtle, 
-                but powerful.  Most people are unaware of their biases until those biases are confronted.  Even then, many people choose 
-                not to accept their own biases.  We will go through some of the most common financial biases.
-            </p>
+                <p>
+                    Generally speaking, a <em>bias</em> is a thought, opinion, practice, etc. that is so imbedded in your brain that it 
+                    affects your behavior without you realizing it.  A bias is not as simple as <q>I like X better than Y.</q>  They are subtle, 
+                    but powerful.  Most people are unaware of their biases until those biases are confronted.  Even then, many people choose 
+                    not to accept their own biases.  We will go through some of the most common financial biases.
+                </p>
 
-            <p>
-                <term>Society Bias.</term>
-                Have you ever thought about needing the latest model of a phone, even though yours still works fine?  Is it the extra 
-                26 minutes of battery life?  Is it the extra 0.4MP resolution on the camera?  No.  It's about status.  Cellular phones and 
-                smartphones have been symbols of status since their creation.  (Seriously, look at who bought the first cellular phones.)  
-                Status symbols can drive many of us to make purchases that stretch our budgets.  Many people buy the largest homes their 
-                budgets can possibly afford when a smaller one would be just as functional.  Many people dine at expensive restaurants 
-                mostly for the opportunity to post a photo of their meal to social media.  Similarly, some people buy the latest smartphones 
-                so that they can have the largest number available.
-            </p>
+                <p>
+                    <term>Society Bias.</term>
+                    Have you ever thought about needing the latest model of a phone, even though yours still works fine?  Is it the extra 
+                    26 minutes of battery life?  Is it the extra 0.4MP resolution on the camera?  No.  It's about status.  Cellular phones and 
+                    smartphones have been symbols of status since their creation.  (Seriously, look at who bought the first cellular phones in the 80's.)  
+                    Status symbols can drive many of us to make purchases that stretch our budgets.  Many people buy the largest homes their 
+                    budgets can possibly afford when a smaller one would be just as functional.  Many people dine at expensive restaurants 
+                    mostly for the opportunity to post a photo of their meal to social media.  Similarly, some people buy the latest smartphones 
+                    so that they can have the largest number available.
+                </p>
 
             <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
@@ -1797,21 +1749,21 @@
 
             <p>
                 Imagine this scenario.  You buy a car that has a value of $25,000.  However, 
-                    the second you sign the paperwork and own the car, the car's value drops to $20,000 because the car now has a 
-                    <q>previous owner</q> and has depreciated.  How does that make you feel?  Are you feeling, <q>Oh, that totally makes sense 
-                    that my car is worth less</q>?  Or are you feeling, <q>That's bull.  If I haven't driven the car, it's still worth what I 
-                    paid for it</q>?  Probably the latter.  The thing with the endowment effect is that it can cause people to hold onto 
-                    items that they really want to sell.  Rather than earning some cash on an item you want to sell, you get no money and 
-                    need to keep owning your item.
+                the second you sign the paperwork and own the car, the car's value drops to $20,000 because the car now has a 
+                <q>previous owner</q> and has depreciated.  How does that make you feel?  Are you feeling, <q>Oh, that totally makes sense 
+                that my car is worth less</q>?  Or are you feeling, <q>That's bull.  If I haven't driven the car, it's still worth what I 
+                paid for it</q>?  Probably the latter.  The thing with the endowment effect is that it can cause people to hold onto 
+                items that they really want to sell.  Rather than earning some cash on an item you want to sell, you get no money and 
+                need to keep owning your item.
             </p>
 
             <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
                     <term>Loss Aversion.</term>
-                One of the workers behind the endowment affect is loss aversion, but loss aversion is a mental bias all its own.  
-                In general, people prefer to avoid losing money rather than making gains.  Don't believe me?  Think about this scenario.  
-                You can play a game.  You have a 75% chance of winning it.  If you win, you double your life savings.  If you lose, you 
-                lose all your life savings.  Do you play the game?  
+                    One of the workers behind the endowment affect is loss aversion, but loss aversion is a mental bias all its own.  
+                    In general, people prefer to avoid losing money rather than making gains.  Don't believe me?  Think about this scenario.  
+                    You can play a game.  You have a 75% chance of winning it.  If you win, you double your life savings.  If you lose, you 
+                    lose all your life savings.  Do you play the game?  
                 </p>
 
                 <figure>
@@ -1837,7 +1789,7 @@
                     Here is a <em>huge one</em> that is the foundation of a lot of advertising schemes.  
                     (We'll dig in more later as to how.)  Anchoring bias is now closely tied to the idea of a <q>sale</q> or <q>deal.</q>  
                     Seeing a product being offered for a price less than it was originally can make us want to buy that product, 
-                    regardless of whether it worth that much.   
+                    regardless of whether it is worth that much.   
                 </p>
 
                 <figure>
@@ -1849,9 +1801,17 @@
             <p>
                 Do you notice that <q>sale</q> tags <em>always</em> tell you the price 
                 before the sale.  It's to trigger your anchoring bias.  There is a lot to discuss regarding manipulation and anchoring, 
-                but that will come in a later week.  For now, be aware that this bias exists.  When making decisions on what to buy, 
+                but that will come in a later unit.  For now, be aware that this bias exists.  When making decisions on what to buy, 
                 do not concentrate on what was.  Concentrate on what is.  It doesn't matter that the pack of Oreos is usually 
                 $4 and is $3 today.  Were you going to buy Oreos anyway?  Is $3 the price you're willing to pay? 
+            </p>
+
+            <p>
+                Now, do not think that buying something that is on sale is anchoring bias and should be avoided.  
+                That certainly isn't the case, and shopping sales can help with staying on a budget.
+                Anchoring bias is wanted to buy something simply because it is marked on sale.
+                If you regularly buy yarn because you are an avid knitter and wait until yarn is on sale to buy it is an example of better control of money.
+                When you're out shopping for a new belt and see shirts are marked on sale and decide to now buy some shirts, that is likely anchoring bias influencing you.
             </p>
 
             <p>
@@ -1892,10 +1852,10 @@
 
             <p>
                 This is likely because that main pain has made 
-                    me unconsciously decide to get the surgery, and I am looking for confirmation of that opinion.  Confirmation bias 
-                    pops up constantly when making financial decisions.  If you find yourself looking at information and only clicking 
-                    on certain articles, posts, or sites, there is likely confirmation bias at work.  It is important to remain 
-                    objective as you make important decisions and accept all credible information as credible. 
+                me unconsciously decide to get the surgery, and I am looking for confirmation of that opinion.  Confirmation bias 
+                pops up constantly when making financial decisions.  If you find yourself looking at information and only clicking 
+                on certain articles, posts, or sites, there is likely confirmation bias at work.  It is important to remain 
+                objective as you make important decisions and accept all credible information as credible. 
             </p>  
 
             <p>
@@ -2011,7 +1971,7 @@
                 Depending on the size, location, and type of house you may want, the finances involved will vary wildly.  You'll 
                 need a down payment, which can be (maybe possibly) as low as 3.5%, but preferably 20%, of the house's value.  
                 Maybe the kind of home you're interested in will be worth about $300,000 by the time you buy it, and you want a 15% down 
-                payment.  Then your more specific goal is, <q>I want save $45,000 to buy a home.</q>  This goal is specific.
+                payment.  Then your more specific goal is, <q>I want save $45,000 as a down payment to buy a home.</q>  This goal is specific.
             </p>
 
             <p>
@@ -2126,7 +2086,7 @@
                 massive dividends later on.  So, I set the goal of putting aside the maximum allowed amount each year 
                 (then $5,000) into my IRA.  That was my whole goal.  My goal was specific - it was well-defined and gave a particular 
                 dollar amount.  However, it was not timed, achievable, or realistic.  It wasn't timed because I didn't think about how often I would 
-                put money aside or how much.  It wasn't achievable because I was only making $20,000 pre-tax.  If I put $5,000 from my 
+                put money aside or how much.  It wasn't achievable because I was only making $20,000 per year pre-tax.  If I put $5,000 from my 
                 paychecks aside, I would have only had $10,000-$11,000 <em>a year</em> for housing, food, clothing, utilities, etc.  
                 Housing and utilities alone were about $8,000 a year.  (This was lower-middle class Indiana around 2008.)  It wasn't 
                 realistic because I did not have a particular way to save money that I could actually stick to.
@@ -2151,7 +2111,7 @@
                 paychecks for the next five years.</q>  That I could have managed.  It wasn't my first choice of a goal, but it would 
                 have been a STAR goal.  I could have gotten into a routine of saving that $100 from each check.  That would have 
                 been $12,000-$13,000 saved by the time I graduated.  It doesn't sound like much of a difference from $4,000 in the grand 
-                scheme of retiring, but believe me that it does make a huge difference.  (We'll explore why in later weeks.)
+                scheme of retiring, but believe me that it does make a huge difference.  (We'll explore why in later units.)
             </p>
 
             <p>
@@ -2185,12 +2145,12 @@
                 </p>
 
                 <p>
-                    At its most fundamental, financial literacy is about understand financial decisions with your current and predicable financial situation.
+                    At its most fundamental, financial literacy is about understanding financial decisions with your current and predicable financial situation.
                     It isn’t really about sudden expansions in your income stream.
                     Here is the thing about avenues in which some people have obtained vast wealth quickly: For every person who has achieved wealth in a particular way, there are thousands who have tried and failed, often due to luck.
                     Perhaps someone gambled heavily on a volatile stock and won.
                     There are tens of thousands who have tried a similar gamble and lost.
-                    For every Internet personality who has gone viral, there are tens of thousands with equal or greater talent who have not gone viral.
+                    For every Internet personality who has gone viral, there are tens of thousands with equal or greater talents who have not gone viral.
                     This is all related to something called “survivorship bias.”
                 </p>
             </li>
@@ -2232,7 +2192,7 @@
     </section>
 
     <section xml:id="subsec-homework-1">
-        <title>Homework for Week 1</title>
+        <title>Homework for Unit 1</title>
         <p>
             <ol>
                 <li>
@@ -2318,8 +2278,8 @@
 
                 <li>
                     <p>
-                        We targeted three learning objectives this week: life-long learning, metacognitive reflection, and social-emotional 
-                        skills.  For each of the learning goals, write a few sentences as to how this week's material has helped you progress 
+                        We targeted three learning objectives in this unit: life-long learning, metacognitive reflection, and social-emotional 
+                        skills.  For each of the learning goals, write a few sentences as to how this unit's material has helped you progress 
                         toward meeting those learning objectives.  The three learning goal descriptions are as follows:
                     </p>
 

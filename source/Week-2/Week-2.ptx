@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="week-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Week 2: Budgeting</title>
+    <title>Unit 2: Budgeting</title>
     <p>
-        Welcome to our second week of Money and You!  In this week, we will explore budgets.  A budget is simply a plan for how you will 
+        Welcome to our second unit of Money and You!  In this unit, we will explore budgets.  A budget is simply a plan for how you will 
         spend your money over a certain time period. 
     </p>
 
@@ -29,7 +29,7 @@
         <p>
             And it's really easy to overspend.  Don't have enough in your bank account for that manicure?  Credit card.  Need a flashier 
             car?  Payment plan.  Need a bit of spending cash for the holidays?  Cash advance.  (These are not advice for these scenarios.  
-            Please don't do them.  They're just examples of how easier it is the spend money you don't have.)  A budget can be a tool that 
+            Please don't do them.  They're just examples of how easy it is the spend money you don't have.)  A budget can be a tool that 
             can help teach you discipline and fiscal responsibility.  A budget is essentially the backbone or core of financial well-being.  
             It is the foundation upon which other financial skills will be built.
         </p>
@@ -111,7 +111,7 @@
                 the thing automatically a necessity.</em>
             </p>
             <p>
-                Here some examples of things I've heard from people in my life this particular week (at the time I wrote this section):
+                Here some examples of things I've heard from people in my life very recently (at the time I wrote this section):
             </p>
             <sidebyside widths="50% 40%" margins="0% 0%" valign="middle">
                 <p>
@@ -231,9 +231,8 @@
         <subsection xml:id="subsec-debrief-classify">
             <title>Debrief</title>
             <p>
-                We're some of these tricky?  I hope so.  If fact, you may have come up with different answers as others.  Some may even 
-                depend on the context you imagine.  Here are my answers, in order: savings, want, need, want, want, savings, want, need, 
-                need, want, want, need.
+                Were some of these tricky?  I hope so.  In fact, you may have come up with different answers as others.  Some may even 
+                depend on the context you imagine.  
             </p>
         </subsection>
 
@@ -251,12 +250,13 @@
                         <p>
                             First, determine how much money you make in a month.
                             (You can also do it by week or by paycheck.
-                            However, since bills are usually paid monthly, it is best to budget monthly.) Your paycheck will likely be the biggest source of income, but there may be other sources.
+                            However, since bills are usually paid monthly, it is best to budget monthly.) 
+                            Your paycheck will likely be the biggest source of income, but there may be other sources.
                             Any money that you take in counts.
                             Make sure to only count what you actually get (the “net” amount).
                             For example, if you work a job for 40 hours a week at $21 per hour, your weekly pay is <m>40 \times 21 = $840</m>.
                             However, that is not what you actually get because of taxes.
-                            To simplify things, if you have an annual salary, take that amount and divide by 12 your monthly pay.
+                            To simplify things, if you have an annual salary, take that amount and divide by 12 and then multiply by 0.7 to get your monthly net pay.
                             If you are paid bi-weekly, multiply your paychecks by 2 to get your monthly amount.
                             For weekly paychecks, multiply by 4.
                             If your paychecks vary from check to check, do your best to come up with a monthly average.
@@ -270,7 +270,7 @@
                             So, take your monthly income and multiply by 0.5.
                             For wants, take your income and multiply by 0.3.
                             For savings, take your income and multiply by 0.2.
-                            For example, suppose your monthly income is $3,400.
+                            For example, suppose your monthly take-home income is $3,400.
                             Then you can have <m>3,400 \times 0.5 = \$1,700</m> devoted to needs, <m>3,400 \times 0.3 = \$1,020</m> devoted to 
                             wants, and <m>3,400 \times 0.2 = \$680</m> put into savings.
                         </p>
@@ -346,7 +346,7 @@
 
             <p>
                 Under the 80-20 budget plan, you should still classify spending as needs, wants, and savings.
-                it is important for your brain to see that certain spending behaviors are non-essential.
+                It is important for your brain to see that certain spending behaviors are non-essential.
             </p>
         </subsection>
 
@@ -360,8 +360,9 @@
 
                 <p>
                     One of the most classic budgeting methods is the envelope system.
-                    On social media, this is now often called “cash stuffing.” Traditionally, the envelope system requires you to take your entire paycheck in physical cash and allocate that cash into different envelopes for different spending activities.
-                    You could have a “rent” envelope, a “student loan” envelope, a “groceries” envelope, a “Dunkin”’ envelope, a “savings” envelope, etc.
+                    On social media, this is now often called “cash stuffing.” 
+                    Traditionally, the envelope system requires you to take your entire paycheck in physical cash and allocate that cash into different envelopes for different spending activities.
+                    You could have a “rent” envelope, a “student loan” envelope, a “groceries” envelope, a “Dunkin'” envelope, a “savings” envelope, etc.
                 </p>
             </sidebyside>
 
@@ -388,7 +389,7 @@
                 </p>
 
                 <p>
-                    There are some apps available that can help set up a digital “envelope system.” We’ll discuss budgeting apps later in this week’s material.
+                    There are some apps available that can help set up a digital “envelope system.” We’ll discuss budgeting apps later in this unit’s material.
                 </p>
 
         </subsection>
@@ -413,15 +414,16 @@
 
             <p>
                 The benefit of the zero-based budget is for you to meticulously track your spending.  No dollar goes unaccounted.  
-                Many people find it helpful in recognizing over-spending habits and starting to save more.
+                Many people find it helpful in recognizing over-spending habits and starting to save more.  
+                Many businesses have adopted this method on a larger scale to help identify wasteful spending.
             </p>
 
             <p>
                 The zero-based budget requires a lot of work and dedication.  Have you ever tried tracking calories for even just a week?  
                 It's hard and tedious.  It's the same thing here.  Every dollar you spend needs to be recorded and tracked.  
                 Many people are unable to keep up with the recording, which makes this budget useless.  
-                Also, some users of this budget method do not increase their savings amounts and instead simple spend their entire paychecks.  
-                Ultimately, it is not really a beginner-friendly approach to budgeting unless you have the disciple to stick to it.
+                Also, some users of this budget method do not increase their savings amounts and instead simply spend their entire paychecks.  
+                Ultimately, it is not really a beginner-friendly approach to budgeting unless you have the discipline to stick to it.
             </p>
         </subsection>
     </section>
@@ -456,7 +458,7 @@
                     The easiest thing to do is cut back on some of these items that are not essential.
                     Yes, it is uncomfortable saying goodbye to things you get enjoyment from, but it may be necessary.
                     Or perhaps simply altering the want can reduce expenses.
-                    For example, going to Chipotle rather than ordering Door Dash will lower that expense.
+                    For example, going to Chipotle physically rather than ordering Door Dash will lower that expense.
                     Part of the reason for categorizing things as wants is for you to physically see those things as non-necessities.
                     It can help you make the right, tough decisions.
                 </p>
@@ -486,7 +488,7 @@
 
                 <p>
                     -If you find yourself over-spending on wants and under-saving, I highly recommend setting up automatic deposits or transfers into a long-term savings account that is separate from your spending/checking account.
-                    This effective forces you to put part of your paycheck aside for savings and giving you a smaller amount to spend each month.
+                    This effectively forces you to put part of your paycheck aside for savings and giving you a smaller amount to spend each month.
                 </p>
         </subsection>
 
@@ -513,8 +515,8 @@
                 Here is the real evil about these places.
                 People go to these places because they’re broke and need cash to pay bills immediately.
                 Sacrificing a solid chunk of your paycheck often isn’t really manageable.
-                For example, if you are unable to pay bills with your $1,000 biweekly checks, then how could you do it by giving a pay-day loan place $100 on top of your bills.
-                Many people are able to payback their short-term loan with their paychecks.
+                For example, if you are unable to pay bills with your $1,000 biweekly checks, then how could you do it by giving a pay-day loan place $100 on top of your bills?
+                Many people are unable to payback their short-term loan with their paychecks.
                 When this happens, they owe a pay-day loan company money under an extraordinarily-high interest rate that grows exponentially.
                 What you owe becomes completely unmanageable within just a few weeks.
                 Never take out a short-term cash loan (either from a pay-day loan place or a cash-advance on your credit card).
@@ -527,7 +529,7 @@
             <p>
                 -Gambling and lottery.
                 Just don’t gamble.
-                We’ll discuss the psychology of gambling in a later week, but for now, just acknowledge that gambling is not a valid way to get cash you need to pay bills.
+                We’ll discuss the psychology of gambling in a later unit, but for now, just acknowledge that gambling is not a valid way to get cash you need to pay bills.
                 You’ll just make your situation worse.
             </p>
         </subsection>
@@ -535,7 +537,7 @@
         <subsection xml:id="subsec-risky-ways">
             <title>Some Potentially-Risky Ways to Get Relief from Bills</title>
             <p>
-                When you need to pay for needs immediately, there are some methods some people turn to.  
+                When you need to pay for needs immediately, there are some methods or some people turn to.  
                 However, these methods can be tricky to navigate and may not be worth it.
             </p>
 
@@ -545,7 +547,8 @@
                     Never loan money to a friend or family unless you are fully prepared never to see that money again.  
                     Money complicates relationships.  On the borrower side, asking for financial help can put stress on a 
                     friendship or relationship.  A personal loan <em>can</em> be a potential source of immediate relief with bills, 
-                    but please reflect deeply on the situation first.  
+                    but please reflect deeply on the situation first.  Think of the person you're asking; you put them in a really tough position
+                    of wanting to help provide support but at the expense of the stress of giving their own money and jeopardizing their relationship with you.
                     It may be better if you look for ways to earn income rather than ask someone for a loan.
                 </p>
 
@@ -558,7 +561,7 @@
             <p>
                 -Debt consolidation.
                 You have likely seen commercials for debt consolidation.
-                These are for companies you essentially take on your various debts by paying them for you in exchange for regular payments from you.
+                These are for companies that essentially take on your various debts by paying them for you in exchange for regular payments from you.
                 Debt consolidation <em>can</em> be an option if you have <em>a lot of high-interest debt</em>.
                 In that case, you are effectively re-financing your debt at a lower rate.
                 The issue is that many of the companies that advertise this service have predatory tactics.
@@ -658,12 +661,12 @@
             <p>
                 First, a little background on business in the US.
                 If you ask your parents or grandparents about how much TV cable subscriptions used to be, you’ll find that the costs of these services has grown far more than any other cost in the US, including housing.
-                Most of this rise in cost in nothing but pure profit to the companies.
+                Most of this rise in cost is nothing but pure profit to the companies.
                 Have you ever wondered why Time-Warner and Comcost <alert>never</alert> provide service in the same area.
                 (If you live in an area service by Comcast, have you even heard of Time-Warner? Or vice-versa?) That is because they have a back-door agreement not to compete with each other.
                 By not competing, they do not need to compete for your business by offering competitive prices.
                 If you’re thinking that this is a monopoly and shouldn’t be allowed, you’re half right.
-                It’s called an “oligopoly,” which is perfectly legal in the US and forms the foundation of many industries like cable, phone providers, airlines, baby formula, and music.
+                It’s called an “oligopoly,” which is really just a monopoly that is perfectly legal in the US and forms the foundation of many industries like cable, phone providers, airlines, baby formula, and music.
                 It’s all rather depressing.
                 However, it means that for services like these, companies <em>can</em> offer you their services for much cheaper and still make a hefty profit.
             </p>
@@ -673,12 +676,12 @@
                 If a company is willing to offer you a product of service at a certain price for a month or year, they can do so again for the next month/year.
                 (Free-trials are not included.) If your cable company offers you an “introductory rate” for a year, they will be willing to offer it again the next year.
                 Yes, there are exceptions, but it is a good rule to live by.
-                A company would rather make some profit off of your rather than no profit.
+                A company would rather make some profit off of you rather than no profit.
             </p>
 
             <p>
                 Here is how you do it.
-                Simple call or text with a customer service representative and ask to renegotiate your service plan or you will cancel your service.
+                Simply call or text with a customer service representative and ask to renegotiate your service plan or you will cancel your service.
                 Here are some basic tips.
             </p>
 
@@ -705,13 +708,13 @@
             </p>
 
             <p>
-                -Sometimes you can ask to be “treated as a new customer.” That is, ask to have access to introductory rate offered to non-existing customers.
+                -Sometimes you can ask to be “treated as a new customer.” That is, ask to have access to an introductory rate offered to non-existing customers.
             </p>
 
             <p>
                 -You can sometimes negotiate a better interest rate on your credit cards, which lowers how much you need to pay each month on them (if you carry a balance).
                 Keep in mind that this sometimes requires a hard credit check, which will lower your credit score.
-                We’ll talk about credit in a later week.
+                We’ll talk about credit in a later unit.
             </p>
 
             <p>
@@ -830,7 +833,7 @@
                     No.
                     That’s called “tax evasion.” Taxes pay for education, roads, law enforcement, parks, sanitation, etc.
                     Taxes are necessary for maintaining the benefits of living in a country like the US.
-                    There are legitimate ways to reduce what you pay in taxes, which we’ll cover in a later week.
+                    There are legitimate ways to reduce what you pay in taxes, which we’ll cover in a later unit.
                 </p>
             </li>
 
@@ -894,7 +897,7 @@
     </section>
 
     <section xml:id="sec-hw2">
-        <title>Homework for Week 2</title>
+        <title>Homework for Unit 2</title>
        <ol>
             <li>
                 <p>
@@ -953,8 +956,8 @@
 
                 <li>
                         <p>
-                            We targeted two learning objectives this week: life-long learning, metacognitive reflection, accessing welling tools, and social-emotional skills.
-                            For each of the learning goals, write a few sentences as to how this week’s material has helped you progress toward meeting those learning objectives.
+                            We targeted two learning objectives in this unit: life-long learning, metacognitive reflection, accessing welling tools, and social-emotional skills.
+                            For each of the learning goals, write a few sentences as to how this unit’s material has helped you progress toward meeting those learning objectives.
                             The four learning goal descriptions are as follows:
                         </p>
 
