@@ -596,7 +596,7 @@
             </p>
         </subsection>
 
-        <subsection>
+        <subsection xml:id="act-save-groceries">
             <title>Activity: What Are You Going to Do to Save on Groceries?</title>
 
             <p>
@@ -752,25 +752,25 @@
                         <ul>
                             <li>
                                 <p>
-                                    Why do you eat out? (Section 3.2.2)
+                                    Why do you eat out? (<xref ref="subsec-why-eat-out"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    It Costs Money to Save (Section 3.2.7)
+                                    It Costs Money to Save (<xref ref="subec-cost-to-save"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    What are You Going to Do to Save on Groceries? (Section 3.2.10)
+                                    What are You Going to Do to Save on Groceries? (<xref ref="act-save-groceries"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    Lower Your Electric Bill (Section 3.3.3)
+                                    Lower Your Electric Bill (<xref ref="subsec-lower-electricity"/>)
                                 </p>
                             </li>
                         </ul>
@@ -819,6 +819,7 @@
                          Consider the following three products: diapers, window cleaner, and milk.  
                          Research the available prices on these products online for Sam's Club (a wholesale club), Aldi's (an alternative-brand store), and Big Y (a regional supermarket chain).  
                          For each one, which store gives you the best purchase option?  
+                         <em>Make sure to give the best per-unit prices and not just the lowest retail prices.</em>
                     </p>
                 </li>
 
